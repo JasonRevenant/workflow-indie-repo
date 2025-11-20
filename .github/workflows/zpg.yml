@@ -1,4 +1,4 @@
-name: Generate and Commit EPG
+name: Generate and Commit ZPG
 
 # allow manual run and schedule
 on:
