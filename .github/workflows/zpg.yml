@@ -33,7 +33,7 @@ jobs:
 
       - name: Run EPG generation
         run: |
-          python epg.py
+          python crawl.py
         env:
           # optional environment variables can be set here
           PYTHONUNBUFFERED: 1
