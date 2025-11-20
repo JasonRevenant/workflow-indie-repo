@@ -3,7 +3,7 @@ name: Generate and Commit ZPG
 # allow manual run and schedule
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 12,22,3 * * *"  # Runs at 7 AM, 5 PM, and 10 PM EST (in UTC)
   workflow_dispatch:
 
 # Give the workflow permission to write to the repo
