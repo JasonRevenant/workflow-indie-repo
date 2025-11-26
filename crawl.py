@@ -203,6 +203,9 @@ cmt.us
 cmt.ca
 comedycentral.us
 comedycentral.uk
+comet.us
+cozitv.us
+crime+investigation.us
 crunchyroll.us
 ctvcomedy.ca
 ctvdramachannel.ca
@@ -211,6 +214,7 @@ cwgold.us
 dejaview.ca
 discoverycanada.ca
 discoverychannel.us
+discoverylife.us
 discoveryscience.uk
 discoveryscience.ca
 disneychannel.us
@@ -221,6 +225,7 @@ filmrisefreemovies.us
 filmriseaction.us
 filmriseanime.us
 freeform.us
+freeformwest.us
 fuse.us
 fx.ca
 fxx.us
@@ -235,6 +240,7 @@ dummy-1133394
 investigationdiscovery.us
 ifc.us
 ifc.us
+ion.us
 ifcfilmspicks.us
 indieplex.us
 investigationdiscovery.uk
@@ -255,6 +261,7 @@ nationalgeographic.uk
 nickelodeon.us
 nickelodeon.uk
 hersphere.us
+400000006
 oxygen.us
 peachtreetv.ca
 pop.us
@@ -393,3 +400,4 @@ urls = [
 
 if __name__ == "__main__":
     filter_and_build_epg(urls)
+
