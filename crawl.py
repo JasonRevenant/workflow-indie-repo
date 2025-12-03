@@ -399,11 +399,12 @@ urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
-    "https://github.com/mitthu786/tvepg/blob/main/jiotv/epg.xml.gz",
+    "https://github.com/mitthu786/tvepg/raw/refs/heads/main/jiotv/epg.xml.gz",
 ]
 
 if __name__ == "__main__":
     filter_and_build_epg(urls)
+
 
 
 
