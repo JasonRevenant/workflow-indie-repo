@@ -65,6 +65,7 @@ COLORS.HD.uk
 Colors.uk
 Colors.uk
 Animax.in
+2258
 50centaction.us
 actionmax.us
 amazonmovies.us
@@ -214,6 +215,7 @@ cwgold.us
 dejaview.ca
 discoverycanada.ca
 discoverychannel.us
+discovery.uk
 discoverylife.us
 discoveryscience.uk
 discoveryscience.ca
@@ -397,9 +399,11 @@ urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
+    "https://github.com/mitthu786/tvepg/blob/main/jiotv/epg.xml.gz",
 ]
 
 if __name__ == "__main__":
     filter_and_build_epg(urls)
+
 
 
