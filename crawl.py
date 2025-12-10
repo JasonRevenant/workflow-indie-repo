@@ -47,10 +47,12 @@ ROMEDY.NOW.in
 DISCOVERY.HD.WORLD.in
 Disney Channel HD.in
 HISTORY.TV18.HD.in
+History TV18 HD.in
 NATIONAL.GEOGRAPHIC.HD.in
 National Geographic HD.in
 National Geographic.in
 SONY.SPORTS.TEN.1.HD.in
+SONY SPORTS TEN 1 HD.in
 SONY.SPORTS.TEN.1.in
 Sony.Ten.1.in
 Sony.Ten.1.HD.in
@@ -388,10 +390,10 @@ def filter_and_build_epg(urls):
 urls = [
     #"https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+    "https://www.open-epg.com/files/india1.xml.gz",
     "https://iptv-epg.org/files/epg-in.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
-    "https://iptv-epg.org/files/epg-gb.xml.gz",
-    "https://www.open-epg.com/files/india1.xml.gz",
+    "https://iptv-epg.org/files/epg-gb.xml.gz",    
     "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/gb.xml.gz",
@@ -404,6 +406,7 @@ urls = [
 
 if __name__ == "__main__":
     filter_and_build_epg(urls)
+
 
 
 
