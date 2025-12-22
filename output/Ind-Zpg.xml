@@ -34277,16 +34277,6 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20251111T012206SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20251222060154 +0000" stop="20251222075213 +0000">
-    <title>Hercules in New York</title>
-    <desc>Banished from Mount Olympus, Hercules is sent to Earth where he finds true love and becomes a bodybuilder.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1158123454_0_20250829T063707213Z_133_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20251222075213 +0000" stop="20251222094945 +0000">
-    <title>Mazes and Monsters</title>
-    <desc>Robbie and his three college classmates decide to move their board game into the local legendary cavern.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1093898654_0_20250729T055842011Z_111_imageprocessorclient-tvplus-linear-5db7c6bc99-xrkqv.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20251222094945 +0000" stop="20251222114946 +0000">
     <title>Dead Zone</title>
     <desc>A man awakens from a coma to discover he has a psychic ability to foresee future events.</desc>
@@ -34297,15 +34287,15 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <desc>Banished from Mount Olympus, Hercules is sent to Earth where he finds true love and becomes a bodybuilder.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1158123454_0_20250829T063707213Z_133_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20251222065047 +0000" stop="20251222083508 +0000">
-    <title>A Summer to Remember</title>
-    <desc>Widowed doctor Jessica vacations in Fiji with her daughter and finds love with resort owner Will.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20251222134005 +0000" stop="20251222153736 +0000">
+    <title>Mazes and Monsters</title>
+    <desc>Robbie and his three college classmates decide to move their board game into the local legendary cavern.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1093898654_0_20250729T055842011Z_111_imageprocessorclient-tvplus-linear-5db7c6bc99-xrkqv.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20251222083508 +0000" stop="20251222101541 +0000">
-    <title>Hearts &amp; Vines</title>
-    <desc>A builder and decorator on a home renovation show end up quarantined during the holidays in the home they are renovating</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485340821_3_20231018T125757201Z_1.jpeg" />
+  <programme channel="GBBA33000557H" start="20251222153736 +0000" stop="20251222173738 +0000">
+    <title>Dead Zone</title>
+    <desc>A man awakens from a coma to discover he has a psychic ability to foresee future events.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485863870_0_20231109T003856283Z_118.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20251222101541 +0000" stop="20251222120517 +0000">
     <title>Til Ex Do Us Part</title>
@@ -34317,32 +34307,20 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <desc>Gina and her daughter move to a new town, but when she is abducted, Gina must save her and trust no one.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20251222135520 +0000" stop="20251222153514 +0000">
+    <title>Pretty Little Stalker</title>
+    <desc>A mother warns her popular son away from a new girlfriend, convinced she is dangerous to both of them.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20251222153514 +0000" stop="20251222172010 +0000">
+    <title>The Missing Sister</title>
+    <desc>When Sharon tracks down her estranged sister she's elated to reunite—until she suspects that it's an impostor.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20251222041400 +0000" stop="20251222060100 +0000">
-    <title>Father of Invention</title>
-    <live />
-    <episode-num system="original-air-date">20251222041400 +0000</episode-num>
-    <desc>Recently released from prison, a former millionaire (Kevin Spacey) must reinvent himself before he can rebuild his infomercial empire.</desc>
-    <icon src="https://images.pluto.tv/series/65b2a1d404045f0013dc91a0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65b2a1d404045f0013dc91a0</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20251222060100 +0000" stop="20251222075200 +0000">
-    <title>Hercules in New York</title>
-    <live />
-    <episode-num system="original-air-date">20251222060100 +0000</episode-num>
-    <desc>Banished Hercules (Arnold Schwarzenegger) catches an escaped bear, cruises Broadway and wrestles professionally.</desc>
-    <icon src="https://images.pluto.tv/series/66451b721123970014ebc697/tile_1755900307352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66451b721123970014ebc697</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20251222075200 +0000" stop="20251222094900 +0000">
     <title>Mazes and Monsters</title>
     <live />
@@ -34351,8 +34329,8 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <icon src="https://images.pluto.tv/series/66600d06c62bc800131f4f7e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66600d06c62bc800131f4f7e</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20251222094900 +0000" stop="20251222114900 +0000">
     <title>The Dead Zone</title>
@@ -34362,8 +34340,8 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <icon src="https://images.pluto.tv/series/6863f1c1655e1e05788f557b/tile_1751380457712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6863f1c1655e1e05788f557b</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20251222114900 +0000" stop="20251222134000 +0000">
     <title>Hercules in New York</title>
@@ -34373,8 +34351,8 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <icon src="https://images.pluto.tv/series/66451b721123970014ebc697/tile_1755900307352.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66451b721123970014ebc697</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20251222134000 +0000" stop="20251222153700 +0000">
     <title>Mazes and Monsters</title>
@@ -34384,8 +34362,8 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <icon src="https://images.pluto.tv/series/66600d06c62bc800131f4f7e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66600d06c62bc800131f4f7e</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20251222153700 +0000" stop="20251222173700 +0000">
     <title>The Dead Zone</title>
@@ -34395,8 +34373,8 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <icon src="https://images.pluto.tv/series/6863f1c1655e1e05788f557b/tile_1751380457712.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6863f1c1655e1e05788f557b</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20251222173700 +0000" stop="20251222191700 +0000">
     <title>The Cabin in the Woods</title>
@@ -34406,8 +34384,8 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <icon src="https://images.pluto.tv/series/667ac68ec3f49b00132e6894/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">667ac68ec3f49b00132e6894</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20251222191700 +0000" stop="20251222210800 +0000">
     <title>Cabin Fever</title>
@@ -34417,8 +34395,8 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <icon src="https://images.pluto.tv/series/68f14f38f1f80c81518f906f/tile_1760657038062.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68f14f38f1f80c81518f906f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20251222210800 +0000" stop="20251222224800 +0000">
     <title>Cabin Fever 2: Spring Fever</title>
@@ -34428,8 +34406,30 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <icon src="https://images.pluto.tv/series/68f14f38f1f80c81518f90df/tile_1760657039591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68f14f38f1f80c81518f90df</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20251222224800 +0000" stop="20251223003700 +0000">
+    <title>The Cabin in the Woods</title>
+    <live />
+    <episode-num system="original-air-date">20251222224800 +0000</episode-num>
+    <desc>Two unseen scientists manipulate the gory goings-on at a backwoods cabin inhabited by a group of unsuspecting college friends (Kristen Connolly, Chris Hemsworth, Anna Hutchison).</desc>
+    <icon src="https://images.pluto.tv/series/667ac68ec3f49b00132e6894/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">667ac68ec3f49b00132e6894</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20251223003700 +0000" stop="20251223022600 +0000">
+    <title>Cabin Fever</title>
+    <live />
+    <episode-num system="original-air-date">20251223003700 +0000</episode-num>
+    <desc>Fresh out of college, five friends (Nadine Crocker, Matthew Daddario, Samuel Davis) face the horrors of a flesh-eating virus while staying at a remote cabin.</desc>
+    <icon src="https://images.pluto.tv/series/68f14f38f1f80c81518f906f/tile_1760657038062.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68f14f38f1f80c81518f906f</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
@@ -34707,41 +34707,6 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <display-name>Anime 24/7</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/aa882b26-2283-430c-8e7f-8468227ad362/anime247_logo_dark_-_Jason_Hwang.png" />
   </channel>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20251222070455 +0000" stop="20251222090238 +0000">
-    <title>Mary J. Blige's Real Love</title>
-    <category>Movie</category>
-    <desc>Mary J. Blige's Real Love follows Kendra at an HBCU in North Carolina.</desc>
-    <date>20230610</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/280945_452216_2_3.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20251222090238 +0000" stop="20251222110000 +0000">
-    <title>Keyshia Cole: This is My Story</title>
-    <category>Movie</category>
-    <desc>Keyshia Cole makes her acting debut, playing herself, in this new biopic.</desc>
-    <date>20230624</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/282578_456108_2_3.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20251222110000 +0000" stop="20251222130547 +0000">
-    <title>A Royal Recipe for Love</title>
-    <category>Movie</category>
-    <desc>Emma, a baker in NYC, is hired to bake for the King and Queen of Sanovia.</desc>
-    <date>20230630</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/298731_504943_2_3.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20251222130547 +0000" stop="20251222150622 +0000">
-    <title>A Match for the Prince</title>
-    <category>Movie</category>
-    <desc>A medieval romance novelist is hired to be a matchmaker for a real-life prince.</desc>
-    <date>20240616</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/298709_504921_2_3.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20251222150622 +0000" stop="20251222170001 +0000">
-    <title>Home for a Royal Heart</title>
-    <category>Movie</category>
-    <desc>A realtor attempts to sell the charm of her coastal hometown to a prince.</desc>
-    <date>20220621</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/298735_504947_2_3.jpg" />
-  </programme>
   <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20251222170001 +0000" stop="20251222190548 +0000">
     <title>A Royal Recipe for Love</title>
     <category>Movie</category>
@@ -34798,133 +34763,12 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <date>20240616</date>
     <icon src="https://d37ntihvjf07l3.cloudfront.net/298709_504921_2_3.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222071258 +0000" stop="20251222074602 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Small Opening</sub-title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <desc>Saffy's play looks set to embarrass Eddy, so she and bubble try to get it cancelled.</desc>
-    <date>20010928</date>
-    <icon src="https://image.tmdb.org/t/p/original/i97QT5CVwKWg1gL6IZbkFLPUC1O.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222074602 +0000" stop="20251222082015 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Menopause</sub-title>
-    <episode-num system="onscreen">S04E06</episode-num>
-    <desc>Eddy's company is losing clients, while Patsy seems to be going through the menopause.</desc>
-    <date>20011005</date>
-    <icon src="https://image.tmdb.org/t/p/original/nNGKoU3yb1dqvt5rVHeO3jGwexr.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222082015 +0000" stop="20251222085340 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Cleanin'</sub-title>
-    <episode-num system="onscreen">S05E01</episode-num>
-    <desc>Saffy arrives home from Iraq and she has some shocking news in store for Eddy.</desc>
-    <date>20031017</date>
-    <icon src="https://image.tmdb.org/t/p/original/cRoelLIxSeL4ny9J0KNBYP8U6Cx.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222085340 +0000" stop="20251222092648 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Book Clubbin'</sub-title>
-    <episode-num system="onscreen">S05E02</episode-num>
-    <desc>Eddy meets with her book club to discuss the merits of a celebrity magazine.</desc>
-    <date>20031017</date>
-    <icon src="https://image.tmdb.org/t/p/original/lvPwo1X6rt9QU1WG9m6WOj8fRzp.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222092648 +0000" stop="20251222100222 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Huntin' Shootin' Fishin'</sub-title>
-    <episode-num system="onscreen">S05E04</episode-num>
-    <desc>Eddy has splashed out on a weekend of country pursuits with Patsy.</desc>
-    <date>20031031</date>
-    <icon src="https://image.tmdb.org/t/p/original/tPRXF7HsvIhEiHNlFLPC2mZDBO9.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222100222 +0000" stop="20251222103519 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Panickin'</sub-title>
-    <episode-num system="onscreen">S05E03</episode-num>
-    <desc>Patsy persuades Minnie Driver to visit Eddy's for a personal styling session.</desc>
-    <date>20031024</date>
-    <icon src="https://image.tmdb.org/t/p/original/qiHFDMWeSAX2F16AKXE1xlJLdAw.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222103519 +0000" stop="20251222110806 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Birthin'</sub-title>
-    <episode-num system="onscreen">S05E05</episode-num>
-    <desc>It's a big night for Patsy. She's about to host the Style Awards at the Royal Albert Hall.</desc>
-    <date>20031107</date>
-    <icon src="https://image.tmdb.org/t/p/original/8hIWmveTvpte3eQBoRht9ZJ8QqH.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222110806 +0000" stop="20251222115003 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Cold Turkey</sub-title>
-    <episode-num system="onscreen">S05E08</episode-num>
-    <desc>Eddy wants to stay at home for Christmas this year, while Patsy is in a downward spiral.</desc>
-    <date>20031224</date>
-    <icon src="https://image.tmdb.org/t/p/original/moxMXQkz96iT69UHjaietLmbp5X.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222115003 +0000" stop="20251222122333 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Identity</sub-title>
-    <episode-num system="onscreen">S99E01</episode-num>
-    <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
-    <date>20111225</date>
-    <icon src="https://image.tmdb.org/t/p/original/irhUoYxFmxivc02wP1usq048ZLH.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222122333 +0000" stop="20251222125635 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Job</sub-title>
-    <episode-num system="onscreen">S99E02</episode-num>
-    <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
-    <date>20120101</date>
-    <icon src="https://image.tmdb.org/t/p/original/nqYwU4pJAIE45VJ1aNDumTCrens.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222125635 +0000" stop="20251222140126 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>Gay</sub-title>
-    <episode-num system="onscreen">S99E01</episode-num>
-    <desc>Edina goes to New York to find her long-lost son, while Patsy goes to cover fashion week.</desc>
-    <date>20021227</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/BBCS_AbsolutelyFabulous_S001_SCID-30482_BoxArtWide_LANG-English_16q90adf9q.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222140126 +0000" stop="20251222145114 +0000">
-    <title>Absolutely Fabulous</title>
-    <sub-title>White Box</sub-title>
-    <episode-num system="onscreen">S99E01</episode-num>
-    <desc>Edina suffers a redecorating crisis that even Bettina and Max can't cure.</desc>
-    <date>20041225</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/BBCS_AbsolutelyFabulous_S001_SCID-30484_BoxArtWide_LANG-English_wi75wb4x7e.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222145114 +0000" stop="20251222152428 +0000">
-    <title>The Office</title>
-    <sub-title>Judgement</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>It's decision day at Wernham Hogg. Will the Slough or Swindon branch get the axe?</desc>
-    <date>20010820</date>
-    <icon src="https://image.tmdb.org/t/p/original/1npmXs8bEupfDV1yWSERt1Lpcm8.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222152428 +0000" stop="20251222155730 +0000">
-    <title>The Office</title>
-    <sub-title>Charity</sub-title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <desc>Neil and Rachel are a hit with their charity dance routine. David responds as only he can.</desc>
-    <date>20021028</date>
-    <icon src="https://image.tmdb.org/t/p/original/csZXkFTIdGubFRdu3IVc1zQaGfX.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222155730 +0000" stop="20251222171026 +0000">
-    <title>Gavin and Stacey Specials</title>
-    <sub-title>Gavin and Stacey: Special: Christmas 2019: A Special Christmas</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>The iconic, multi-award-winning sitcom returns after 10 years for a Christmas special.</desc>
-    <date>20191225</date>
-    <icon src="https://partner-upload-assets.wurl.com/bbc_studios/BBCS_GavinandStacey_S001_SCID-359929_KeyArt_LANG-English_bu8tbn5nuq.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222171026 +0000" stop="20251222174417 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Trojan</sub-title>
-    <episode-num system="onscreen">S10E01</episode-num>
-    <desc>Rimmer receives an SOS Distress Call from his all-conquering brother, Howard.</desc>
-    <date>20121004</date>
-    <icon src="https://image.tmdb.org/t/p/original/9DkMHjIAihqrybtFYpr93uQXAiv.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20251223090624 +0000" stop="20251223110000 +0000">
+    <title>Home for a Royal Heart</title>
+    <category>Movie</category>
+    <desc>A realtor attempts to sell the charm of her coastal hometown to a prince.</desc>
+    <date>20220621</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/298735_504947_2_3.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251222174417 +0000" stop="20251222181815 +0000">
     <title>Red Dwarf</title>
@@ -35126,197 +34970,45 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <date>19950504</date>
     <icon src="https://image.tmdb.org/t/p/original/cYYC2DS72dFkS3yegzrYRnDyxno.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222065400 +0000" stop="20251222072200 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>The Fact That You're Watching This Video...</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Masayuki releases zombies; Lain devises a plan to see Yogiri's powers.</desc>
-    <date>20240126</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/fdd5ef5eee239710248ef2587037528e.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251223074934 +0000" stop="20251223082231 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>The End</sub-title>
+    <episode-num system="onscreen">S03E06</episode-num>
+    <desc>Edina heads to a retreat to find herself, while Patsy goes to work in New York.</desc>
+    <date>19950511</date>
+    <icon src="https://image.tmdb.org/t/p/original/Agh0M6G9N7sKwEfqWYtz6cBFlQg.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222072200 +0000" stop="20251222075000 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>Alpha Omega</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>Yogiri and friends depart the royal capital; dragons block the way.</desc>
-    <date>20240202</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2a4c0da4d69cb492becb30f1a5e793dc.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251223082231 +0000" stop="20251223085936 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Parralox</sub-title>
+    <episode-num system="onscreen">S04E01</episode-num>
+    <desc>Patsy has had injections to freeze her wrinkles, and Edina has a TV appearance scheduled.</desc>
+    <date>20010831</date>
+    <icon src="https://image.tmdb.org/t/p/original/n2JRbT2HbO4D0TTWeEtuZahTwI8.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222075000 +0000" stop="20251222081800 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>I'm Not So Rude as to Complain After Being Saved</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Yogiri and Tomochika are caught up in a trial; strange things are happening to Mokomoko.</desc>
-    <date>20240209</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b357b34dfe098d6d78fb21bb847137d2.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251223085936 +0000" stop="20251223093526 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Fish Farm</sub-title>
+    <episode-num system="onscreen">S04E02</episode-num>
+    <desc>Eddy tries to charm Jago, the landscape gardener brother of a well known aristocrat.</desc>
+    <date>20010907</date>
+    <icon src="https://image.tmdb.org/t/p/original/eQX7joQzKaVeeeKYiqFvwEMUom0.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222081800 +0000" stop="20251222084600 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>Standard Opening of Gate Number One Confirmed</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>The gang heads to the basement of the Tower of Trials where Theodisia's brethren are held captive.</desc>
-    <date>20240216</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/cf6d827a59454da369e9182cd3af7bf0.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251223093526 +0000" stop="20251223100828 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Paris</sub-title>
+    <episode-num system="onscreen">S04E03</episode-num>
+    <desc>Patsy and Edina travel to Paris for a photo-shoot in which old and young mingle.</desc>
+    <date>20010914</date>
+    <icon src="https://image.tmdb.org/t/p/original/2mS0NEmWuRO6W6mN7057E64rCcU.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222084600 +0000" stop="20251222091400 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>The Agency</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Asaka can't stop Yogiri from being kidnapped and held hostage.</desc>
-    <date>20240223</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/85efaa4d2961b6b34122ecc4adc59e20.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222091400 +0000" stop="20251222094200 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>It's Like a Class Full of People Who Only Want to Save Themselves</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Yogiri and Tomochika arrive at the capital and must take on the king's command.</desc>
-    <date>20240301</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0c056338f05e7be3da85f14db0b7e991.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222094200 +0000" stop="20251222101000 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>A Woman From the Past Appeared. Tomochika Is Shocked to Her Core...</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Yogiri senses murderous intent of someone different.</desc>
-    <date>20240308</date>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/aba4e0d505e04b102d83307846c9c238.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222101000 +0000" stop="20251222103800 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>Phase 2</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Sion orders sage candidates to kill each other until only one is left.</desc>
-    <date>20240315</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/09661592b388b8e574ce216aa6ad7642.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222103800 +0000" stop="20251222110600 +0000">
-    <title>My Instant Death Ability Is So Overpowered, No One In This Other World Stands A Chance Against Me!</title>
-    <sub-title>You Can Use Your Power Any Way You Want</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Shinozaki uses the last of her strength to attack her classmates; Yogiri and the others lure Sion and try to figure out how to return to their world.</desc>
-    <date>20240322</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/708809e889aeab817da3072c3c0ea23f.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222110600 +0000" stop="20251222113300 +0000">
-    <title>Helck</title>
-    <sub-title>Helck the Hero</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>The Demon Lord is defeated by a human hero; to find his replacement, the demonkin hold a competition; Helck, a human and mortal enemy, is among the participants.</desc>
-    <date>20230712</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6f7abc0a1eb9adac34a3488843caab30.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222113300 +0000" stop="20251222120000 +0000">
-    <title>Helck</title>
-    <sub-title>Anne From Management</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Helck continues to rack up victories as a fan favorite of the crowd; he then proceeds on to the semifinals race.</desc>
-    <date>20230719</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c1babf72034c200169e2089a38e7a078.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222120000 +0000" stop="20251222122700 +0000">
-    <title>Helck</title>
-    <sub-title>The Unknown Enemy</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Helck displays mind-blowing strength and leaves Vermilio concerned about the threat he poses.</desc>
-    <date>20230726</date>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/79d939fa42423733143d6b2979e3ff6d.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222122700 +0000" stop="20251222125400 +0000">
-    <title>Helck</title>
-    <sub-title>Shock</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>After Helck blocks an attack meant for Edil, Vermilio is convinced that he is an enemy; the floor gives away and everyone falls into a dark underground room.</desc>
-    <date>20230802</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/30e94403039f937f84c718e0534e6d64.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222125400 +0000" stop="20251222132100 +0000">
-    <title>Helck</title>
-    <sub-title>The Remote Island Village</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>The mysterious power of the gate sends Vermilio and Helck to an unknown remote island; Vermilio travels deeper into the island and comes across a fluffy creature.</desc>
-    <date>20230809</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c40bfb738d813768eb12fca360c01243.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222132100 +0000" stop="20251222134800 +0000">
-    <title>Helck</title>
-    <sub-title>Invasion</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>Vermilio poses a question to Helck; the others at Castle Urum are fighting an overwhelming number of winged knights.</desc>
-    <date>20230816</date>
-    <icon src="https://metadata-static.plex.tv/c/gracenote/c9e734198f5e19ae639d418705cc8eab.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222134800 +0000" stop="20251222141500 +0000">
-    <title>Helck</title>
-    <sub-title>The Human King</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Hyura and the others escape Castle Urum, but soon find themselves surrounded again; Azudra arrives to subdue the winged knights; Azudra begins plotting.</desc>
-    <date>20230823</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/8c077405d66db790c0511f94debfc3a3.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222141500 +0000" stop="20251222144200 +0000">
-    <title>Helck</title>
-    <sub-title>Back to the Continent</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>Azudra determines the winged knights are a major threat; Helck and Vermilio take it easy.</desc>
-    <date>20230830</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/92cace2f6996fb0441db417476be8f0c.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222144200 +0000" stop="20251222150900 +0000">
-    <title>Helck</title>
-    <sub-title>Barbarians Of The Tothman Tribe</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>Helck and Vermilio bid farewell to the mysterious island and its residents as they sail away with a stowaway Piwi aboard; they run into a massive whirlpool.</desc>
-    <date>20230906</date>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0a4f0edca537e5f0e569a1f82ebff8f7.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222150900 +0000" stop="20251222153600 +0000">
-    <title>Helck</title>
-    <sub-title>In Pursuit Of A Map</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Helck and company end up in the Erille Kingdom where they must fight the barbarians of the Tothman Tribe; the Tothman King goes berserk after tapping into a mysterious power.</desc>
-    <date>20230913</date>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/57d406ed596cbf40a31e2f82e9cbc6d6.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222153600 +0000" stop="20251222160300 +0000">
-    <title>Helck</title>
-    <sub-title>The Troubadour's Song</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>Helck and company use their winnings from the cooking competition to buy a map leading to the Empire; they make plans to go northwest into the ruins of two destroyed kingdoms.</desc>
-    <date>20230920</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/30637858465b01067eb5bacfbbbde3f6.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222160300 +0000" stop="20251222163000 +0000">
-    <title>Helck</title>
-    <sub-title>The Spirit of Faith</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>Vermilio is frightened by Helck's power as he goes berserk during his battle with Augis; it makes her recall the words of the Great Witch who warned her about Helck.</desc>
-    <date>20230927</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/32ebc3399bd41bbd68ea55f0104b9337.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222163000 +0000" stop="20251222165700 +0000">
-    <title>Helck</title>
-    <sub-title>With Younger Brother in Tow</sub-title>
-    <episode-num system="onscreen">S01E13</episode-num>
-    <desc>Helck and his younger brother Cless lose both of their parents at a young age; Cless gets very sick and Helck begs for someone to save him.</desc>
-    <date>20231004</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f4a84eda5b996227905caba284c4a86f.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222165700 +0000" stop="20251222172400 +0000">
-    <title>Helck</title>
-    <sub-title>The Mercenaries</sub-title>
-    <episode-num system="onscreen">S01E14</episode-num>
-    <desc>Monsters begin to appear in greater numbers after Cless departs on his expedition; the kingdom enacts a military draft to combat them.</desc>
-    <date>20231011</date>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/97e91ea47bf7334be856618d1f335b9d.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222172400 +0000" stop="20251222175100 +0000">
-    <title>Helck</title>
-    <sub-title>The Power of Heroes</sub-title>
-    <episode-num system="onscreen">S01E15</episode-num>
-    <desc>Helck arrives at the Demon Lord's castle and senses a powerful presence; it turns out to be Azudra of the Four Elite Lords, who makes a plea for peace.</desc>
-    <date>20231018</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/22095bb8574281aaaf276f0714964726.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20251223100828 +0000" stop="20251223104110 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Donkey</sub-title>
+    <episode-num system="onscreen">S04E04</episode-num>
+    <desc>Edina embarks on a detox diet, whilst Patsy tries life without a fringe.</desc>
+    <date>20010921</date>
+    <icon src="https://image.tmdb.org/t/p/original/5wOr39P16583KrrvCV5f6uL1EQC.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251222175100 +0000" stop="20251222181800 +0000">
     <title>Helck</title>
@@ -35531,192 +35223,49 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <desc>Having gotten a sprained ankle while on his trip to the beach, Yumeji gets it taken care of at a clinic, which happens to be owned by Yui's family. In the meantime, Isana thinks about what to do after high school.</desc>
     <date>20110225</date>
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222070838 +0000" stop="20251222073619 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP24 Rats to You [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <desc>The great thief Rat Boy Jirokichi IV appears before Goemon and reveals that their ancestors competed in the first International Thieves Championship together, but were defeated by Lupin's grandfather, Arsène Lupin. Jirokichi proposes the two should team up to avenge their ancestors' dishonour, but will the Lupin clan claim the win again?</desc>
-    <date>19780320</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251223074200 +0000" stop="20251223081200 +0000">
+    <title>Dream Eater Merry</title>
+    <sub-title>Disturbed Dreams</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Isana enters a daydream; Chizuru confronts the guidance counselor.</desc>
+    <date>20110304</date>
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222073619 +0000" stop="20251222080400 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP25 Lair of the Land-Shark [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <desc>The warden of an African prison is holding Fujiko captive. Lupin and his gang infiltrate the prison and attempt to break Fujiko out, but they become the target of the Iron Lizards, robotic devices developed to chase down fugitives and loaded with explosives! With the Iron Lizards hot on their tail, will their prison break end with a bang?</desc>
-    <date>19780327</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251223081200 +0000" stop="20251223084200 +0000">
+    <title>Dream Eater Merry</title>
+    <sub-title>Not Waking From a Dream</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Yumeji becomes frustrated about Isana's situation; Chizuru becomes conflicted between her desire to protect Isana and her duties towards her dream demon, Leon.</desc>
+    <date>20110311</date>
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222080400 +0000" stop="20251222082821 +0000">
-    <title>Sonic X</title>
-    <sub-title>EP21 Fast Friends</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>Sam Speed challenges Sonic to a race on his new racing car. After much plodding, Sonic accepts the challenge but Eggman decides to interrupt the whole ordeal with his newly invented robot "Sumo-Man".</desc>
-    <date>20040221</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251223084200 +0000" stop="20251223091200 +0000">
+    <title>Dream Eater Merry</title>
+    <sub-title>Protectors of Dreams</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>Yumeji and Merry take Isana to Yui and Engi so they can meet her dream demon, Pallette.</desc>
+    <date>20110325</date>
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222082821 +0000" stop="20251222085242 +0000">
-    <title>Sonic X</title>
-    <sub-title>EP22 Little Chao Lost</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>Sonic and his friends are at a camp site where they discover a Chao colony. Meanwhile, Dr. Eggman is also hiking nearby and decides to launch an attack when he encounters Sonic.</desc>
-    <date>20040228</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251223091200 +0000" stop="20251223094200 +0000">
+    <title>Dream Eater Merry</title>
+    <sub-title>Nightmare</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Chizuru brings everyone into her daydream to meet Lestion, who explains how to hurt Mystletainn.</desc>
+    <date>20110401</date>
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222085242 +0000" stop="20251222091703 +0000">
-    <title>Sonic X</title>
-    <sub-title>EP23 Emerald Anniversary</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Chris' father Nelson purchases a ring made from a Chaos Emerald for his wife Lindsey. Being made aware of its presence, Dr. Eggman attempts to snatch the emerald away from them.</desc>
-    <date>20040306</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251223094200 +0000" stop="20251223101100 +0000">
+    <title>Dream Eater Merry</title>
+    <sub-title>Dream Again</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>The time for the final battle against Mistltein has arrived; Isana must be saved.</desc>
+    <date>20110408</date>
+    <icon src="https://metadata-static.plex.tv/0/gracenote/06099b0e1342f23dcf4802e71e42c8e5.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222091703 +0000" stop="20251222094125 +0000">
-    <title>Sonic X</title>
-    <sub-title>EP24 How to Catch a Hedgehog</sub-title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <desc>After an encounter with Dr. Eggman, Sonic finds himself unable to stop running. Chris and his grandfather Chuck soon discover that Eggman's E-88 is behind Sonic's problem.</desc>
-    <date>20040313</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222094125 +0000" stop="20251222100551 +0000">
-    <title>Sonic X</title>
-    <sub-title>EP25 A Dastardly Deed</sub-title>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <desc>Chris finds himself depressed at the prospect of his friends returning to their home world despite knowing that it is what's best for them. Meanwhile, Knuckles attempts to orchestrate a truce between Sonic and Eggman so that they can all return home.</desc>
-    <date>20040320</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222100551 +0000" stop="20251222103332 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP21 The Last Mastery [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E21</episode-num>
-    <desc>While trying to snag General Hatler's prize medallion, which contains a fifty-carat ruby, Lupin inadvertently reels in Hatler's biggest secret, his toupee! An enraged General Hatler orders Lupin and his gang to be killed. With an order out for his head, Lupin and Fujiko are left with nowhere to run! Has Lupin finally met his match?</desc>
-    <date>19780227</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222103332 +0000" stop="20251222110114 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP22 Lupin in Paradise [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E22</episode-num>
-    <desc>Lupin and Jigen are in a remote area pursing a mysterious treasure, when they save a woman being chased by hoodlums. The woman invites the two back to her sister's manor, which is full of beautiful women. However, the invitation and the beautiful women are a trap to expose the men to aging gas. Will an aged Lupin be forced into retirement?</desc>
-    <date>19780306</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222110114 +0000" stop="20251222112856 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP23 Auntie Ballistic [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E23</episode-num>
-    <desc>Fujiko Mine, a mysterious woman who claims to be Fujiko's aunt, gives Lupin an ultimatum: Find Marshal Rommel's lost gold or die! First, Lupin must decipher the location of the gold, written in ancient hieroglyphs. Will Lupin be able to locate the golden treasure? Time is running out!</desc>
-    <date>19780313</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222112856 +0000" stop="20251222115636 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP24 Rats to You [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E24</episode-num>
-    <desc>The great thief Rat Boy Jirokichi IV appears before Goemon and reveals that their ancestors competed in the first International Thieves Championship together, but were defeated by Lupin's grandfather, Arsène Lupin. Jirokichi proposes the two should team up to avenge their ancestors' dishonour, but will the Lupin clan claim the win again?</desc>
-    <date>19780320</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222115636 +0000" stop="20251222122418 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP25 Lair of the Land-Shark [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E25</episode-num>
-    <desc>The warden of an African prison is holding Fujiko captive. Lupin and his gang infiltrate the prison and attempt to break Fujiko out, but they become the target of the Iron Lizards, robotic devices developed to chase down fugitives and loaded with explosives! With the Iron Lizards hot on their tail, will their prison break end with a bang?</desc>
-    <date>19780327</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222122418 +0000" stop="20251222125008 +0000">
-    <title>Terror in Resonance [English Dub]</title>
-    <sub-title>Terror in Resonance E01 [English Dub]</sub-title>
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20251223101100 +0000" stop="20251223103900 +0000">
+    <title>Princess Resurrection</title>
+    <sub-title>Princess Resurrection</sub-title>
     <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Tokyo is suddenly hit by a massive bombing. - Two young men who call themselves “Sphinx” start an epic game involving the whole of Japan.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/terror-in-resonance-landscape_dccd29df.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222125008 +0000" stop="20251222131558 +0000">
-    <title>Terror in Resonance [English Dub]</title>
-    <sub-title>Terror in Resonance E02 [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Tokyo is suddenly hit by a massive bombing. - Two young men who call themselves “Sphinx” start an epic game involving the whole of Japan.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/terror-in-resonance-landscape_dccd29df.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222131558 +0000" stop="20251222134148 +0000">
-    <title>Terror in Resonance [English Dub]</title>
-    <sub-title>Terror in Resonance E03 [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Tokyo is suddenly hit by a massive bombing. - Two young men who call themselves “Sphinx” start an epic game involving the whole of Japan.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/terror-in-resonance-landscape_dccd29df.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222134148 +0000" stop="20251222140746 +0000">
-    <title>INUYASHIKI LAST HERO [English Subtitle]</title>
-    <sub-title>INUYASHIKI LAST HERO E01 [English Subtitle]</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Ichiro Inuyashiki is a boring office worker who looks like an old man. Even after building them a new home, his family is nothing but ungrateful. One day, Inuyashiki is diagnosed with terminal cancer. Out on a walk to clear his head, a UFO crashes into him, and his body is rebuilt into a deadly robot. - He steps in to stop a group of kids from torturing a homeless man when he is knocked unconscious.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/inuyashiki-landscape_94fe292e.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222140746 +0000" stop="20251222143344 +0000">
-    <title>INUYASHIKI LAST HERO [English Subtitle]</title>
-    <sub-title>INUYASHIKI LAST HERO E02 [English Subtitle]</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Reborn a robot, Inuyashiki finds meaning by saving others. - Meanwhile, high school student Hiro Shishigami has also been reborn a robot. Shishigami has no regard for anybody aside from his best friend and his family, and uses his robot powers to kill indiscriminately. - Contrary to Inuyashiki, he feels alive when he is taking the lives of others. - What happens when these two meet?</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/inuyashiki-landscape_94fe292e.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222143344 +0000" stop="20251222145942 +0000">
-    <title>INUYASHIKI LAST HERO [English Subtitle]</title>
-    <sub-title>INUYASHIKI LAST HERO E03 [English Subtitle]</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Shishigami is rattled to see Inuyashiki stand up from a blow that should have killed him before flying away. Seeing that, Inuyashiki knows that Shishigami has a robot body just like himself. After this meeting, Inuyashiki studies his abilities, and uses them to save others. Meanwhile, Shishigami confronts a group of delinquents who have been tormenting his best friend Naoyuki Ando.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/inuyashiki-landscape_94fe292e.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222145942 +0000" stop="20251222152533 +0000">
-    <title>Kabaneri of the Iron Fortress [English Subtitle]</title>
-    <sub-title>Kabaneri of the Iron Fortress E01 [English Subtitle]</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>At a time when the industrial revolution was carrying the world into the modern age, a horde of undead monsters suddenly appeared. They could not be killed unless their hearts, which were protected by a layer of iron, were pierced. Humans bitten by them would come back as undead monsters themselves. These undead, which would later be known as "Kabane," exploded in population until they finally overran the world.  -   - The people of Hinomoto, a nation in the far east, built fortresses known as "stations" throughout the land that have allowed them to survive the threat of the Kabane. People can only travel between these stations using fortified steam locomotives known as "Hayajiro," and they have managed to stay alive by sharing resources in this way.  -   - Ikoma is a young steamsmith living at Aragane Station, a city that specializes in the manufacture of iron and steam engines. He is working on developing a unique anti-Kabane weapon called a "piercing gun" as he waits for his chance to prove his strength.  -   - Then, one day, a Hayajiro called the "Iron Fortress" makes its way through the front lines to arrive at Aragane Station. When Ikoma begins his usual maintenance routine, he sees a mysterious girl who is exempt from her Kabane inspection. That night, Ikoma sees the girl again and learns that her name is Mumei, but then an out-of-control Hayajiro overrun by Kabane charges into Aragane Station. -   - The Kabane pour out of the train into Aragane Station. Ikoma races against the flow of the panicked residents, this time determined not to run away, but to defeat the Kabane with his piercing gun!</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/kabaneri-landscape_45a55361.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222152533 +0000" stop="20251222155123 +0000">
-    <title>Kabaneri of the Iron Fortress [English Subtitle]</title>
-    <sub-title>Kabaneri of the Iron Fortress E02 [English Subtitle]</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>At a time when the industrial revolution was carrying the world into the modern age, a horde of undead monsters suddenly appeared. They could not be killed unless their hearts, which were protected by a layer of iron, were pierced. Humans bitten by them would come back as undead monsters themselves. These undead, which would later be known as "Kabane," exploded in population until they finally overran the world.  -   - The people of Hinomoto, a nation in the far east, built fortresses known as "stations" throughout the land that have allowed them to survive the threat of the Kabane. People can only travel between these stations using fortified steam locomotives known as "Hayajiro," and they have managed to stay alive by sharing resources in this way.  -   - Ikoma is a young steamsmith living at Aragane Station, a city that specializes in the manufacture of iron and steam engines. He is working on developing a unique anti-Kabane weapon called a "piercing gun" as he waits for his chance to prove his strength.  -   - Then, one day, a Hayajiro called the "Iron Fortress" makes its way through the front lines to arrive at Aragane Station. When Ikoma begins his usual maintenance routine, he sees a mysterious girl who is exempt from her Kabane inspection. That night, Ikoma sees the girl again and learns that her name is Mumei, but then an out-of-control Hayajiro overrun by Kabane charges into Aragane Station. -   - The Kabane pour out of the train into Aragane Station. Ikoma races against the flow of the panicked residents, this time determined not to run away, but to defeat the Kabane with his piercing gun!</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/kabaneri-landscape_45a55361.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222155123 +0000" stop="20251222161713 +0000">
-    <title>Kabaneri of the Iron Fortress [English Subtitle]</title>
-    <sub-title>Kabaneri of the Iron Fortress E03 [English Subtitle]</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>At a time when the industrial revolution was carrying the world into the modern age, a horde of undead monsters suddenly appeared. They could not be killed unless their hearts, which were protected by a layer of iron, were pierced. Humans bitten by them would come back as undead monsters themselves. These undead, which would later be known as "Kabane," exploded in population until they finally overran the world.  -   - The people of Hinomoto, a nation in the far east, built fortresses known as "stations" throughout the land that have allowed them to survive the threat of the Kabane. People can only travel between these stations using fortified steam locomotives known as "Hayajiro," and they have managed to stay alive by sharing resources in this way.  -   - Ikoma is a young steamsmith living at Aragane Station, a city that specializes in the manufacture of iron and steam engines. He is working on developing a unique anti-Kabane weapon called a "piercing gun" as he waits for his chance to prove his strength.  -   - Then, one day, a Hayajiro called the "Iron Fortress" makes its way through the front lines to arrive at Aragane Station. When Ikoma begins his usual maintenance routine, he sees a mysterious girl who is exempt from her Kabane inspection. That night, Ikoma sees the girl again and learns that her name is Mumei, but then an out-of-control Hayajiro overrun by Kabane charges into Aragane Station. -   - The Kabane pour out of the train into Aragane Station. Ikoma races against the flow of the panicked residents, this time determined not to run away, but to defeat the Kabane with his piercing gun!</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/kabaneri-landscape_45a55361.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222161713 +0000" stop="20251222164303 +0000">
-    <title>Terror in Resonance [English Dub]</title>
-    <sub-title>Terror in Resonance E02 [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Tokyo is suddenly hit by a massive bombing. - Two young men who call themselves “Sphinx” start an epic game involving the whole of Japan.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/terror-in-resonance-landscape_dccd29df.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222164303 +0000" stop="20251222170853 +0000">
-    <title>Terror in Resonance [English Dub]</title>
-    <sub-title>Terror in Resonance E03 [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Tokyo is suddenly hit by a massive bombing. - Two young men who call themselves “Sphinx” start an epic game involving the whole of Japan.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/terror-in-resonance-landscape_dccd29df.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222170853 +0000" stop="20251222173451 +0000">
-    <title>INUYASHIKI LAST HERO [English Subtitle]</title>
-    <sub-title>INUYASHIKI LAST HERO E01 [English Subtitle]</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Ichiro Inuyashiki is a boring office worker who looks like an old man. Even after building them a new home, his family is nothing but ungrateful. One day, Inuyashiki is diagnosed with terminal cancer. Out on a walk to clear his head, a UFO crashes into him, and his body is rebuilt into a deadly robot. - He steps in to stop a group of kids from torturing a homeless man when he is knocked unconscious.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/inuyashiki-landscape_94fe292e.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222173451 +0000" stop="20251222180050 +0000">
-    <title>INUYASHIKI LAST HERO [English Subtitle]</title>
-    <sub-title>INUYASHIKI LAST HERO E02 [English Subtitle]</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Reborn a robot, Inuyashiki finds meaning by saving others. - Meanwhile, high school student Hiro Shishigami has also been reborn a robot. Shishigami has no regard for anybody aside from his best friend and his family, and uses his robot powers to kill indiscriminately. - Contrary to Inuyashiki, he feels alive when he is taking the lives of others. - What happens when these two meet?</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/inuyashiki-landscape_94fe292e.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+    <desc>While out looking for his sister, Hiro performs a selfless act that costs him his life; luckily, no good deed goes unrewarded.</desc>
+    <date>20070413</date>
+    <icon src="https://metadata-static.plex.tv/8/gracenote/84fae6aec687708b91363b0f6f6b6239.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251222180050 +0000" stop="20251222182648 +0000">
     <title>INUYASHIKI LAST HERO [English Subtitle]</title>
@@ -35876,6 +35425,62 @@ SpongeBob and his pals journey to the North Pole to give Santa a present.</desc>
     <desc>While trying to snag General Hatler's prize medallion, which contains a fifty-carat ruby, Lupin inadvertently reels in Hatler's biggest secret, his toupee! An enraged General Hatler orders Lupin and his gang to be killed. With an order out for his head, Lupin and Fujiko are left with nowhere to run! Has Lupin finally met his match?</desc>
     <date>19780227</date>
     <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251223073504 +0000" stop="20251223080246 +0000">
+    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
+    <sub-title>LUPIN THE 3rd PART 2 -EP22 Lupin in Paradise [English Dub]</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Lupin and Jigen are in a remote area pursing a mysterious treasure, when they save a woman being chased by hoodlums. The woman invites the two back to her sister's manor, which is full of beautiful women. However, the invitation and the beautiful women are a trap to expose the men to aging gas. Will an aged Lupin be forced into retirement?</desc>
+    <date>19780306</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251223080246 +0000" stop="20251223083028 +0000">
+    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
+    <sub-title>LUPIN THE 3rd PART 2 -EP23 Auntie Ballistic [English Dub]</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>Fujiko Mine, a mysterious woman who claims to be Fujiko's aunt, gives Lupin an ultimatum: Find Marshal Rommel's lost gold or die! First, Lupin must decipher the location of the gold, written in ancient hieroglyphs. Will Lupin be able to locate the golden treasure? Time is running out!</desc>
+    <date>19780313</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251223083028 +0000" stop="20251223085809 +0000">
+    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
+    <sub-title>LUPIN THE 3rd PART 2 -EP24 Rats to You [English Dub]</sub-title>
+    <episode-num system="onscreen">S01E24</episode-num>
+    <desc>The great thief Rat Boy Jirokichi IV appears before Goemon and reveals that their ancestors competed in the first International Thieves Championship together, but were defeated by Lupin's grandfather, Arsène Lupin. Jirokichi proposes the two should team up to avenge their ancestors' dishonour, but will the Lupin clan claim the win again?</desc>
+    <date>19780320</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251223085809 +0000" stop="20251223092550 +0000">
+    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
+    <sub-title>LUPIN THE 3rd PART 2 -EP25 Lair of the Land-Shark [English Dub]</sub-title>
+    <episode-num system="onscreen">S01E25</episode-num>
+    <desc>The warden of an African prison is holding Fujiko captive. Lupin and his gang infiltrate the prison and attempt to break Fujiko out, but they become the target of the Iron Lizards, robotic devices developed to chase down fugitives and loaded with explosives! With the Iron Lizards hot on their tail, will their prison break end with a bang?</desc>
+    <date>19780327</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1280&amp;version=10&amp;type=png&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251223092550 +0000" stop="20251223095011 +0000">
+    <title>Sonic X</title>
+    <sub-title>EP21 Fast Friends</sub-title>
+    <episode-num system="onscreen">S01E21</episode-num>
+    <desc>Sam Speed challenges Sonic to a race on his new racing car. After much plodding, Sonic accepts the challenge but Eggman decides to interrupt the whole ordeal with his newly invented robot "Sumo-Man".</desc>
+    <date>20040221</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251223095011 +0000" stop="20251223101432 +0000">
+    <title>Sonic X</title>
+    <sub-title>EP22 Little Chao Lost</sub-title>
+    <episode-num system="onscreen">S01E22</episode-num>
+    <desc>Sonic and his friends are at a camp site where they discover a Chao colony. Meanwhile, Dr. Eggman is also hiking nearby and decides to launch an attack when he encounters Sonic.</desc>
+    <date>20040228</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20251223101432 +0000" stop="20251223103853 +0000">
+    <title>Sonic X</title>
+    <sub-title>EP23 Emerald Anniversary</sub-title>
+    <episode-num system="onscreen">S01E23</episode-num>
+    <desc>Chris' father Nelson purchases a ring made from a Chaos Emerald for his wife Lindsey. Being made aware of its presence, Dr. Eggman attempts to snatch the emerald away from them.</desc>
+    <date>20040306</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1280&amp;version=10&amp;type=jpeg&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com" />
   </programme>
   <channel id="M.Movies.1.za">
     <display-name lang="en">M Movies 1</display-name>
