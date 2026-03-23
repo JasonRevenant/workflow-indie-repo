@@ -28616,11 +28616,6 @@ Tim's alter ego, space detective Dekker Moonboots, steps in to solve a Baby Corp
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260323080629 +0000" stop="20260323094548 +0000">
-    <title>But I'm a Cheerleader</title>
-    <desc>Megan's parents decide to send her off to a strict summer camp that aims to turn gay youths straight.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1654324222_0_20260225T135415379Z_103_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260323094548 +0000" stop="20260323115355 +0000">
     <title>A Simple Favor</title>
     <desc>A mommy vlogger seeks to uncover the truth behind her best friend Emily's sudden disappearance.</desc>
@@ -28637,15 +28632,11 @@ Tim's alter ego, space detective Dekker Moonboots, steps in to solve a Baby Corp
     <desc>Megan's parents decide to send her off to a strict summer camp that aims to turn gay youths straight.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1654324222_0_20260225T135415379Z_103_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260323064010 +0000" stop="20260323082007 +0000">
-    <title>Mr. Write</title>
-    <desc>When editor Dori meets her idol, romance novelist Michael, she's crushed to learn he doesn't really believe in true love. But with both of their careers on the line they are forced to work together to make his next book a success. As the project takes shape, Dori inspires Michael in a way that revives his faith in love and the two get a chance at their own happy ending.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485346935_1_20231018T125756650Z_88.jpeg" />
-  </programme>
-  <programme channel="GBBA3300059BU" start="20260323082007 +0000" stop="20260323100548 +0000">
-    <title>The Charm of Love</title>
-    <desc>Art historian Maddie searches for the "Lovers Stone" in the Caribbean with the help of a charming hotelier.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260323151241 +0000" stop="20260323172049 +0000">
+    <title>A Simple Favor</title>
+    <desc>A mommy vlogger seeks to uncover the truth behind her best friend Emily's sudden disappearance.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1084510114_0_20250726T063537053Z_27_imageprocessorclient-tvplus-linear-5db7c6bc99-s56jx.jpeg" />
+    <episode-num system="onscreen">S05E06</episode-num>
   </programme>
   <programme channel="GBBA3300059BU" start="20260323100548 +0000" stop="20260323115502 +0000">
     <title>Meet Me in New York</title>
@@ -28660,6 +28651,11 @@ Tim's alter ego, space detective Dekker Moonboots, steps in to solve a Baby Corp
   <programme channel="GBBA3300059BU" start="20260323134002 +0000" stop="20260323152517 +0000">
     <title>Sweet Autumn</title>
     <desc>Maggie inherits half of her aunt's maple business and teams up with Dex to uncover the truth behind her will.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260323152517 +0000" stop="20260323171500 +0000">
+    <title>My Baby Gone</title>
+    <desc />
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
   <channel id="6401d85a49839300087b116c">
@@ -29030,30 +29026,6 @@ Tim's alter ego, space detective Dekker Moonboots, steps in to solve a Baby Corp
     <display-name>Anime 24/7</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/aa882b26-2283-430c-8e7f-8468227ad362/anime247_logo_dark_-_Jason_Hwang.png" />
   </channel>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260323055112 +0000" stop="20260323073033 +0000">
-    <title>Terry McMillan Presents: Tempted By Love</title>
-    <category>Movie</category>
-    <desc>Featuring Garcelle Beauvais. Ava rushes home to care for her elderly aunt in South Carolina.</desc>
-    <date>20240817</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/302196_489935_2_3.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260323073033 +0000" stop="20260323090951 +0000">
-    <title>Twist of Faith(series, 2013)</title>
-    <sub-title>Twist of Faith</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <category>Movie</category>
-    <desc>Toni Braxton, Mykelti Williamson, David Julian Hirsh in interfaith love film.</desc>
-    <date>20130209</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/111882_211813_2_3.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260323090951 +0000" stop="20260323100000 +0000">
-    <title>5 Guys a Week</title>
-    <sub-title>Etta</sub-title>
-    <episode-num system="onscreen">S01E16</episode-num>
-    <desc>Sixty-nine year old Etta is ready to begin the next romantic chapter in her life.</desc>
-    <date>20220921</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/c5eb9682-f8aa-468b-8030-fed7b0390db8/LMLD_1920x1080.jpg" />
-  </programme>
   <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260323100000 +0000" stop="20260323114340 +0000">
     <title>Britney Ever After</title>
     <sub-title>Britney Ever After</sub-title>
@@ -29171,53 +29143,27 @@ Tim's alter ego, space detective Dekker Moonboots, steps in to solve a Baby Corp
     <date>20190928</date>
     <icon src="https://d37ntihvjf07l3.cloudfront.net/222023_370787_2_3.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260323065850 +0000" stop="20260323072622 +0000">
-    <title>Friday Night Dinner</title>
-    <sub-title>The Caravan</sub-title>
-    <episode-num system="onscreen">S06E01</episode-num>
-    <desc>Dad's bought a grotty caravan. Jim's got a new dog. And the boys have new 'females'.</desc>
-    <date>20200327</date>
-    <icon src="https://image.tmdb.org/t/p/original/A1ilK9Ri3gmn5nPiktba2U7cA7g.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260324072719 +0000" stop="20260324091101 +0000">
+    <title>Wendy Williams: The Movie</title>
+    <category>Movie</category>
+    <desc>Wendy Williams produces biopic, showcasing her life's highs and lows.</desc>
+    <date>20210130</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/235110_415300_2_3.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260323072622 +0000" stop="20260323075424 +0000">
-    <title>Friday Night Dinner</title>
-    <sub-title>The Plastic Bag</sub-title>
-    <episode-num system="onscreen">S06E02</episode-num>
-    <desc>Martin becomes obsessed with a plastic bag that's stuck up a tree.</desc>
-    <date>20200403</date>
-    <icon src="https://image.tmdb.org/t/p/original/zOSSZXyPTwMFfpV2GQSSy2BfRVo.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260324091101 +0000" stop="20260324100000 +0000">
+    <title>5 Guys a Week</title>
+    <sub-title>Jackie</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>Jackie is gorgeous, tall and looking for a man to marry and make a family with.</desc>
+    <date>20220928</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/c5eb9682-f8aa-468b-8030-fed7b0390db8/LMLD_1920x1080.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260323075424 +0000" stop="20260323082151 +0000">
-    <title>Friday Night Dinner</title>
-    <sub-title>The Au Pair</sub-title>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <desc>The family's cream-tea-obsessed former au pair pays the Goodmans a surprise visit.</desc>
-    <date>20200410</date>
-    <icon src="https://image.tmdb.org/t/p/original/k43IxLFlRPd46F7l87jdBw1D0qf.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260323082151 +0000" stop="20260323085118 +0000">
-    <title>Friday Night Dinner</title>
-    <sub-title>The Au Pair</sub-title>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <desc>The family's cream-tea-obsessed former au pair pays the Goodmans a surprise visit.</desc>
-    <date>20200410</date>
-    <icon src="https://image.tmdb.org/t/p/original/k43IxLFlRPd46F7l87jdBw1D0qf.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260323085118 +0000" stop="20260323091829 +0000">
-    <title>Friday Night Dinner</title>
-    <sub-title>Dad's Birthday</sub-title>
-    <episode-num system="onscreen">S06E04</episode-num>
-    <desc>Dad has the birthday blues - because he has worked out the date when he's going to die.</desc>
-    <date>20200417</date>
-    <icon src="https://image.tmdb.org/t/p/original/6G6CA6AC2hQpI6x0ZqVeYM0VEEv.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260323091829 +0000" stop="20260323094821 +0000">
-    <title>Friday Night Dinner</title>
-    <sub-title>The Females</sub-title>
-    <episode-num system="onscreen">S06E06</episode-num>
-    <desc>Adam and Jonny bring their 'females' home to meet the parents. Cue excitement from Mum.</desc>
-    <date>20200501</date>
-    <icon src="https://image.tmdb.org/t/p/original/fsk82d8LMJ4Mu5AiHY16CHsCBQB.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260324100000 +0000" stop="20260324114253 +0000">
+    <title>The Simone Biles Story: Courage to Soar</title>
+    <category>Movie</category>
+    <desc>Follow Simone Biles' journey to becoming a top-winning gymnast.</desc>
+    <date>20180203</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/206237_335337_2_3.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260323094821 +0000" stop="20260323102135 +0000">
     <title>The Office</title>
@@ -29531,53 +29477,45 @@ Tim's alter ego, space detective Dekker Moonboots, steps in to solve a Baby Corp
     <date>20031107</date>
     <icon src="https://image.tmdb.org/t/p/original/8hIWmveTvpte3eQBoRht9ZJ8QqH.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260323070100 +0000" stop="20260323072900 +0000">
-    <title>From Bureaucrat To Villainess: Dad's Been Reincarnated!</title>
-    <sub-title>Dad Gets Trapped</sub-title>
-    <episode-num system="onscreen">S01E09</episode-num>
-    <desc>When the student council gets trapped in a labyrinth, it's up to Grace a.k.a. Kenzaburo and Anna to save everyone.</desc>
-    <date>20250306</date>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6fc7f7dab20d3446671f58c4899720d7.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260324073944 +0000" stop="20260324081713 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Birthday</sub-title>
+    <episode-num system="onscreen">S01E06</episode-num>
+    <desc>Edina has reached a milestone - her 40th birthday. But it is not a cause for celebration.</desc>
+    <date>19921210</date>
+    <icon src="https://image.tmdb.org/t/p/original/cLPzL8JvISmpb9oot63iLWAuBzu.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260323072900 +0000" stop="20260323075700 +0000">
-    <title>From Bureaucrat To Villainess: Dad's Been Reincarnated!</title>
-    <sub-title>Dad Cross-Dresses</sub-title>
-    <episode-num system="onscreen">S01E10</episode-num>
-    <desc>Grace a.k.a. Kenzaburo goes incognito to visit the bakery that Anna's family runs, but Anna's mother quickly deduces Grace's identity.</desc>
-    <date>20250313</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/31928e0e572f08f74ec5f9cd30b68a5b.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260324081713 +0000" stop="20260324085910 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Cold Turkey</sub-title>
+    <episode-num system="onscreen">S05E08</episode-num>
+    <desc>Eddy wants to stay at home for Christmas this year, while Patsy is in a downward spiral.</desc>
+    <date>20031224</date>
+    <icon src="https://image.tmdb.org/t/p/original/moxMXQkz96iT69UHjaietLmbp5X.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260323075700 +0000" stop="20260323082500 +0000">
-    <title>From Bureaucrat To Villainess: Dad's Been Reincarnated!</title>
-    <sub-title>Dad Gets into an Elegant Pickle!</sub-title>
-    <episode-num system="onscreen">S01E11</episode-num>
-    <desc>HD Version. Subtitled. The student council decides to put on a gender-swapping play with Anna in the lead role! Unfortunately, Anna overworks herself to the point of collapse.</desc>
-    <date>20250321</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3144336c9fa66be5ac2d80597bba923a.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260324085910 +0000" stop="20260324093539 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Death</sub-title>
+    <episode-num system="onscreen">S02E02</episode-num>
+    <desc>Edina's father has died and Saffron tries, amidst the usual chaos, to organise a funeral.</desc>
+    <date>19940203</date>
+    <icon src="https://image.tmdb.org/t/p/original/pRyrrpRV3HcBOnPqdyT3HM3AfSJ.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260323082500 +0000" stop="20260323085300 +0000">
-    <title>From Bureaucrat To Villainess: Dad's Been Reincarnated!</title>
-    <sub-title>Dad Celebrates at the Campus Festival</sub-title>
-    <episode-num system="onscreen">S01E12</episode-num>
-    <desc>The Elegance Cheat has a fatal flaw, Grace a.k.a. Kenzaburo can't perform without everything becoming unnecessarily fancy!</desc>
-    <date>20250327</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/fb9502a3f8345d928f45650951f6ac5a.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260324093539 +0000" stop="20260324100909 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Identity</sub-title>
+    <episode-num system="onscreen">S99E01</episode-num>
+    <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
+    <date>20111225</date>
+    <icon src="https://image.tmdb.org/t/p/original/irhUoYxFmxivc02wP1usq048ZLH.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260323085300 +0000" stop="20260323092300 +0000">
-    <title>Shirobako</title>
-    <sub-title>Exodus to Tomorrow!</sub-title>
-    <episode-num system="onscreen">S01E01</episode-num>
-    <desc>Aoi, an assistant producer, faces the struggles of working within the anime industry.</desc>
-    <date>20141009</date>
-    <icon src="https://metadata-static.plex.tv/e/gracenote/eeb598cb6500d18921fb3bd904c4966c.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260323092300 +0000" stop="20260323095300 +0000">
-    <title>Shirobako</title>
-    <sub-title>Arupin is Here!</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>Segawa-san falls ill and the pressure to complete episode four increases for Aoi -- and the director has decided to completely redo a scene!</desc>
-    <date>20141016</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/fee6fbbadd4a283f07fdc38a14e5ad33.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260324100909 +0000" stop="20260324104720 +0000">
+    <title>Absolutely Fabulous</title>
+    <sub-title>Morocco</sub-title>
+    <episode-num system="onscreen">S02E03</episode-num>
+    <desc>Patsy plans to go to Marrakech for a photo shoot, so Edina and Saffy tag along.</desc>
+    <date>19940210</date>
+    <icon src="https://image.tmdb.org/t/p/original/2P4llnFdzkVgZ1YNHPJCv9rAeR2.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260323095300 +0000" stop="20260323102300 +0000">
     <title>Shirobako</title>
@@ -29939,60 +29877,53 @@ Tim's alter ego, space detective Dekker Moonboots, steps in to solve a Baby Corp
     <date>20230324</date>
     <icon src="https://metadata-static.plex.tv/0/gracenote/09dc4b7552e6a2113b8937b7597a176b.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260323065044 +0000" stop="20260323071828 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP69 Zenigata Getcha Into My Life [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E69</episode-num>
-    <desc>Political fixer Pomade Jaws trusts no one, not even his wife Laura. He's stored the scandalous secrets of various world leaders inside a voice-activated safe.</desc>
-    <date>19790205</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260324073700 +0000" stop="20260324080500 +0000">
+    <title>Urusei Yatsura</title>
+    <sub-title>Ten Is Here; A Date for Just the Two of Us</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Lum's cousin Ten thinks Lum should look for greener romantic pastures; if Lum can't see reason, Ten will destroy her relationship with Ataru.</desc>
+    <date>20230106</date>
+    <icon src="https://metadata-static.plex.tv/d/gracenote/dfcae5a66b03d56a8df1fffaf900662e.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260323071828 +0000" stop="20260323074612 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP70 Can't Beat the Classics [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E70</episode-num>
-    <desc>Lupin, Jigen and Goemon have turned themselves in to the FBI, but it's all part of the plan. Their real goal is to break out old man Clyde Barlow, who was once known as a genius bank robber, to get his help with their heist of the National Super Bank.</desc>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260324080500 +0000" stop="20260324083300 +0000">
+    <title>Urusei Yatsura</title>
+    <sub-title>The Great Off-Campus Snack Battle; A Gift from Ten!!</sub-title>
+    <episode-num system="onscreen">S01E13</episode-num>
+    <desc>The girls in class aren't the only snacks Ataru has his eye on; when teachers crack down on off-campus snacking, a no-holds-barred snack battle begins.</desc>
+    <date>20230113</date>
+    <icon src="https://metadata-static.plex.tv/3/gracenote/35ee951c4c276bd95cf9a52a4266c05b.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260323074612 +0000" stop="20260323080938 +0000">
-    <title>Sonic X</title>
-    <sub-title>EP67 Testing Time</sub-title>
-    <episode-num system="onscreen">S03E15</episode-num>
-    <desc>Metarex have been following Blue Typhoon for 12 hours now. With no signs of attacks, Sonic begins to wonder if they are being led into a trap.</desc>
-    <date>20060211</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260324083300 +0000" stop="20260324090100 +0000">
+    <title>Urusei Yatsura</title>
+    <sub-title>That Mizunokoji Boy; Love Letter Trouble</sub-title>
+    <episode-num system="onscreen">S01E14</episode-num>
+    <desc>A showdown on the baseball diamond; once the dust settles, a letter stirs up trouble.</desc>
+    <date>20230120</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f8ee4b47101974dde9fc7b8646268de4.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260323080938 +0000" stop="20260323083249 +0000">
-    <title>Sonic X</title>
-    <sub-title>EP68 A Revolutionary Tale</sub-title>
-    <episode-num system="onscreen">S03E16</episode-num>
-    <desc>When Shadow destroys the fleet of Metarex and saves Molly inadvertently, him and Dr. Eggman are welcomed by the revolutionaries against Metarex. Attempting to capitalize on their gratitude, Dr. Eggman decides to take the planet's Chaos Emerald.</desc>
-    <date>20060218</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260324090100 +0000" stop="20260324092900 +0000">
+    <title>Urusei Yatsura</title>
+    <sub-title>Anko Pathos, the Taste of Love?!; Memories and a Close Call...; Adverse Effects</sub-title>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <desc>Lum checks up on Ran's progress in winning Rei's heart; Lum and Ran discuss an event that happened in the past; Sakura creates love potions for Shinobu and Lum.</desc>
+    <date>20230127</date>
+    <icon src="https://metadata-static.plex.tv/c/gracenote/cc35ecf87cedd372e14a9ea3697edd2b.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260323083249 +0000" stop="20260323085615 +0000">
-    <title>Sonic X</title>
-    <sub-title>EP69 The Planet of Misfortune</sub-title>
-    <episode-num system="onscreen">S03E17</episode-num>
-    <desc>Sonic finds a meteor in space while on search for another Chaos Emerald. When Tails brings the meteor in, they discover it to be a space ship with small Chao-like creatures aboard.</desc>
-    <date>20060225</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260324092900 +0000" stop="20260324095700 +0000">
+    <title>Urusei Yatsura</title>
+    <sub-title>Family Feud!!; Hello, Sailor Suit!!</sub-title>
+    <episode-num system="onscreen">S01E16</episode-num>
+    <desc>Ataru and his friends were supposed to have a fun beach trip, but they find themselves swept up in Ryunosuke's family drama.</desc>
+    <date>20230203</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a90d88dc934bfabf8e97134121212a0e.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260323085615 +0000" stop="20260323092358 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP68 Games of Chance [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E68</episode-num>
-    <desc>Casino Paradise is an artificial island owned and operated by Domino, a casino tycoon. Domino decides to run for President and brags that with $500 million to spend, the only way he can lose is if Lupin steals his campaign funds!</desc>
-    <date>19790129</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260323092358 +0000" stop="20260323095142 +0000">
-    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
-    <sub-title>LUPIN THE 3rd PART 2 -EP69 Zenigata Getcha Into My Life [English Dub]</sub-title>
-    <episode-num system="onscreen">S01E69</episode-num>
-    <desc>Political fixer Pomade Jaws trusts no one, not even his wife Laura. He's stored the scandalous secrets of various world leaders inside a voice-activated safe.</desc>
-    <date>19790205</date>
-    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260324095700 +0000" stop="20260324102500 +0000">
+    <title>Urusei Yatsura</title>
+    <sub-title>A Chest Full of Longing!!; Wish Upon a Star</sub-title>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <desc>Ryunosuke teams up with three delinquents to help Shinobu ward off an unwanted suitor; Ataru's family must be careful what they wish for.</desc>
+    <date>20230210</date>
+    <icon src="https://metadata-static.plex.tv/5/gracenote/58fc38a37e5dc870630b4542c059667d.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260323095142 +0000" stop="20260323101926 +0000">
     <title>LUPIN THE 3rd PART 2 [English Dub]</title>
@@ -30220,6 +30151,62 @@ Tim's alter ego, space detective Dekker Moonboots, steps in to solve a Baby Corp
     <episode-num system="onscreen">S01E71</episode-num>
     <desc>Isami Kondo III, grandson of the leader of the Shinsengumi, hires Lupin and his gang to recover a golden cannon sunk by the Shogunate forces in the Tsugaru Strait. After much effort, the valuable golden cannon is finally recovered from the deep ocean.</desc>
     <date>19790219</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260324073457 +0000" stop="20260324080240 +0000">
+    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
+    <sub-title>LUPIN THE 3rd PART 2 -EP72 You're Sapphired! [English Dub]</sub-title>
+    <episode-num system="onscreen">S01E72</episode-num>
+    <desc>Ellery Queen, the owner of the legendary sapphire called "The Eye of Solomon," is also the owner of a football team. Lupin, coming for the sapphire as announced, discovers Queen on the brink of death.</desc>
+    <date>19790226</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260324080240 +0000" stop="20260324083023 +0000">
+    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
+    <sub-title>LUPIN THE 3rd PART 2 -EP73 It's a Purloin-a-Palooza! [English Dub]</sub-title>
+    <episode-num system="onscreen">S01E73</episode-num>
+    <desc>The 3rd Thieves Olympic is about to be held in Japan, and Lupin and Jigen are in it to win it! After winning the first and second Thieves Olympic, if they also win this year's getaway race, they'll become the first-ever Triple-Crown winners!</desc>
+    <date>19790305</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260324083023 +0000" stop="20260324085335 +0000">
+    <title>Sonic X</title>
+    <sub-title>EP70 Terror on the Typhoon</sub-title>
+    <episode-num system="onscreen">S03E18</episode-num>
+    <desc>Blue Typhoon attempts to save a small ship caught in the crossfire between them and the Metarex. Unfortunately, the pilot aboard the spaceship was Decoe, who was acting as a decoy to lure Sonic into the path of Megarex fleet led by Dr. Eggman.</desc>
+    <date>20060304</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260324085335 +0000" stop="20260324091639 +0000">
+    <title>Sonic X</title>
+    <sub-title>EP71 Hedgehog Hunt</sub-title>
+    <episode-num system="onscreen">S03E19</episode-num>
+    <desc>Chaotix still aren't able to find their home. Upon taking a wrong turn in space, they've landed on a planet where they are now running a café in order to raise money for the ship's repair. All seems to be going (relatively) well when Dr. Eggman shows up with an offer of reward for Sonic and his crew's capture.</desc>
+    <date>20060311</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260324091639 +0000" stop="20260324093859 +0000">
+    <title>Sonic X</title>
+    <sub-title>EP72 Zelkova Strikes Back</sub-title>
+    <episode-num system="onscreen">S03E20</episode-num>
+    <desc>Blue Typhoon is under attack by Yellow Zelkova who is equipped with a special energy shield built by Dr. Eggman. Sonic and his crew are sent crashing down to a nearby planet where Knuckles and Sonic attempt to destroy the powerful weapon.</desc>
+    <date>20060318</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/sonic-x-en-global1-1920x1080_f54c47c0.jpg?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260324093859 +0000" stop="20260324100641 +0000">
+    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
+    <sub-title>LUPIN THE 3rd PART 2 -EP71 Dangerous Dreamers [English Dub]</sub-title>
+    <episode-num system="onscreen">S01E71</episode-num>
+    <desc>Isami Kondo III, grandson of the leader of the Shinsengumi, hires Lupin and his gang to recover a golden cannon sunk by the Shogunate forces in the Tsugaru Strait. After much effort, the valuable golden cannon is finally recovered from the deep ocean.</desc>
+    <date>19790219</date>
+    <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260324100641 +0000" stop="20260324103424 +0000">
+    <title>LUPIN THE 3rd PART 2 [English Dub]</title>
+    <sub-title>LUPIN THE 3rd PART 2 -EP72 You're Sapphired! [English Dub]</sub-title>
+    <episode-num system="onscreen">S01E72</episode-num>
+    <desc>Ellery Queen, the owner of the legendary sapphire called "The Eye of Solomon," is also the owner of a football team. Lupin, coming for the sapphire as announced, discovers Queen on the brink of death.</desc>
+    <date>19790226</date>
     <icon src="https://d1kdt2wchzxyts.cloudfront.net/tenants/odk-fast-channel/photos/lpn3-tv2-1920x1080-16-9_d028d827.png?width=1920&amp;version=10&amp;s3_origin=https%253A%252F%252Fvimai-fast-mrss.s3-us-west-2.amazonaws.com&amp;allow_upscaling=true&amp;height=1080" />
   </programme>
   <channel id="M.Movies.1.za">
