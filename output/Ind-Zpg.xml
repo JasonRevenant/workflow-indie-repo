@@ -27994,16 +27994,6 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260502073310 +0000" stop="20260502092059 +0000">
-    <title>King Cobra</title>
-    <desc>The result of an experimental drug is a creature that is half cobra, half rattlesnake, and 30 feet long.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1220001306_0_20250927T085501153Z_98_imageprocessorclient-tvplus-linear-5db7c6bc99-sm8n5.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260502092059 +0000" stop="20260502110507 +0000">
-    <title>Spiders 3D</title>
-    <desc>A group of scientists are forced to team up with soldiers to stop a number of giant poisonous spiders.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1806827602_0_20260427T123257609Z_59_imageprocessorclient-tvplus-linear-74d4c47476-kqnm8.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260502110507 +0000" stop="20260502124835 +0000">
     <title>Jersey Shore Shark Attack</title>
     <desc>Trouble strikes Seaside Heights, and a Jersey crew must band together to fend off blood-thirsty sharks.</desc>
@@ -28014,15 +28004,20 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <desc>A half-shark, half-octopus creature created for the military, creates a whole lot of terror in Mexico.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1220009745_0_20250927T085501153Z_88_imageprocessorclient-tvplus-linear-5db7c6bc99-sm8n5.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260502072047 +0000" stop="20260502091004 +0000">
-    <title>Blueprint to the Heart</title>
-    <desc>A TV host must choose between chasing ratings or following her heart when she falls for a handsome guest.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260502143353 +0000" stop="20260502162019 +0000">
+    <title>Dinoshark</title>
+    <desc>A baby dinoshark evolves into a ferocious adult, terrorising tourists and locals offshore from Puerto Vallarta</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1219991349_0_20250927T085501153Z_117_imageprocessorclient-tvplus-linear-5db7c6bc99-sm8n5.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260502091004 +0000" stop="20260502110012 +0000">
-    <title>An Hour Behind</title>
-    <desc>The time change and a case of mistaken identity result in a wonderful blind date for Trish and Parker, but is it enough to keep them together?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485333833_3_20231018T125757202Z_117.jpeg" />
+  <programme channel="GBBA33000557H" start="20260502162019 +0000" stop="20260502180340 +0000">
+    <title>Dinocroc vs. Supergator</title>
+    <desc>Created in the laboratories of a biotech corporation, two ravenous mega-reptiles level everything in their way</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1220010322_0_20250927T085501152Z_75_imageprocessorclient-tvplus-linear-5db7c6bc99-sm8n5.jpeg" />
+  </programme>
+  <programme channel="GBBA33000557H" start="20260502180340 +0000" stop="20260502194748 +0000">
+    <title>Spiders 3D</title>
+    <desc>A group of scientists are forced to team up with soldiers to stop a number of giant poisonous spiders.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1806827602_0_20260427T123257609Z_59_imageprocessorclient-tvplus-linear-74d4c47476-kqnm8.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260502110012 +0000" stop="20260502124528 +0000">
     <title>A Romance Wedding</title>
@@ -28034,32 +28029,25 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <desc>When a little girl prays for a miracle to help her recently divorced mother settle in their new town and fixer-upper house, an angel posing as a handyman, is sent down from heaven to help. While trying to accomplish his mission, the angel falls for the mother, ultimately forcing him into the unlikeliest of choices.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485340584_0_20231018T125754097Z_29.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260502143003 +0000" stop="20260502162002 +0000">
+    <title>WWJD II The Woodcarver</title>
+    <desc>A troubled youth vandalizes a church and winds up in a close association with the woodcarver whose work he destroyed.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485324351_0_20231018T125756227Z_18.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260502162002 +0000" stop="20260502180512 +0000">
+    <title>The Perfect Soulmate</title>
+    <desc>A poet with an abusive husband reaches out to a fan for help, only to find an even more dangerous companion.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260502180512 +0000" stop="20260502195502 +0000">
+    <title>Love &amp; Where to Find It</title>
+    <desc>Two local coffee shop owners despise each other but begin to fall in love while sending each other messages on their friends' behalf.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260502055400 +0000" stop="20260502073300 +0000">
-    <title>Camel Spiders</title>
-    <live />
-    <episode-num system="original-air-date">20260502055400 +0000</episode-num>
-    <desc>American forces in the Middle East deal with large spiders that carry a deadly paralyzing sting. The menace follows them home when the lethal arachnids begin appearing in the southwestern deserts of the United States, preying on humas.</desc>
-    <icon src="https://images.pluto.tv/series/68d2bd40e466f791b536009c/tile_1758645409329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68d2bd40e466f791b536009c</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260502073300 +0000" stop="20260502092000 +0000">
-    <title>King Cobra</title>
-    <live />
-    <episode-num system="original-air-date">20260502073300 +0000</episode-num>
-    <desc>A doctor becomes a 30-foot hybrid of a man, a cobra and a rattler after his biochemical lab explodes.</desc>
-    <icon src="https://images.pluto.tv/series/68d2bd40e466f791b5360121/tile_1758648260856.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68d2bd40e466f791b5360121</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260502092000 +0000" stop="20260502110500 +0000">
     <title>Spiders 3D</title>
     <live />
@@ -28068,8 +28056,8 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://images.pluto.tv/series/69e341283f22a165b0e13c3f/tile_1776501033743.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69e341283f22a165b0e13c3f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260502110500 +0000" stop="20260502124800 +0000">
     <title>Jersey Shore Shark Attack</title>
@@ -28079,8 +28067,8 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://images.pluto.tv/series/66bcd4a32fca06001312b72d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66bcd4a32fca06001312b72d</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260502124800 +0000" stop="20260502143300 +0000">
     <title>Sharktopus</title>
@@ -28090,8 +28078,8 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://images.pluto.tv/series/660c5ce1962254001332366b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">660c5ce1962254001332366b</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260502143300 +0000" stop="20260502162000 +0000">
     <title>Dinoshark</title>
@@ -28101,8 +28089,8 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://images.pluto.tv/series/65f0bb675c25f60013be143d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65f0bb675c25f60013be143d</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260502162000 +0000" stop="20260502180300 +0000">
     <title>Dinocroc vs. Supergator</title>
@@ -28112,8 +28100,8 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://images.pluto.tv/series/65f0bb675c25f60013be1468/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65f0bb675c25f60013be1468</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260502180300 +0000" stop="20260502194700 +0000">
     <title>Spiders 3D</title>
@@ -28123,8 +28111,8 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://images.pluto.tv/series/69e341283f22a165b0e13c3f/tile_1776501033743.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69e341283f22a165b0e13c3f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260502194700 +0000" stop="20260502213300 +0000">
     <title>Sharktopus</title>
@@ -28134,8 +28122,8 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://images.pluto.tv/series/660c5ce1962254001332366b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">660c5ce1962254001332366b</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260502213300 +0000" stop="20260502231900 +0000">
     <title>Dinoshark</title>
@@ -28145,8 +28133,30 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://images.pluto.tv/series/65f0bb675c25f60013be143d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65f0bb675c25f60013be143d</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260502231900 +0000" stop="20260503010200 +0000">
+    <title>Dinocroc vs. Supergator</title>
+    <live />
+    <episode-num system="original-air-date">20260502231900 +0000</episode-num>
+    <desc>A biotech company creates two gigantic reptiles in a secret island laboratory. When the massive creatures escape, an undercover investigator, a Fish and Game officer and a swamp hunter team up to track down and kill the beasts.</desc>
+    <icon src="https://images.pluto.tv/series/65f0bb675c25f60013be1468/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">65f0bb675c25f60013be1468</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260503010200 +0000" stop="20260503025000 +0000">
+    <title>King Cobra</title>
+    <live />
+    <episode-num system="original-air-date">20260503010200 +0000</episode-num>
+    <desc>A doctor becomes a 30-foot hybrid of a man, a cobra and a rattler after his biochemical lab explodes.</desc>
+    <icon src="https://images.pluto.tv/series/68d2bd40e466f791b5360121/tile_1758648260856.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68d2bd40e466f791b5360121</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
@@ -28412,28 +28422,6 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <display-name>Anime 24/7</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/aa882b26-2283-430c-8e7f-8468227ad362/anime247_logo_dark_-_Jason_Hwang.png" />
   </channel>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260502054343 +0000" stop="20260502072737 +0000">
-    <title>Robin Roberts Presents: I Will Survive: The Gloria Gaynor Story</title>
-    <category>Movie</category>
-    <desc>The film chronicles Gaynor's rise to fame, dubbed America's "Queen of Disco."</desc>
-    <date>20250208</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5b257af3-62da-4a10-ab21-b0ca5fd4273c/Lifetime_Movies_vertical_default_art_2000x3000.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260502072737 +0000" stop="20260502091008 +0000">
-    <title>Keyshia Cole: This is My Story</title>
-    <category>Movie</category>
-    <desc>Keyshia Cole makes her acting debut, playing herself, in this new biopic.</desc>
-    <date>20230624</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5b257af3-62da-4a10-ab21-b0ca5fd4273c/Lifetime_Movies_vertical_default_art_2000x3000.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260502091008 +0000" stop="20260502100000 +0000">
-    <title>5 Guys a Week</title>
-    <sub-title>Samantha</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Samantha's youthful energy lights up the room and she's ready for love again.</desc>
-    <date>20220818</date>
-    <icon src="https://d37ntihvjf07l3.cloudfront.net/248820_410669_thumb.jpg" />
-  </programme>
   <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260502100000 +0000" stop="20260502114235 +0000">
     <title>Mary J. Blige's Family Affair</title>
     <episode-num system="onscreen">S01E01</episode-num>
@@ -28542,45 +28530,29 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <date>20230610</date>
     <icon src="https://provider-static.plex.tv/epg/cms/production/5b257af3-62da-4a10-ab21-b0ca5fd4273c/Lifetime_Movies_vertical_default_art_2000x3000.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260502071431 +0000" stop="20260502074743 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Stoke Me a Clipper</sub-title>
-    <episode-num system="onscreen">S07E02</episode-num>
-    <desc>Rimmer's alter ego, Ace, arrives on Starbug fatally wounded with one dying request.</desc>
-    <date>19970124</date>
-    <icon src="https://image.tmdb.org/t/p/original/5PigRbHKZmvX8I34xhUzHXWnVCT.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260503072645 +0000" stop="20260503090857 +0000">
+    <title>New: Mary J. Blige's Strength of a Woman</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <category>Movie</category>
+    <desc>Kendra and Ben's tale resumes in Strength of a Woman, 15 years later.</desc>
+    <date>20230617</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5b257af3-62da-4a10-ab21-b0ca5fd4273c/Lifetime_Movies_vertical_default_art_2000x3000.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260502074743 +0000" stop="20260502082117 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Ouroborus</sub-title>
-    <episode-num system="onscreen">S07E03</episode-num>
-    <desc>The Dwarfers encounter a real, live human woman who's attractive and nice.</desc>
-    <date>19970131</date>
-    <icon src="https://image.tmdb.org/t/p/original/hhAaEHEAN1bdqOvihP3CezxFsW9.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260503090857 +0000" stop="20260503100000 +0000">
+    <title>5 Guys a Week</title>
+    <sub-title>Caroline</sub-title>
+    <episode-num system="onscreen">S01E18</episode-num>
+    <desc>Sophisticated college admissions tutor Caroline is looking for her soulmate.</desc>
+    <date>20220928</date>
+    <icon src="https://d37ntihvjf07l3.cloudfront.net/255268_415175_thumb.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260502082117 +0000" stop="20260502085437 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Duct Soup</sub-title>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <desc>The crew go on a journey of personal discovery when their generators fail.</desc>
-    <date>19970207</date>
-    <icon src="https://image.tmdb.org/t/p/original/A7mctMeSEnXBYvRXgvpPDo6zsMd.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260502085437 +0000" stop="20260502092553 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Blue</sub-title>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <desc>Lister is missing Rimmer, at least until Kryten steps in to help.</desc>
-    <date>19970214</date>
-    <icon src="https://image.tmdb.org/t/p/original/3Q1cQMH5a9XvLS7988kM2Cxpu0O.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260502092553 +0000" stop="20260502095840 +0000">
-    <title>Red Dwarf</title>
-    <sub-title>Beyond a Joke</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>In a hope to educate the crew Kochansky transports them to Pride and Prejudice World.</desc>
-    <date>19970221</date>
-    <icon src="https://image.tmdb.org/t/p/original/2opndGs6hr0ug4UWxHYIt0nlNR.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6" start="20260503100000 +0000" stop="20260503115055 +0000">
+    <title>Terry McMillan Presents: Forever</title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <category>Movie</category>
+    <desc>A veteran returns to his hometown, and unexpectedly falls for a local policewoman.</desc>
+    <date>20240824</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5b257af3-62da-4a10-ab21-b0ca5fd4273c/Lifetime_Movies_vertical_default_art_2000x3000.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260502095840 +0000" stop="20260502103140 +0000">
     <title>Red Dwarf</title>
@@ -28894,61 +28866,53 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <date>20161027</date>
     <icon src="https://image.tmdb.org/t/p/original/9una0o0cU1wB331TmmyqLb1EYHz.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260502065100 +0000" stop="20260502071900 +0000">
-    <title>Farming Life in Another World</title>
-    <sub-title>The First Villager</sub-title>
-    <episode-num system="onscreen">S01E02</episode-num>
-    <desc>As the weeks turn into months, Hiraku's loneliness grows; he thought he desired a life of solitude, but his wish for companionship grows stronger by the day.</desc>
-    <date>20230113</date>
-    <icon src="https://metadata-static.plex.tv/8/gracenote/84ec668fab4db65e08d04ea1c8b5f68f.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260503071828 +0000" stop="20260503075145 +0000">
+    <title>Red Dwarf</title>
+    <sub-title>Cured</sub-title>
+    <episode-num system="onscreen">S12E01</episode-num>
+    <desc>The crew stumble on a science centre where vile historical figures have been 'cured' of evil.</desc>
+    <date>20171012</date>
+    <icon src="https://image.tmdb.org/t/p/original/qBQfbAymnhG9UXRaHgOOWEf89My.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260502071900 +0000" stop="20260502074700 +0000">
-    <title>Farming Life in Another World</title>
-    <sub-title>More and More New Roommates</sub-title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <desc>Hiraku and Lu begin their new life together, unaware of the visitors who will soon arrive.</desc>
-    <date>20230120</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2362e591b3a82469bdd6759618be68fe.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260503075145 +0000" stop="20260503082301 +0000">
+    <title>Red Dwarf</title>
+    <sub-title>Siliconia</sub-title>
+    <episode-num system="onscreen">S12E02</episode-num>
+    <desc>Lister, Cat and Rimmer are uploaded into mechanoid bodies and forced into slavery.</desc>
+    <date>20171019</date>
+    <icon src="https://image.tmdb.org/t/p/original/oO05NoeUVR0aBOjijBHgx1Xp1rE.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260502074700 +0000" stop="20260502081500 +0000">
-    <title>Farming Life in Another World</title>
-    <sub-title>Waterways Make Life Feel Complete</sub-title>
-    <episode-num system="onscreen">S01E04</episode-num>
-    <desc>Now that they've secured a reliable water source, they can start a rice paddy and build a bathhouse.</desc>
-    <date>20230127</date>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/292c62010407a973144816911a4e5cc0.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260503082301 +0000" stop="20260503085406 +0000">
+    <title>Red Dwarf</title>
+    <sub-title>Time Wave</sub-title>
+    <episode-num system="onscreen">S12E03</episode-num>
+    <desc>The Dwarfers run into a ship where criticism is illegal.</desc>
+    <date>20171026</date>
+    <icon src="https://image.tmdb.org/t/p/original/zwVAHA7b1PxL4esQLvPL7P2jJJo.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260502081500 +0000" stop="20260502084300 +0000">
-    <title>Farming Life in Another World</title>
-    <sub-title>Curry and Surviving the Winter</sub-title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <desc>With their homestead completed, they turn their focus to food preparation as winter is coming.</desc>
-    <date>20230203</date>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b82a9bbec702f6b048e1de6ca0f6edf6.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260503085406 +0000" stop="20260503092553 +0000">
+    <title>Red Dwarf</title>
+    <sub-title>Mechocracy</sub-title>
+    <episode-num system="onscreen">S12E04</episode-num>
+    <desc>When the machines on Red Dwarf go on strike, a presidential election is held.</desc>
+    <date>20171102</date>
+    <icon src="https://image.tmdb.org/t/p/original/cjaUQEICVx8jCxXGk4r586Y8seo.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260502084300 +0000" stop="20260502091100 +0000">
-    <title>Farming Life in Another World</title>
-    <sub-title>This Is a Village</sub-title>
-    <episode-num system="onscreen">S01E06</episode-num>
-    <desc>A surprise attack would have shattered their peaceful lives were it not for the almighty farming tool; as word spreads, their home blooms into a village.</desc>
-    <date>20230210</date>
-    <icon src="https://metadata-static.plex.tv/3/gracenote/3a80670b7da8844b33985231710eea17.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260503092553 +0000" stop="20260503095644 +0000">
+    <title>Red Dwarf</title>
+    <sub-title>M-Corp</sub-title>
+    <episode-num system="onscreen">S12E05</episode-num>
+    <desc>The Dwarfers discover that the owners of Red Dwarf have been bought out.</desc>
+    <date>20171109</date>
+    <icon src="https://image.tmdb.org/t/p/original/AqXMfB4l5owE8Dpkx0M2q1jn46c.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260502091100 +0000" stop="20260502093900 +0000">
-    <title>Farming Life in Another World</title>
-    <sub-title>A Hospitable Heart</sub-title>
-    <episode-num system="onscreen">S01E07</episode-num>
-    <desc>Hiraku realizes the importance of diplomacy when the demon lord and the dragons establish contact with the Great Tree Village.</desc>
-    <date>20230217</date>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/42ae9316975d5cca33d16afbfae690a5.jpg" />
-  </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260502093900 +0000" stop="20260502100700 +0000">
-    <title>Farming Life in Another World</title>
-    <sub-title>The Researcher and the Two Princesses</sub-title>
-    <episode-num system="onscreen">S01E08</episode-num>
-    <desc>They say civilization started because of alcohol; in the Great Tree Village's case, it instigates a misunderstanding between dragons.</desc>
-    <date>20230224</date>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f790eb2387e028a49d21a74e3337f5fa.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643" start="20260503095644 +0000" stop="20260503102841 +0000">
+    <title>Red Dwarf</title>
+    <sub-title>Skipper</sub-title>
+    <episode-num system="onscreen">S12E06</episode-num>
+    <desc>Rimmer looks for another dimension where he is not such a giant loser.</desc>
+    <date>20171116</date>
+    <icon src="https://image.tmdb.org/t/p/original/6Q0EdanIYYzoUSDpdmcXESHn4OJ.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260502100700 +0000" stop="20260502103500 +0000">
     <title>Farming Life in Another World</title>
@@ -29306,12 +29270,61 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <date>20230210</date>
     <icon src="https://metadata-static.plex.tv/3/gracenote/3a80670b7da8844b33985231710eea17.jpg" />
   </programme>
-  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260502060000 +0000" stop="20260502090000 +0000">
-    <title>To Be Announced</title>
-    <category>Movie</category>
-    <desc>Program information is not yet available</desc>
-    <date>20260101</date>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/a02654c7-022d-43cc-b51e-1f90c9503507/anime247_artwork_vertical_-_Jason_Hwang.jpg" />
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260503073100 +0000" stop="20260503075900 +0000">
+    <title>Farming Life in Another World</title>
+    <sub-title>A Hospitable Heart</sub-title>
+    <episode-num system="onscreen">S01E07</episode-num>
+    <desc>Hiraku realizes the importance of diplomacy when the demon lord and the dragons establish contact with the Great Tree Village.</desc>
+    <date>20230217</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/42ae9316975d5cca33d16afbfae690a5.jpg" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260503075900 +0000" stop="20260503082700 +0000">
+    <title>Farming Life in Another World</title>
+    <sub-title>The Researcher and the Two Princesses</sub-title>
+    <episode-num system="onscreen">S01E08</episode-num>
+    <desc>They say civilization started because of alcohol; in the Great Tree Village's case, it instigates a misunderstanding between dragons.</desc>
+    <date>20230224</date>
+    <icon src="https://metadata-static.plex.tv/f/gracenote/f790eb2387e028a49d21a74e3337f5fa.jpg" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260503082700 +0000" stop="20260503085500 +0000">
+    <title>Farming Life in Another World</title>
+    <sub-title>The Merchant and the Dragon</sub-title>
+    <episode-num system="onscreen">S01E09</episode-num>
+    <desc>Hiraku's offhand comment leads to a series of events that end with a merchant setting up a trade deal with The Great Tree Village.</desc>
+    <date>20230303</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a15a1d0b2df62d722f5ee470f6f54572.jpg" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260503085500 +0000" stop="20260503092300 +0000">
+    <title>Farming Life in Another World</title>
+    <sub-title>Princess Yuri</sub-title>
+    <episode-num system="onscreen">S01E10</episode-num>
+    <desc>Spurred by her followers, the demon lord's daughter attempts to invade the Great Tree Village.</desc>
+    <date>20230310</date>
+    <icon src="https://metadata-static.plex.tv/4/gracenote/47b613ab3704497095d2918e318d53be.jpg" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260503092300 +0000" stop="20260503095100 +0000">
+    <title>Farming Life in Another World</title>
+    <sub-title>Everyday Life, and the Progenitor</sub-title>
+    <episode-num system="onscreen">S01E11</episode-num>
+    <desc>News of the impending birth thrills the villagers, but they aren't the only ones interested.</desc>
+    <date>20230317</date>
+    <icon src="https://metadata-static.plex.tv/e/gracenote/e422c3b433f9a3cd1a237467a58c63e9.jpg" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260503095100 +0000" stop="20260503101900 +0000">
+    <title>Farming Life in Another World</title>
+    <sub-title>Birth</sub-title>
+    <episode-num system="onscreen">S01E12</episode-num>
+    <desc>Hiraku's second chance was just the beginning; as he reflects on the changes that occurred since his arrival, one thing is certain: The Great Tree Village is lively as always.</desc>
+    <date>20230324</date>
+    <icon src="https://metadata-static.plex.tv/a/gracenote/a5d232026b4ddbddab21a57895028287.jpg" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf" start="20260503101900 +0000" stop="20260503104700 +0000">
+    <title>Farming Life in Another World</title>
+    <sub-title>The Almighty Farming Tool</sub-title>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <desc>Hiraku won't waste his second chance at life and decides he will focus on what truly matters; he builds a new home with his own two hands.</desc>
+    <date>20230106</date>
+    <icon src="https://metadata-static.plex.tv/6/gracenote/6b4792c74e9baac16704f891b271a2ac.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260502090000 +0000" stop="20260502120000 +0000">
     <title>To Be Announced</title>
@@ -29363,6 +29376,13 @@ Angad descends further into darkness; Hanuman faces the evil forces within the v
     <icon src="https://provider-static.plex.tv/epg/cms/production/a02654c7-022d-43cc-b51e-1f90c9503507/anime247_artwork_vertical_-_Jason_Hwang.jpg" />
   </programme>
   <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260503060000 +0000" stop="20260503090000 +0000">
+    <title>To Be Announced</title>
+    <category>Movie</category>
+    <desc>Program information is not yet available</desc>
+    <date>20260101</date>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a02654c7-022d-43cc-b51e-1f90c9503507/anime247_artwork_vertical_-_Jason_Hwang.jpg" />
+  </programme>
+  <programme channel="5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3" start="20260503090000 +0000" stop="20260503120000 +0000">
     <title>To Be Announced</title>
     <category>Movie</category>
     <desc>Program information is not yet available</desc>
