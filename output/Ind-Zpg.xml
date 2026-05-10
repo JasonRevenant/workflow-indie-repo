@@ -82702,16 +82702,6 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260510063938 +0000" stop="20260510083622 +0000">
-    <title>Homefront</title>
-    <desc>A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698294_0_20250724T094855613Z_118_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260510083622 +0000" stop="20260510102918 +0000">
-    <title>Mechanic: Resurrection</title>
-    <desc>Arthur Bishop thought he had put his murderous past behind him when a foe kidnaps the love of his life.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1455271571_0_20251220T115145803Z_1_imageprocessorclient-tvplus-linear-85d7d49859-779xr.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260510102918 +0000" stop="20260510124839 +0000">
     <title>Parker</title>
     <desc>A thief with a unique code of professional ethics is double-crossed by his crew and left for dead.</desc>
@@ -82722,16 +82712,15 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <desc>A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698294_0_20250724T094855613Z_118_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260510070550 +0000" stop="20260510085018 +0000">
-    <title>Made For You, With Love</title>
-    <desc>A secondhand wedding dress owner helps brides find their dream gowns but fears giving love a second chance.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260510144523 +0000" stop="20260510163834 +0000">
+    <title>Mechanic: Resurrection</title>
+    <desc>Arthur Bishop thought he had put his murderous past behind him when a foe kidnaps the love of his life.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1455271571_0_20251220T115145803Z_1_imageprocessorclient-tvplus-linear-85d7d49859-779xr.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260510085018 +0000" stop="20260510104029 +0000">
-    <title>Be Mine</title>
-    <desc>A woman finds romance as she prepares to take over her mother's garden store.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_952097914_0_20250606T053343048Z_57_imageprocessorclient-tvplus-linear-6fb5b47f79-vs62g.jpeg" />
-    <episode-num system="onscreen">S06E02</episode-num>
+  <programme channel="GBBA33000557H" start="20260510163834 +0000" stop="20260510183713 +0000">
+    <title>Redemption</title>
+    <desc>A damaged ex-special forces soldier seizes an opportunity to assume another man's identity.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1519983671_0_20260105T120311971Z_48_imageprocessorclient-tvplus-linear-85d7d49859-9m9zg.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260510104029 +0000" stop="20260510123024 +0000">
     <title>Running Away</title>
@@ -82743,32 +82732,20 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <desc>In the wake of tragedy, a renowned NY dance company is on the brink of collapse. After leaving the dance world for good, Travis, Chrissa and Max have one last chance to re-connect with the passion and prove that miracles really can happen.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487869_1_20231024T173455798Z_156.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260510142511 +0000" stop="20260510161049 +0000">
+    <title>The Bad Son</title>
+    <desc>An elusive serial killer is killing innocent women in Seattle. The police and FBI are on the killer's trail but were never prepared to face a bizarre twist in the case.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487364_1_20231024T173452948Z_166.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260510161049 +0000" stop="20260510180011 +0000">
+    <title>Deadly Vows</title>
+    <desc>Pastry chef Helena poisons men who don't meet her standards, but Helena's fiancé's sister smells danger.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260510063900 +0000" stop="20260510083600 +0000">
-    <title>Homefront</title>
-    <live />
-    <episode-num system="original-air-date">20260510063900 +0000</episode-num>
-    <desc>A former DEA agent (Jason Statham) returns to action to save his daughter and his new town from a drug-dealing sociopath (James Franco).</desc>
-    <icon src="https://images.pluto.tv/series/6863f1c1655e1e05788f54b6/tile_1751380457371.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6863f1c1655e1e05788f54b6</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260510083600 +0000" stop="20260510102900 +0000">
-    <title>Mechanic: Resurrection</title>
-    <live />
-    <episode-num system="original-air-date">20260510083600 +0000</episode-num>
-    <desc>Bishop's most formidable foe kidnaps the love of his life in order to make him complete three impossible assassinations and make them look like accidents.</desc>
-    <icon src="https://images.pluto.tv/series/693b1c396a2e5eeebc85e42f/tile_1765481530995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">693b1c396a2e5eeebc85e42f</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260510102900 +0000" stop="20260510124800 +0000">
     <title>Parker</title>
     <live />
@@ -82777,8 +82754,8 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <icon src="https://images.pluto.tv/series/685c1d4bde5f6440c4899a77/tile_1750867278707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4bde5f6440c4899a77</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260510124800 +0000" stop="20260510144500 +0000">
     <title>Homefront</title>
@@ -82788,8 +82765,8 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <icon src="https://images.pluto.tv/series/6863f1c1655e1e05788f54b6/tile_1751380457371.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6863f1c1655e1e05788f54b6</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260510144500 +0000" stop="20260510163800 +0000">
     <title>Mechanic: Resurrection</title>
@@ -82799,8 +82776,8 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <icon src="https://images.pluto.tv/series/693b1c396a2e5eeebc85e42f/tile_1765481530995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">693b1c396a2e5eeebc85e42f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260510163800 +0000" stop="20260510183700 +0000">
     <title>Redemption</title>
@@ -82810,8 +82787,8 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <icon src="https://images.pluto.tv/series/66980dc7dc6f2f00133db984/tile_1776096256415.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66980dc7dc6f2f00133db984</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260510183700 +0000" stop="20260510202900 +0000">
     <title>Crank: High Voltage</title>
@@ -82821,8 +82798,8 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <icon src="https://images.pluto.tv/series/65fa43795c25f600132cc599/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65fa43795c25f600132cc599</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260510202900 +0000" stop="20260510222300 +0000">
     <title>Blitz</title>
@@ -82832,8 +82809,8 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <icon src="https://images.pluto.tv/series/66980dc7dc6f2f00133db9af/tile_1757811880055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66980dc7dc6f2f00133db9af</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260510222300 +0000" stop="20260511002100 +0000">
     <title>Redemption</title>
@@ -82843,8 +82820,30 @@ With Les gone, Ashley plots Seth's demise. A disagreement over jewellery leads t
     <icon src="https://images.pluto.tv/series/66980dc7dc6f2f00133db984/tile_1776096256415.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66980dc7dc6f2f00133db984</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260511002100 +0000" stop="20260511021300 +0000">
+    <title>Crank: High Voltage</title>
+    <live />
+    <episode-num system="original-air-date">20260511002100 +0000</episode-num>
+    <desc>Powered by an artificial heart, Chev Chelios (Jason Statham) embarks on a frantic chase through Los Angeles to find the thief who stole his own, nearly indestructible, one.</desc>
+    <icon src="https://images.pluto.tv/series/65fa43795c25f600132cc599/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">65fa43795c25f600132cc599</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260511021300 +0000" stop="20260511040700 +0000">
+    <title>Blitz</title>
+    <live />
+    <episode-num system="original-air-date">20260511021300 +0000</episode-num>
+    <desc>A tough cop (Jason Statham) goes after a serial killer who targets police officers.</desc>
+    <icon src="https://images.pluto.tv/series/66980dc7dc6f2f00133db9af/tile_1757811880055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66980dc7dc6f2f00133db9af</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
