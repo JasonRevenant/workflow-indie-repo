@@ -82925,8 +82925,8 @@ Seth commits a colossal blunder that could plunge the shop into financial ruin. 
     <icon src="https://images.pluto.tv/series/6679fa95fe060c0013f14e42/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6679fa95fe060c0013f14e42</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260531110200 +0000" stop="20260531133700 +0000">
     <title>Patriots Day</title>
@@ -82936,8 +82936,8 @@ Seth commits a colossal blunder that could plunge the shop into financial ruin. 
     <icon src="https://images.pluto.tv/series/668ed350dc6f2f0013bd0f48/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">668ed350dc6f2f0013bd0f48</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260531133700 +0000" stop="20260531154300 +0000">
     <title>2 Guns</title>
@@ -82947,8 +82947,8 @@ Seth commits a colossal blunder that could plunge the shop into financial ruin. 
     <icon src="https://images.pluto.tv/series/686ee6e2a53444ef2acb3d0f/tile_1762945422540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">686ee6e2a53444ef2acb3d0f</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260531154300 +0000" stop="20260531174600 +0000">
     <title>Deepwater Horizon</title>
@@ -82958,8 +82958,8 @@ Seth commits a colossal blunder that could plunge the shop into financial ruin. 
     <icon src="https://images.pluto.tv/series/6679fa95fe060c0013f14e42/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6679fa95fe060c0013f14e42</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260531174600 +0000" stop="20260531202300 +0000">
     <title>Patriots Day</title>
@@ -82969,8 +82969,8 @@ Seth commits a colossal blunder that could plunge the shop into financial ruin. 
     <icon src="https://images.pluto.tv/series/668ed350dc6f2f0013bd0f48/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">668ed350dc6f2f0013bd0f48</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260531202300 +0000" stop="20260531223100 +0000">
     <title>2 Guns</title>
@@ -82980,8 +82980,8 @@ Seth commits a colossal blunder that could plunge the shop into financial ruin. 
     <icon src="https://images.pluto.tv/series/686ee6e2a53444ef2acb3d0f/tile_1762945422540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">686ee6e2a53444ef2acb3d0f</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260531223100 +0000" stop="20260601003400 +0000">
     <title>Deepwater Horizon</title>
@@ -82991,8 +82991,8 @@ Seth commits a colossal blunder that could plunge the shop into financial ruin. 
     <icon src="https://images.pluto.tv/series/6679fa95fe060c0013f14e42/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6679fa95fe060c0013f14e42</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260601003400 +0000" stop="20260601031000 +0000">
     <title>Patriots Day</title>
@@ -83002,8 +83002,19 @@ Seth commits a colossal blunder that could plunge the shop into financial ruin. 
     <icon src="https://images.pluto.tv/series/668ed350dc6f2f0013bd0f48/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">668ed350dc6f2f0013bd0f48</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260601031000 +0000" stop="20260601051300 +0000">
+    <title>2 Guns</title>
+    <live />
+    <episode-num system="original-air-date">20260601031000 +0000</episode-num>
+    <desc>In the dark about each other's true identity, two undercover agents (Denzel Washington, Mark Wahlberg) from competing bureaus go on the run together after an attempt to infiltrate a drug cartel goes haywire.</desc>
+    <icon src="https://images.pluto.tv/series/686ee6e2a53444ef2acb3d0f/tile_1762945422540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">686ee6e2a53444ef2acb3d0f</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
