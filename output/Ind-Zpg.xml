@@ -82453,16 +82453,6 @@ One of Seth's team members makes a huge error, and Les is furious. He wants to k
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260607073213 +0000" stop="20260607094058 +0000">
-    <title>Escape Plan</title>
-    <desc>The world's authority on structural security accepts a job to break out of an ultra-secret, high-tech facility</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698240_0_20250724T094847505Z_63_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260607094058 +0000" stop="20260607120444 +0000">
-    <title>Now You See Me 2</title>
-    <desc>The Four Horsemen resurface, and are recruited by a tech genius to pull off their most impossible heist yet.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1269058316_0_20251020T065226212Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260607120444 +0000" stop="20260607150329 +0000">
     <title>Prisoners</title>
     <desc>A desperate father resorts to increasingly drastic measures to find his missing daughter.</desc>
@@ -82473,10 +82463,10 @@ One of Seth's team members makes a huge error, and Les is furious. He wants to k
     <desc>The world's authority on structural security accepts a job to break out of an ultra-secret, high-tech facility</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698240_0_20250724T094847505Z_63_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260607091005 +0000" stop="20260607105037 +0000">
-    <title>Eat, Drink and be Married</title>
-    <desc>Billie helps save a wedding—and maybe finds love herself—in this charming romantic twist!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260607171214 +0000" stop="20260607193600 +0000">
+    <title>Now You See Me 2</title>
+    <desc>The Four Horsemen resurface, and are recruited by a tech genius to pull off their most impossible heist yet.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1269058316_0_20251020T065226212Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260607105037 +0000" stop="20260607123546 +0000">
     <title>The Suspect</title>
@@ -82493,21 +82483,20 @@ One of Seth's team members makes a huge error, and Les is furious. He wants to k
     <desc>Dr. Richards, a successful plastic surgeon, is caught in a narcissistic patient's scary quest for perfection.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260607161033 +0000" stop="20260607180037 +0000">
+    <title>Flowers &amp; Honey</title>
+    <desc>Florist Sarah inherits a ranch and must decide whether to sell it, or live the life of her dreams.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_947444041_5_20250604T152427131Z_75_imageprocessorclient-tvplus-linear-6fb5b47f79-q24ff.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260607180037 +0000" stop="20260607194532 +0000">
+    <title>Groomzilla</title>
+    <desc>A newly engaged woman makes a wish that her fiancee take the planning of their wedding seriously, and to her surprise and dismay, her wish comes true.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485488713_0_20231024T173457343Z_67.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260607073200 +0000" stop="20260607094000 +0000">
-    <title>Escape Plan</title>
-    <live />
-    <episode-num system="original-air-date">20260607073200 +0000</episode-num>
-    <desc>An expert (Sylvester Stallone) in prison security joins forces with an inmate (Arnold Schwarzenegger) to break out of a top-secret, high-tech facility.</desc>
-    <icon src="https://images.pluto.tv/series/68470527793797dca181e512/tile_1749484842616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68470527793797dca181e512</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260607094000 +0000" stop="20260607120400 +0000">
     <title>Now You See Me 2</title>
     <live />
@@ -82582,6 +82571,17 @@ One of Seth's team members makes a huge error, and Les is furious. He wants to k
     <icon src="https://images.pluto.tv/series/68470527793797dca181e512/tile_1749484842616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68470527793797dca181e512</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260608023800 +0000" stop="20260608050200 +0000">
+    <title>Now You See Me 2</title>
+    <live />
+    <episode-num system="original-air-date">20260608023800 +0000</episode-num>
+    <desc>A devious tech wizard forces the illusionists known as the Four Horsemen to steal a powerful chip that can control all the world's computers.</desc>
+    <icon src="https://images.pluto.tv/series/68ed84d169032f4edf72095f/tile_1760398177486.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68ed84d169032f4edf72095f</series-id>
     <category>Entertainment</category>
     <category>Series</category>
   </programme>
