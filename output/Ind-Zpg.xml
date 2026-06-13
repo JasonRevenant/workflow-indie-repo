@@ -83575,16 +83575,6 @@ Ted doubles down on Nick and Brandon's salvage skills and sends the boys out on 
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260613085559 +0000" stop="20260613105751 +0000">
-    <title>Genius</title>
-    <desc>A chronicle of Max Perkins's time as an editor, overseeing works by Ernest Hemingway and F. Scott Fitzgerald.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1581237686_0_20260128T085247132Z_39_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260613105751 +0000" stop="20260613130809 +0000">
-    <title>The Railway Man</title>
-    <desc>An officer embarks on a revenge mission against the man who tortured him while he was a prisoner during WWII.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1390302175_0_20251129T173016440Z_97_imageprocessorclient-tvplus-linear-85d7d49859-rnzm5.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260613130809 +0000" stop="20260613150823 +0000">
     <title>The Last Legion</title>
     <desc>As the Roman empire collapses, Romulus Augustus sets out for Britain to locate his last legion of supporters.</desc>
@@ -83595,15 +83585,15 @@ Ted doubles down on Nick and Brandon's salvage skills and sends the boys out on 
     <desc>An art curator decides to seek revenge on his abusive boss by conning him into buying a fake Monet.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1821679969_0_20260503T070854724Z_142_imageprocessorclient-tvplus-linear-74d4c47476-npj98.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260613090515 +0000" stop="20260613105056 +0000">
-    <title>The Charm of Love</title>
-    <desc>Art historian Maddie searches for the "Lovers Stone" in the Caribbean with the help of a charming hotelier.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260613165138 +0000" stop="20260613185330 +0000">
+    <title>Genius</title>
+    <desc>A chronicle of Max Perkins's time as an editor, overseeing works by Ernest Hemingway and F. Scott Fitzgerald.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1581237686_0_20260128T085247132Z_39_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260613105056 +0000" stop="20260613124513 +0000">
-    <title>One Last Dance</title>
-    <desc>In the wake of tragedy, a renowned NY dance company is on the brink of collapse. After leaving the dance world for good, Travis, Chrissa and Max have one last chance to re-connect with the passion and prove that miracles really can happen.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487869_1_20231024T173455798Z_156.jpeg" />
+  <programme channel="GBBA33000557H" start="20260613185330 +0000" stop="20260613210348 +0000">
+    <title>The Railway Man</title>
+    <desc>An officer embarks on a revenge mission against the man who tortured him while he was a prisoner during WWII.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1390302175_0_20251129T173016440Z_97_imageprocessorclient-tvplus-linear-85d7d49859-rnzm5.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260613124513 +0000" stop="20260613143018 +0000">
     <title>Watching Over You</title>
@@ -83615,32 +83605,20 @@ Ted doubles down on Nick and Brandon's salvage skills and sends the boys out on 
     <desc>After many years, a group of friends reunite at the summer camp of their youth, which is on the verge of being sold off.  When reliving their past joys, loves and sorrows, they open a time capsule that brings old tensions to the surface and inspires some newfound relationships.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485391822_0_20231019T005405632Z_112.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260613161048 +0000" stop="20260613180002 +0000">
+    <title>WWJD II The Woodcarver</title>
+    <desc>A troubled youth vandalizes a church and winds up in a close association with the woodcarver whose work he destroyed.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485324351_0_20231018T125756227Z_18.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260613180002 +0000" stop="20260613194502 +0000">
+    <title>A Romance Wedding</title>
+    <desc />
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260613070000 +0000" stop="20260613085500 +0000">
-    <title>The Princess Bride</title>
-    <live />
-    <episode-num system="original-air-date">20260613070000 +0000</episode-num>
-    <desc>A storybook stable boy turns pirate and rescues his beloved, who is about to marry a dreadful prince.</desc>
-    <icon src="https://images.pluto.tv/series/668d97077e51670013781d17/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">668d97077e51670013781d17</series-id>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260613085500 +0000" stop="20260613105700 +0000">
-    <title>Genius</title>
-    <live />
-    <episode-num system="original-air-date">20260613085500 +0000</episode-num>
-    <desc>Renowned editor Maxwell Perkins (Colin Firth) develops a friendship with author Thomas Wolfe (Jude Law) while working on the writer's manuscripts.</desc>
-    <icon src="https://images.pluto.tv/series/660ef1c2d4a73e0013a27ff5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">660ef1c2d4a73e0013a27ff5</series-id>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260613105700 +0000" stop="20260613130800 +0000">
     <title>The Railway Man</title>
     <live />
@@ -83715,6 +83693,28 @@ Ted doubles down on Nick and Brandon's salvage skills and sends the boys out on 
     <icon src="https://images.pluto.tv/series/69ebc4e71aab98e5ee067a01/tile_1777059048002.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69ebc4e71aab98e5ee067a01</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260614004700 +0000" stop="20260614025000 +0000">
+    <title>Genius</title>
+    <live />
+    <episode-num system="original-air-date">20260614004700 +0000</episode-num>
+    <desc>Renowned editor Maxwell Perkins (Colin Firth) develops a friendship with author Thomas Wolfe (Jude Law) while working on the writer's manuscripts.</desc>
+    <icon src="https://images.pluto.tv/series/660ef1c2d4a73e0013a27ff5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">660ef1c2d4a73e0013a27ff5</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260614025000 +0000" stop="20260614050000 +0000">
+    <title>The Railway Man</title>
+    <live />
+    <episode-num system="original-air-date">20260614025000 +0000</episode-num>
+    <desc>Eric Lomax (Colin Firth), a former British army officer and POW, discovers that the Japanese interpreter who tortured him is still alive. He and his new wife (Nicole Kidman) set out to confront the man who caused him so much pain.</desc>
+    <icon src="https://images.pluto.tv/series/668478801da3f600135b68e8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">668478801da3f600135b68e8</series-id>
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
