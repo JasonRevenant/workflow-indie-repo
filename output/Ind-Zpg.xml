@@ -83165,11 +83165,6 @@ A couple attempts to return a supposedly mint-condition video game that has sinc
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260614090304 +0000" stop="20260614104426 +0000">
-    <title>Wild Card</title>
-    <desc>Jason Statham stars as a Las Vegas bodyguard with lethal skills and a gambling problem. When he gets in trouble with the mob, he has one last play and it's all or nothing. Based on the novel by Academy Award-winning writer William Goldman.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1419850268_0_20251208T100317884Z_132_imageprocessorclient-tvplus-linear-85d7d49859-9m9zg.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260614104426 +0000" stop="20260614124110 +0000">
     <title>Homefront</title>
     <desc>A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.</desc>
@@ -83185,15 +83180,10 @@ A couple attempts to return a supposedly mint-condition video game that has sinc
     <desc>Jason Statham stars as a Las Vegas bodyguard with lethal skills and a gambling problem. When he gets in trouble with the mob, he has one last play and it's all or nothing. Based on the novel by Academy Award-winning writer William Goldman.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1419850268_0_20251208T100317884Z_132_imageprocessorclient-tvplus-linear-85d7d49859-9m9zg.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260614072510 +0000" stop="20260614091010 +0000">
-    <title>A Romance Wedding</title>
-    <desc />
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
-  </programme>
-  <programme channel="GBBA3300059BU" start="20260614091010 +0000" stop="20260614105504 +0000">
-    <title>Sisters of the Groom</title>
-    <desc>Jason ropes his neighbor Sarah into pretending to be his girlfriend for his brother's wedding but his prying sisters suspect something is amiss.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485489127_1_20231024T173456098Z_43.jpeg" />
+  <programme channel="GBBA33000557H" start="20260614163533 +0000" stop="20260614183217 +0000">
+    <title>Homefront</title>
+    <desc>A former DEA agent moves his family to a quiet town, where he soon tangles with a local meth druglord.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698294_0_20250724T094855613Z_118_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260614105504 +0000" stop="20260614124020 +0000">
     <title>Abduction of Angie</title>
@@ -83210,21 +83200,20 @@ A couple attempts to return a supposedly mint-condition video game that has sinc
     <desc>A group of Americans - a singer, a newspaper editor, a pastor and a real estate mogul - vow to walk in the steps of Jesus. Every day, every decision becomes a turning point in their lives as they must ask themselves "What Would Jesus Do?"</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485343160_2_20231018T125757107Z_66.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260614162005 +0000" stop="20260614181005 +0000">
+    <title>Calling for Love</title>
+    <desc>A podcast host who is cynical about love meets Jake, a charismatic and charming new caller.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260614181005 +0000" stop="20260614195511 +0000">
+    <title>Our Dream Wedding</title>
+    <desc>Haley, staunchly anti-marriage, tries on her grandma's magical veil and sees her future with boyfriend Scott.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260614065000 +0000" stop="20260614090300 +0000">
-    <title>Revolver</title>
-    <live />
-    <episode-num system="original-air-date">20260614065000 +0000</episode-num>
-    <desc>Hotshot gambler Jake Green spends seven years in jail after taking the rap for crime boss Dorothy Macha. When he is released, Jake partners with brothers Avi and Zach to take Macha down.</desc>
-    <icon src="https://images.pluto.tv/series/66d64a8f9f04dd0013b11c85/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66d64a8f9f04dd0013b11c85</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260614090300 +0000" stop="20260614104400 +0000">
     <title>Wild Card</title>
     <live />
@@ -83310,6 +83299,17 @@ A couple attempts to return a supposedly mint-condition video game that has sinc
     <icon src="https://images.pluto.tv/series/6783849ffdf9ffc121c2b03d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6783849ffdf9ffc121c2b03d</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260615001800 +0000" stop="20260615021400 +0000">
+    <title>Redemption</title>
+    <live />
+    <episode-num system="original-air-date">20260615001800 +0000</episode-num>
+    <desc>Joey, an alcoholic war veteran assumes a new identity after returning from a traumatic tour in Afghanistan and becomes a vigilante in a bid to atone for his sins.</desc>
+    <icon src="https://images.pluto.tv/series/66980dc7dc6f2f00133db984/tile_1776096256415.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66980dc7dc6f2f00133db984</series-id>
     <category>Entertainment</category>
     <category>Series</category>
   </programme>
