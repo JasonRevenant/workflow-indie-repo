@@ -82795,11 +82795,6 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260620083537 +0000" stop="20260620103127 +0000">
-    <title>Man on a Ledge</title>
-    <desc>A police psychologist works to talk down an ex-con who is threatening to jump from a Manhattan hotel rooftop.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698180_0_20250724T094855621Z_131_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260620103127 +0000" stop="20260620123323 +0000">
     <title>After the Storm</title>
     <desc>When a luxury yacht goes down, the race is on to salvage the bounty at any cost.</desc>
@@ -82815,15 +82810,10 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <desc>The Four Horsemen resurface, and are recruited by a tech genius to pull off their most impossible heist yet.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1269058316_0_20251020T065226212Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-gdlst.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260620073058 +0000" stop="20260620091538 +0000">
-    <title>The Perfect Soulmate</title>
-    <desc>A poet with an abusive husband reaches out to a fan for help, only to find an even more dangerous companion.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
-  </programme>
-  <programme channel="GBBA3300059BU" start="20260620091538 +0000" stop="20260620110031 +0000">
-    <title>Baby Obsession</title>
-    <desc>Years after losing her child under a sitter's watch Raquel seeks revenge upon learning the sitter is pregnant.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260620165040 +0000" stop="20260620185925 +0000">
+    <title>Escape Plan</title>
+    <desc>The world's authority on structural security accepts a job to break out of an ultra-secret, high-tech facility</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698240_0_20250724T094847505Z_63_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260620110031 +0000" stop="20260620124520 +0000">
     <title>The Wrong Husband</title>
@@ -82840,21 +82830,20 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <desc>When Grace becomes obsessed with her neighbor she invents an imaginary stalker to help get him to protect her.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260620162030 +0000" stop="20260620180515 +0000">
+    <title>Advance and Retreat</title>
+    <desc>An ambitious junior executive is reunited with her first love at a corporate retreat, ultimately realizing that she might have to take a step back to make a leap forward.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485391474_0_20231019T005413293Z_26.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260620180515 +0000" stop="20260620195020 +0000">
+    <title>Love's Sweet Recipe</title>
+    <desc>Sparks fly between a talented chef and her childhood best friend as she regains her passion for cooking.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260620064300 +0000" stop="20260620083500 +0000">
-    <title>Stolen</title>
-    <live />
-    <episode-num system="original-air-date">20260620064300 +0000</episode-num>
-    <desc>A former thief (Nicolas Cage) has just 12 hours to come up with $10 million after his former partner (Josh Lucas) kidnaps his daughter and locks her in a cab.</desc>
-    <icon src="https://images.pluto.tv/series/65aa08ebecf2e50013d23835/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">65aa08ebecf2e50013d23835</series-id>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260620083500 +0000" stop="20260620103100 +0000">
     <title>Man on a Ledge</title>
     <live />
@@ -82863,8 +82852,8 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <icon src="https://images.pluto.tv/series/685c1d4ede5f6440c489b7b6/tile_1750867281355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4ede5f6440c489b7b6</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260620103100 +0000" stop="20260620123300 +0000">
     <title>After the Storm</title>
@@ -82874,8 +82863,8 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <icon src="https://images.pluto.tv/series/65c18bb070ac440013a94ea8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65c18bb070ac440013a94ea8</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260620123300 +0000" stop="20260620142500 +0000">
     <title>Stolen</title>
@@ -82885,8 +82874,8 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <icon src="https://images.pluto.tv/series/65aa08ebecf2e50013d23835/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65aa08ebecf2e50013d23835</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260620142500 +0000" stop="20260620165000 +0000">
     <title>Now You See Me 2</title>
@@ -82896,8 +82885,8 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <icon src="https://images.pluto.tv/series/68ed84d169032f4edf72095f/tile_1760398177486.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68ed84d169032f4edf72095f</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260620165000 +0000" stop="20260620185900 +0000">
     <title>Escape Plan</title>
@@ -82907,8 +82896,8 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <icon src="https://images.pluto.tv/series/68470527793797dca181e512/tile_1749484842616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68470527793797dca181e512</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260620185900 +0000" stop="20260620220200 +0000">
     <title>Prisoners</title>
@@ -82918,8 +82907,8 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <icon src="https://images.pluto.tv/series/6883bf5999a2f3e74a4dd960/tile_1753464681945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6883bf5999a2f3e74a4dd960</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260620220200 +0000" stop="20260621000100 +0000">
     <title>Reservoir Dogs</title>
@@ -82929,8 +82918,8 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <icon src="https://images.pluto.tv/series/67cd58a9651031cb4a23a5c8/tile_1779606363552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67cd58a9651031cb4a23a5c8</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260621000100 +0000" stop="20260621022500 +0000">
     <title>Now You See Me 2</title>
@@ -82940,8 +82929,19 @@ A customer offers up wardrobe made for the character Tony Soprano; Rick and Chum
     <icon src="https://images.pluto.tv/series/68ed84d169032f4edf72095f/tile_1760398177486.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68ed84d169032f4edf72095f</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260621022500 +0000" stop="20260621052400 +0000">
+    <title>Prisoners</title>
+    <live />
+    <episode-num system="original-air-date">20260621022500 +0000</episode-num>
+    <desc>When police have to release their only suspect, a desperate man (Hugh Jackman) takes the law into his own hands after his young daughter and her friend disappear.</desc>
+    <icon src="https://images.pluto.tv/series/6883bf5999a2f3e74a4dd960/tile_1753464681945.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6883bf5999a2f3e74a4dd960</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
