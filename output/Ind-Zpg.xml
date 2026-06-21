@@ -82654,11 +82654,6 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260621100243 +0000" stop="20260621120501 +0000">
-    <title>The Forbidden Kingdom</title>
-    <desc>An American teen joins up with a band of martial arts warriors in order to free the imprisoned Monkey King.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1155943945_0_20250828T061620679Z_36_imageprocessorclient-tvplus-linear-5db7c6bc99-sn6xc.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260621120501 +0000" stop="20260621143225 +0000">
     <title>Rob-B-Hood</title>
     <desc>Thongs and Octopus grow attached to the baby they kidnapped for their landlord, which leads to complications.</desc>
@@ -82669,15 +82664,15 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <desc>To win a bet, an eccentric British inventor embarks on a trip around the world in exactly eighty days.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1886214820_0_20260528T080828204Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-9pcd8.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260621090524 +0000" stop="20260621105051 +0000">
-    <title>The Baby Proposal</title>
-    <desc>Sparks fly between a TV show host and her colleague when they become the unexpected guardians of a baby.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260621164831 +0000" stop="20260621183907 +0000">
+    <title>The Spy Next Door</title>
+    <desc>A former CIA agent agrees to babysit his girlfriend's children as a chance to win them over.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1886239754_0_20260528T080828204Z_15_imageprocessorclient-tvplus-linear-66fc4d58c8-9pcd8.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260621105051 +0000" stop="20260621123511 +0000">
-    <title>Love at Sunset Terrace</title>
-    <desc>A girl tries to play matchmaker for her widowed father when a woman rents one of his rooms.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260621183907 +0000" stop="20260621204340 +0000">
+    <title>The Forbidden Kingdom</title>
+    <desc>An American teen joins up with a band of martial arts warriors in order to free the imprisoned Monkey King.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1155943945_0_20250828T061620679Z_36_imageprocessorclient-tvplus-linear-5db7c6bc99-sn6xc.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260621123511 +0000" stop="20260621142023 +0000">
     <title>Forever Love</title>
@@ -82689,21 +82684,20 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <desc>A debate about allowing school prayer pits Christians against Atheist.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485326789_3_20231018T125757202Z_93.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260621161010 +0000" stop="20260621180028 +0000">
+    <title>Dying for a Baby</title>
+    <desc>A couple is threatened when Jessica, the driver from their past accident, moves in next door seeking revenge.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260621180028 +0000" stop="20260621195510 +0000">
+    <title>My Daddy is in Heaven</title>
+    <desc>Becky, Adam and their 5-year-old daughter Acie are a perfect family until a tragic accident during a 4th of July celebration kills their father. Struggling with grief, Becky decides she needs to leave the family farm and all its memories. She leaves Acie with her grandfather Ben and visits with her friend from school, June. With all the best intent, June offers Becky plenty of distraction from her family life. Fueled by her anger at G*d and loss of faith, Becky starts drinking and making other self-destructive choices. Then, after Becky is arrested, Ben threatens to keep Acie until Becky is back on track. A chance encounter in a bus station with a traveler gives Becky what she needs to restore her faith and reunite with her family.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485340473_0_20231018T125754097Z_74.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260621072000 +0000" stop="20260621100200 +0000">
-    <title>Dune</title>
-    <live />
-    <episode-num system="original-air-date">20260621072000 +0000</episode-num>
-    <desc>Paul Atreides (Kyle MacLachlan) leads the fight for vital spice on a desert planet in the year 10191.</desc>
-    <icon src="https://images.pluto.tv/series/67b3e9e1bf47591d73301865/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">67b3e9e1bf47591d73301865</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260621100200 +0000" stop="20260621120500 +0000">
     <title>The Forbidden Kingdom</title>
     <live />
@@ -82712,8 +82706,8 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <icon src="https://images.pluto.tv/series/68a871014d15bfbcee7f89d2/tile_1755869700017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68a871014d15bfbcee7f89d2</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260621120500 +0000" stop="20260621143200 +0000">
     <title>Rob-B-Hood</title>
@@ -82723,8 +82717,8 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <icon src="https://images.pluto.tv/series/6a0dc5a69ee0ad741bc4bef8/tile_1779287463706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a0dc5a69ee0ad741bc4bef8</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260621143200 +0000" stop="20260621164800 +0000">
     <title>Around the World in 80 Days</title>
@@ -82734,8 +82728,8 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <icon src="https://images.pluto.tv/series/6a0dc5a79ee0ad741bc4c01a/tile_1779287464228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a0dc5a79ee0ad741bc4c01a</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260621164800 +0000" stop="20260621183900 +0000">
     <title>The Spy Next Door</title>
@@ -82745,8 +82739,8 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <icon src="https://images.pluto.tv/series/6a0dc5a79ee0ad741bc4bf7b/tile_1779287464147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a0dc5a79ee0ad741bc4bf7b</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260621183900 +0000" stop="20260621204300 +0000">
     <title>The Forbidden Kingdom</title>
@@ -82756,8 +82750,8 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <icon src="https://images.pluto.tv/series/68a871014d15bfbcee7f89d2/tile_1755869700017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68a871014d15bfbcee7f89d2</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260621204300 +0000" stop="20260621230200 +0000">
     <title>Around the World in 80 Days</title>
@@ -82767,8 +82761,8 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <icon src="https://images.pluto.tv/series/6a0dc5a79ee0ad741bc4c01a/tile_1779287464228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a0dc5a79ee0ad741bc4c01a</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260621230200 +0000" stop="20260622005200 +0000">
     <title>The Spy Next Door</title>
@@ -82778,8 +82772,8 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <icon src="https://images.pluto.tv/series/6a0dc5a79ee0ad741bc4bf7b/tile_1779287464147.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a0dc5a79ee0ad741bc4bf7b</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260622005200 +0000" stop="20260622032000 +0000">
     <title>Rob-B-Hood</title>
@@ -82789,8 +82783,19 @@ After Seth attempted to sell his father's business out from under him, Les canno
     <icon src="https://images.pluto.tv/series/6a0dc5a69ee0ad741bc4bef8/tile_1779287463706.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a0dc5a69ee0ad741bc4bef8</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260622032000 +0000" stop="20260622052200 +0000">
+    <title>The Forbidden Kingdom</title>
+    <live />
+    <episode-num system="original-air-date">20260622032000 +0000</episode-num>
+    <desc>A discovery made by a kung fu obsessed American teen sends him on an adventure to China, where he joins up with a band of martial arts warriors in order to free the imprisoned Monkey King.</desc>
+    <icon src="https://images.pluto.tv/series/68a871014d15bfbcee7f89d2/tile_1755869700017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">68a871014d15bfbcee7f89d2</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
