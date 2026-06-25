@@ -84361,16 +84361,6 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260625095301 +0000" stop="20260625104410 +0000">
-    <title>Rookie Blue</title>
-    <desc>On an undercover training exercise Traci and Andy stumble upon a woman who is about to die of an overdose.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260625104410 +0000" stop="20260625124353 +0000">
-    <title>The Nanny Diaries</title>
-    <desc>A college grad becomes a nanny in a snobby penthouse that requires more parenting than she could have imagined</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1947244493_0_20260620T061408737Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-wzkgn.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260625124353 +0000" stop="20260625145631 +0000">
     <title>Fierce People</title>
     <desc>A massage therapist looking to reconnect with her son moves in with a wealthy ex-client in New Jersey.</desc>
@@ -84381,15 +84371,10 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <desc>Two kids with special abilities must find a girl in Hong Kong before a shadowy government organization does.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078697988_1_20250724T094851071Z_80_imageprocessorclient-tvplus-linear-5db7c6bc99-7g8nq.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260625091059 +0000" stop="20260625110020 +0000">
-    <title>The Wrong Patient</title>
-    <desc>Dr. Richards, a successful plastic surgeon, is caught in a narcissistic patient's scary quest for perfection.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
-  </programme>
-  <programme channel="GBBA3300059BU" start="20260625110020 +0000" stop="20260625124520 +0000">
-    <title>The wrong Nanny</title>
-    <desc>When Blake finds her birth mother and her now-perfect family, Blake will do anything it takes to destroy it.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260625170135 +0000" stop="20260625192311 +0000">
+    <title>Snowpiercer</title>
+    <desc>After a failed global-warming experiment, a post-apocalyptic Ice Age has killed off nearly all life on Earth.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1744121382_0_20260402T044934173Z_25_imageprocessorclient-tvplus-linear-74d4c47476-l5txh.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260625124520 +0000" stop="20260625143002 +0000">
     <title>The Great New Wonderful</title>
@@ -84401,46 +84386,21 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <desc>Tara, a free spirit who doesn't need love, asks the Love Club to help plan Tara's commitment-to-herself party.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260625161503 +0000" stop="20260625180501 +0000">
+    <title>The Song to My Heart</title>
+    <desc>An organic tea shop owner helps a music sensation write lyrics for a new solo album.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260625180501 +0000" stop="20260625195520 +0000">
+    <title>Be Mine</title>
+    <desc>A woman finds romance as she prepares to take over her mother's garden store.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_952097914_0_20250606T053343048Z_57_imageprocessorclient-tvplus-linear-6fb5b47f79-vs62g.jpeg" />
+    <episode-num system="onscreen">S06E02</episode-num>
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260625081300 +0000" stop="20260625090200 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260625081300 +0000</episode-num>
-    <desc>Gail and Dov work with Swarerk as they try to protect an informant from a dangerous gang; Chris and Andy participate in competitive equine training.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Brotherhood</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260625090200 +0000" stop="20260625095300 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260625090200 +0000</episode-num>
-    <desc>Andy and Swarek come across a car accident while pursuing a child and his kidnapper; Chris fights with Dov over an indiscretion; Andy worries life is passing her by.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Best Laid Plans</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260625095300 +0000" stop="20260625104400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260625095300 +0000</episode-num>
-    <desc>An undercover training exercise challenges Andy, Dov and Traci; Gail and Chris find a tied-up teenager at a graveyard.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>A Little Faith</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260625104400 +0000" stop="20260625124300 +0000">
     <title>The Nanny Diaries</title>
     <live />
@@ -84449,8 +84409,8 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <icon src="https://images.pluto.tv/series/6811df9b00cabfe6fe296ef5/tile_1746001820921.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6811df9b00cabfe6fe296ef5</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260625124300 +0000" stop="20260625145600 +0000">
     <title>Fierce People</title>
@@ -84460,8 +84420,8 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <icon src="https://images.pluto.tv/series/69942e33eff94c5fe3ede0b4/tile_1771318836250.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69942e33eff94c5fe3ede0b4</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260625145600 +0000" stop="20260625170100 +0000">
     <title>Push</title>
@@ -84471,8 +84431,8 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <icon src="https://images.pluto.tv/series/676adaa50bd9010013ade7c6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">676adaa50bd9010013ade7c6</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260625170100 +0000" stop="20260625192300 +0000">
     <title>Snowpiercer</title>
@@ -84482,8 +84442,8 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <icon src="https://images.pluto.tv/series/69c40db48e5593ad0e9c4285/tile_1774456271045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69c40db48e5593ad0e9c4285</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260625192300 +0000" stop="20260625212700 +0000">
     <title>The Iceman</title>
@@ -84493,8 +84453,8 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <icon src="https://images.pluto.tv/series/6a17ef32a87694f996cdbd6d/tile_1779953459086.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a17ef32a87694f996cdbd6d</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260625212700 +0000" stop="20260625233700 +0000">
     <title>Push</title>
@@ -84504,8 +84464,8 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <icon src="https://images.pluto.tv/series/676adaa50bd9010013ade7c6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">676adaa50bd9010013ade7c6</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260625233700 +0000" stop="20260626015900 +0000">
     <title>Snowpiercer</title>
@@ -84515,8 +84475,30 @@ Explores how Hitler's favourite architect and Minister of Armaments, Albert Spee
     <icon src="https://images.pluto.tv/series/69c40db48e5593ad0e9c4285/tile_1774456271045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69c40db48e5593ad0e9c4285</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260626015900 +0000" stop="20260626040100 +0000">
+    <title>The Iceman</title>
+    <live />
+    <episode-num system="original-air-date">20260626015900 +0000</episode-num>
+    <desc>Hit man Richard Kuklinski earns a well-deserved reputation as a cold-blooded killer but manages to keep his violent profession a secret from his wife and children for years.</desc>
+    <icon src="https://images.pluto.tv/series/6a17ef32a87694f996cdbd6d/tile_1779953459086.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a17ef32a87694f996cdbd6d</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260626040100 +0000" stop="20260626061100 +0000">
+    <title>Fierce People</title>
+    <live />
+    <episode-num system="original-air-date">20260626040100 +0000</episode-num>
+    <desc>A drug addict (Diane Lane) and her teenage son (Anton Yelchin) spend a fateful summer at a benevolent billionaire's (Donald Sutherland) lavish estate.</desc>
+    <icon src="https://images.pluto.tv/series/69942e33eff94c5fe3ede0b4/tile_1771318836250.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">69942e33eff94c5fe3ede0b4</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
