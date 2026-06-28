@@ -85023,11 +85023,6 @@ Ashley's attitude is nothing new, but when her sass starts costing the store bus
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260628083833 +0000" stop="20260628102538 +0000">
-    <title>The Legend of Hercules</title>
-    <desc>Banished by the king, Hercules harnesses his powers and gathers an army to fight his way back to his kingdom.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1081617071_0_20250725T082328598Z_28_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260628102538 +0000" stop="20260628123535 +0000">
     <title>Outlander</title>
     <desc>A man from another world crash lands on Earth during the age of the Vikings.</desc>
@@ -85043,10 +85038,10 @@ Ashley's attitude is nothing new, but when her sass starts costing the store bus
     <desc>The legendary Cimmerian warrior, Conan, fights an epic battle against hulking rivals, horrific monsters, and impossible odds, as he realizes he is the only one who can save the great nations of Hyboria from an encroaching reign of supernatural evil.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1176684440_0_20250907T050428768Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-lswmc.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260628091520 +0000" stop="20260628110543 +0000">
-    <title>Love You to Death</title>
-    <desc>A prosecutor must work on a case which reminds her of her childhood, when her mother was killed by her alcoholic father.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485318875_3_20231018T125758102Z_68.jpeg" />
+  <programme channel="GBBA33000557H" start="20260628164449 +0000" stop="20260628183123 +0000">
+    <title>The Legend of Hercules</title>
+    <desc>Banished by the king, Hercules harnesses his powers and gathers an army to fight his way back to his kingdom.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1081617071_0_20250725T082328598Z_28_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260628110543 +0000" stop="20260628125005 +0000">
     <title>A Man for Every Month</title>
@@ -85063,32 +85058,20 @@ Ashley's attitude is nothing new, but when her sass starts costing the store bus
     <desc>Jeri Jones runs the popular website ‘Bad Date Chronicles' where daters can go to anonymously post horrible date experiences. Realizing he's the subject of one of the posts, rival blogger Jack Collins dares Jeri to three dates in an attempt to prove he's not such a bad guy after all.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485321211_2_20231018T125756830Z_67.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260628161502 +0000" stop="20260628180504 +0000">
+    <title>Blueprint to the Heart</title>
+    <desc>A TV host must choose between chasing ratings or following her heart when she falls for a handsome guest.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260628180504 +0000" stop="20260628195004 +0000">
+    <title>Game of Love</title>
+    <desc>Ex-Wife Frances conspires with her grown children to force Jake to sell his cherished Seattle basketball team. Will game changing moves off the court help reignite romantic sparks?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485324257_1_20231018T125755955Z_113.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260628064300 +0000" stop="20260628083800 +0000">
-    <title>The Princess Bride</title>
-    <live />
-    <episode-num system="original-air-date">20260628064300 +0000</episode-num>
-    <desc>A storybook stable boy turns pirate and rescues his beloved, who is about to marry a dreadful prince.</desc>
-    <icon src="https://images.pluto.tv/series/668d97077e51670013781d17/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">668d97077e51670013781d17</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260628083800 +0000" stop="20260628102500 +0000">
-    <title>The Legend of Hercules</title>
-    <live />
-    <episode-num system="original-air-date">20260628083800 +0000</episode-num>
-    <desc>Betrayed by his stepfather, the King, and exiled and sold into slavery because of a forbidden love, Hercules must use his formidable powers to fight his way back to his rightful kingdom.</desc>
-    <icon src="https://images.pluto.tv/series/659d19310726640013560659/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">659d19310726640013560659</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260628102500 +0000" stop="20260628123500 +0000">
     <title>Outlander</title>
     <live />
@@ -85163,6 +85146,17 @@ Ashley's attitude is nothing new, but when her sass starts costing the store bus
     <icon src="https://images.pluto.tv/series/68b188640652cfdb65cc20fd/tile_1756526931918.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">68b188640652cfdb65cc20fd</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260629013600 +0000" stop="20260629034600 +0000">
+    <title>Outlander</title>
+    <live />
+    <episode-num system="original-air-date">20260629013600 +0000</episode-num>
+    <desc>An alien soldier (James Caviezel) crashes on Earth during the time of the Vikings and blends his technology with theirs to hunt his enemy.</desc>
+    <icon src="https://images.pluto.tv/series/685c08282339944cecd6cbf5/tile_1750861896343.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">685c08282339944cecd6cbf5</series-id>
     <category>Entertainment</category>
     <category>Series</category>
   </programme>
