@@ -84353,26 +84353,6 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260630082119 +0000" stop="20260630091104 +0000">
-    <title>Rookie Blue</title>
-    <desc>Andy is partnered with Swarek's new girlfriend, Officer Marlo Cruz.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260630091104 +0000" stop="20260630100200 +0000">
-    <title>Rookie Blue</title>
-    <desc>A routine highway check leads to the discovery of a teenage boy in the trunk of a car.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260630100200 +0000" stop="20260630105300 +0000">
-    <title>Rookie Blue</title>
-    <desc>After a messy drug arrest, Andy and Marlo are quarantined together.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260630105300 +0000" stop="20260630114338 +0000">
-    <title>Rookie Blue</title>
-    <desc>There's a possible connection between a missing woman and one of the division's most distressing cases.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260630114338 +0000" stop="20260630133648 +0000">
     <title>Mechanic: Resurrection</title>
     <desc>Arthur Bishop thought he had put his murderous past behind him when a foe kidnaps the love of his life.</desc>
@@ -84383,10 +84363,15 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <desc>Luke Wright is tormented by the Russian Mafia and witnesses a young Chinese girl being pursued by the same mafia who want her for a priceless numerical code that they would kill for.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1419826737_0_20251208T100317823Z_1_imageprocessorclient-tvplus-linear-85d7d49859-9m9zg.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260630090512 +0000" stop="20260630105501 +0000">
-    <title>Calling for Love</title>
-    <desc>A podcast host who is cynical about love meets Jake, a charismatic and charming new caller.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260630152221 +0000" stop="20260630174142 +0000">
+    <title>Parker</title>
+    <desc>A thief with a unique code of professional ethics is double-crossed by his crew and left for dead.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1120785575_0_20250811T052233562Z_110_imageprocessorclient-tvplus-linear-5db7c6bc99-6pdlt.jpeg" />
+  </programme>
+  <programme channel="GBBA33000557H" start="20260630174142 +0000" stop="20260630193453 +0000">
+    <title>Mechanic: Resurrection</title>
+    <desc>Arthur Bishop thought he had put his murderous past behind him when a foe kidnaps the love of his life.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1455271571_0_20251220T115145803Z_1_imageprocessorclient-tvplus-linear-85d7d49859-779xr.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260630105501 +0000" stop="20260630124002 +0000">
     <title>All for Love</title>
@@ -84403,46 +84388,20 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <desc>After many years, a group of friends reunite at the summer camp of their youth, which is on the verge of being sold off.  When reliving their past joys, loves and sorrows, they open a time capsule that brings old tensions to the surface and inspires some newfound relationships.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485391822_0_20231019T005405632Z_112.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260630161030 +0000" stop="20260630180051 +0000">
+    <title>WWJD What Would Jesus Do?</title>
+    <desc>A group of Americans - a singer, a newspaper editor, a pastor and a real estate mogul - vow to walk in the steps of Jesus. Every day, every decision becomes a turning point in their lives as they must ask themselves "What Would Jesus Do?"</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485343160_2_20231018T125757107Z_66.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260630180051 +0000" stop="20260630195002 +0000">
+    <title>Deadly Vows</title>
+    <desc>Pastry chef Helena poisons men who don't meet her standards, but Helena's fiancé's sister smells danger.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260630063900 +0000" stop="20260630073000 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260630063900 +0000</episode-num>
-    <desc>Nick and Andy go missing while working undercover to infiltrate a meth pipeline; Swarek and the other officers find themselves in the middle of a rescue operation; Andy works to deal with all the change going on around her.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Surprises</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260630073000 +0000" stop="20260630082100 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260630073000 +0000</episode-num>
-    <desc>On her first day back, Andy is forced to work a bank robbery case with newly promoted Swarek; a distraught woman gives Nick perspective on his life with Gail; a bombshell is dropped on Noelle.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Homecoming</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260630082100 +0000" stop="20260630091100 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260630082100 +0000</episode-num>
-    <desc>Andy and Officer Cruz butt heads when a disturbed woman forces them to make a crucial decision; an armed burglar is sought after a string of ATM robberies; Dov and Chloe have to work together.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Different, Not Better</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630091100 +0000" stop="20260630100200 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -84452,8 +84411,8 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>The Kids Are Not Alright</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630100200 +0000" stop="20260630105300 +0000">
     <title>Rookie Blue</title>
@@ -84464,8 +84423,8 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Poison Pill</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630105300 +0000" stop="20260630114300 +0000">
     <title>Rookie Blue</title>
@@ -84476,8 +84435,8 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Skeletons</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630114300 +0000" stop="20260630133600 +0000">
     <title>Mechanic: Resurrection</title>
@@ -84487,8 +84446,8 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <icon src="https://images.pluto.tv/series/693b1c396a2e5eeebc85e42f/tile_1765481530995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">693b1c396a2e5eeebc85e42f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630133600 +0000" stop="20260630152200 +0000">
     <title>Safe</title>
@@ -84498,8 +84457,8 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <icon src="https://images.pluto.tv/series/685c1d4ade5f6440c4898e51/tile_1750867276929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4ade5f6440c4898e51</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630152200 +0000" stop="20260630174100 +0000">
     <title>Parker</title>
@@ -84509,8 +84468,8 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <icon src="https://images.pluto.tv/series/685c1d4bde5f6440c4899a77/tile_1750867278707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4bde5f6440c4899a77</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630174100 +0000" stop="20260630193400 +0000">
     <title>Mechanic: Resurrection</title>
@@ -84520,8 +84479,8 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <icon src="https://images.pluto.tv/series/693b1c396a2e5eeebc85e42f/tile_1765481530995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">693b1c396a2e5eeebc85e42f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630193400 +0000" stop="20260630214200 +0000">
     <title>The Bank Job</title>
@@ -84531,8 +84490,8 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <icon src="https://images.pluto.tv/series/694e4eb16a5d6e3860d356e7/tile_1766744463089.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">694e4eb16a5d6e3860d356e7</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260630214200 +0000" stop="20260630233800 +0000">
     <title>Blitz</title>
@@ -84542,8 +84501,30 @@ A diamond heist that unravels in a ditch, a colossal burning crater dubbed the "
     <icon src="https://images.pluto.tv/series/66980dc7dc6f2f00133db9af/tile_1757811880055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66980dc7dc6f2f00133db9af</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260630233800 +0000" stop="20260701014100 +0000">
+    <title>Chaos</title>
+    <live />
+    <episode-num system="original-air-date">20260630233800 +0000</episode-num>
+    <desc>A veteran detective and a rookie cop have to stop a master thief's computer virus before it drains all the funds from a bank's accounts.</desc>
+    <icon src="https://images.pluto.tv/series/680b3a1519d991719ffdda31/tile_1745566233004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">680b3a1519d991719ffdda31</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260701014100 +0000" stop="20260701035200 +0000">
+    <title>The Bank Job</title>
+    <live />
+    <episode-num system="original-air-date">20260701014100 +0000</episode-num>
+    <desc>In 1971 London, a car dealer and his gang of thieves break into a bank vault and find far more than cash and jewelry.</desc>
+    <icon src="https://images.pluto.tv/series/694e4eb16a5d6e3860d356e7/tile_1766744463089.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">694e4eb16a5d6e3860d356e7</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
