@@ -84491,21 +84491,6 @@ As the war progresses from the ground into the sky, young brave pilots give thei
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260702084541 +0000" stop="20260702093622 +0000">
-    <title>Rookie Blue</title>
-    <desc>When 15 Division goes undercover at a club-land bar, Chris's erratic behavior make Dov suspicious.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260702093622 +0000" stop="20260702102725 +0000">
-    <title>Rookie Blue</title>
-    <desc>As the officers try to hunt down the killer of Brian Gowdy – Andy and Sam go on the road for interviews.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260702102725 +0000" stop="20260702111844 +0000">
-    <title>Rookie Blue</title>
-    <desc>Oliver prepares Andy to defend herself at Duncan's dismissal hearing, now happening two hours from now.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260702111844 +0000" stop="20260702131305 +0000">
     <title>The Duff</title>
     <desc>A high school senior instigates revolution after finding out she's the DUFF - Designated Ugly Fat Friend.</desc>
@@ -84516,10 +84501,15 @@ As the war progresses from the ground into the sky, young brave pilots give thei
     <desc>Jess does not want to settle down. She wants to show the world how great of a soccer player she is.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1125286278_0_20250813T084616396Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260702090037 +0000" stop="20260702105515 +0000">
-    <title>Maria My Love</title>
-    <desc>A young woman named Ana is struggling to deal with her mother's death and her father's mistakes. In an effort to feel better, she reconnects with her half-sister Grace, (Lauren Fales) and, inspired by a new boyfriend (Brian Rieger), sets out on a quest to find someone to help. Though excited and hopeful when she meets an eccentric woman named Maria (Karen Black), she soon discovers Maria is a compulsive hoarder, and is swept up in a situation more emotionally and morally complicated than she had expected to find. Inspired by a true story.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485338204_0_20231018T125755193Z_53.jpeg" />
+  <programme channel="GBBA33000557H" start="20260702152332 +0000" stop="20260702171635 +0000">
+    <title>LOL</title>
+    <desc>Anne deals with life as a working mother and raising a teen who seems to be growing up faster than expected.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1135306225_0_20250818T070011955Z_119_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg" />
+  </programme>
+  <programme channel="GBBA33000557H" start="20260702171635 +0000" stop="20260702191056 +0000">
+    <title>The Duff</title>
+    <desc>A high school senior instigates revolution after finding out she's the DUFF - Designated Ugly Fat Friend.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1966619280_0_20260627T091304414Z_118_imageprocessorclient-tvplus-linear-66fc4d58c8-gbvhf.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260702105515 +0000" stop="20260702124504 +0000">
     <title>Running Away</title>
@@ -84536,58 +84526,20 @@ As the war progresses from the ground into the sky, young brave pilots give thei
     <desc>A patient mistakes his doctor's compassion for adoration and becomes dangerously obsessed.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260702161500 +0000" stop="20260702180059 +0000">
+    <title>The Psycho She Met Online</title>
+    <desc>While her husband heals from a car crash, Karen bonds with their new renter—until another houseguest vanishes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260702180059 +0000" stop="20260702194502 +0000">
+    <title>Love on the Vines</title>
+    <desc>When Diana inherits half her uncle's vineyard, she is surprised to find a rule requiring her to work the land with new co-owner Seth or risk losing the land.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485335756_3_20231018T125758102Z_61.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260702061300 +0000" stop="20260702070400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260702061300 +0000</episode-num>
-    <desc>Oliver is promoted to Acting Staff Sergeant; a new rookie joins the force.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>All by Her Selfie</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260702070400 +0000" stop="20260702075400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260702070400 +0000</episode-num>
-    <desc>Before Fight Night, the officers have to seize all proceeds from crime.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Heart Breakers, Money Makers</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260702075400 +0000" stop="20260702084500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260702075400 +0000</episode-num>
-    <desc>Andy worries Duncan may not be suited to the job; when the body of an executed gang leader is found, 15 Division works to prevent a gang war from breaking out; Gail makes a harrowing discovery.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Wanting</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260702084500 +0000" stop="20260702093600 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260702084500 +0000</episode-num>
-    <desc>After tracking a gun found at a frat house, 15 Division goes undercover at a bar that is supplying illegal firearms; Dov becomes suspicious of Chris' behavior; Andy helps Sam with a missing person case.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Going Under</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260702093600 +0000" stop="20260702102700 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -84645,6 +84597,17 @@ As the war progresses from the ground into the sky, young brave pilots give thei
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260702171600 +0000" stop="20260702191000 +0000">
+    <title>The DUFF</title>
+    <live />
+    <episode-num system="original-air-date">20260702171600 +0000</episode-num>
+    <desc>A high-school senior (Mae Whitman) sets out to reinvent herself and revolutionize the student body's social order after learning that a judgmental classmate has given her an embarrassing nickname.</desc>
+    <icon src="https://images.pluto.tv/series/6a34324e87a403a7cf913551/tile_1781805647709.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a34324e87a403a7cf913551</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260702191000 +0000" stop="20260702212100 +0000">
     <title>Bend It Like Beckham</title>
     <live />
@@ -84678,15 +84641,14 @@ As the war progresses from the ground into the sky, young brave pilots give thei
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260703064600 +0000" stop="20260703073700 +0000">
-    <title>Rookie Blue</title>
+  <programme channel="6401d85a49839300087b116c" start="20260703010000 +0000" stop="20260703025400 +0000">
+    <title>The DUFF</title>
     <live />
-    <episode-num system="original-air-date">20260703064600 +0000</episode-num>
-    <desc>When a car bomb explodes in a downtown parking garage, a newly reinstated Duncan goes rogue in an effort to prove himself.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <episode-num system="original-air-date">20260703010000 +0000</episode-num>
+    <desc>A high-school senior (Mae Whitman) sets out to reinvent herself and revolutionize the student body's social order after learning that a judgmental classmate has given her an embarrassing nickname.</desc>
+    <icon src="https://images.pluto.tv/series/6a34324e87a403a7cf913551/tile_1781805647709.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Fragments</sub-title>
+    <series-id system="pluto">6a34324e87a403a7cf913551</series-id>
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
