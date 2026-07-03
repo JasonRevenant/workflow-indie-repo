@@ -82419,16 +82419,6 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260703100947 +0000" stop="20260703110050 +0000">
-    <title>Rookie Blue</title>
-    <desc>A riot breaks out at a women's prison while Andy, Juliet, Nick, and Gail are there to transfer prisoners.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260703110050 +0000" stop="20260703125303 +0000">
-    <title>Empire State</title>
-    <desc>Crime drama starring Liam Hemsworth. A security guard is convinced by his reckless best friend to rob the company he works for, resulting in a violent criminal gang and a tough detective on their trail...can they escape prison, or a worse fate?</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1506974267_0_20260102T110604622Z_125_imageprocessorclient-tvplus-linear-85d7d49859-2hv8g.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260703125303 +0000" stop="20260703151430 +0000">
     <title>Hunter Killer</title>
     <desc>Navy SEALs try to stop a renegade Russian military leader who wants to start a war.</desc>
@@ -82439,15 +82429,15 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <desc>A former special-ops marine turned mercenary is given one last shot at redemption.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1283501774_0_20251027T053646588Z_23_imageprocessorclient-tvplus-linear-5db7c6bc99-t7nzf.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260703091021 +0000" stop="20260703105504 +0000">
-    <title>Made For You, With Love</title>
-    <desc>A secondhand wedding dress owner helps brides find their dream gowns but fears giving love a second chance.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260703170223 +0000" stop="20260703190504 +0000">
+    <title>Criminal</title>
+    <desc>The memories and skills of a deceased CIA agent are implanted into a dangerous convict.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1736580692_0_20260330T072804496Z_111_imageprocessorclient-tvplus-linear-74d4c47476-j6nv5.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260703105504 +0000" stop="20260703124049 +0000">
-    <title>Meet Me in New York</title>
-    <desc>Events planner Kelly meets her match in web editor Joe when planning his niece's birthday party.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_947425712_3_20250604T152426969Z_53_imageprocessorclient-tvplus-linear-6fb5b47f79-xd9xm.jpeg" />
+  <programme channel="GBBA33000557H" start="20260703190504 +0000" stop="20260703211459 +0000">
+    <title>American Assassin</title>
+    <desc>A CIA black-ops recruit uses his lethal skills to try and stop a rogue operative with a deadly agenda.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1081626136_0_20250725T082328598Z_74_imageprocessorclient-tvplus-linear-5db7c6bc99-7lnxh.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260703124049 +0000" stop="20260703143011 +0000">
     <title>My Baby Gone</title>
@@ -82464,46 +82454,15 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <desc>An online stalker torments a young woman.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485620069_0_20231029T003917505Z_20.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260703180100 +0000" stop="20260703195003 +0000">
+    <title>The Music in Me</title>
+    <desc>A singer/songwriter leaves her dreams behind to help her family, until one special guy and a group of musically-challenged strangers help her find her voice again.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323501_2_20231018T125757411Z_112.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260703082700 +0000" stop="20260703091800 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260703082700 +0000</episode-num>
-    <desc>Andy and Sam return to work; Andy is attacked at Traci's apartment and the Sex Crimes Unit tries to take over the case.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Open Windows</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260703091800 +0000" stop="20260703100900 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260703091800 +0000</episode-num>
-    <desc>Andy contemplates her future with Sam after learning of heartbreaking news; she meets a teenager in need of protection.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Perfect Family</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260703100900 +0000" stop="20260703110000 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260703100900 +0000</episode-num>
-    <desc>A riot erupts at an over-capacity women's correctional facility while Andy, Juliet, Nick and Gail transfer inmates; a dangerous prisoner tries to prove her innocence to a trapped Andy and Juliet.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Uprising</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260703110000 +0000" stop="20260703125300 +0000">
     <title>Empire State</title>
     <live />
@@ -82512,8 +82471,8 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <icon src="https://images.pluto.tv/series/670d3929a2922a00132ddcca/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670d3929a2922a00132ddcca</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260703125300 +0000" stop="20260703151400 +0000">
     <title>Hunter Killer</title>
@@ -82523,8 +82482,8 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <icon src="https://images.pluto.tv/series/695fc6bbb9f75c652f01f855/tile_1767888348065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">695fc6bbb9f75c652f01f855</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260703151400 +0000" stop="20260703170200 +0000">
     <title>24 Hours to Live</title>
@@ -82534,8 +82493,8 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <icon src="https://images.pluto.tv/series/65e829a26ef49d001341a79f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65e829a26ef49d001341a79f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260703170200 +0000" stop="20260703190500 +0000">
     <title>Criminal</title>
@@ -82545,8 +82504,8 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <icon src="https://images.pluto.tv/series/660322643e3d500013005ffe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">660322643e3d500013005ffe</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260703190500 +0000" stop="20260703211400 +0000">
     <title>American Assassin</title>
@@ -82556,8 +82515,8 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <icon src="https://images.pluto.tv/series/670d3929a2922a00132ddc9f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">670d3929a2922a00132ddc9f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260703211400 +0000" stop="20260703230000 +0000">
     <title>Everly</title>
@@ -82567,8 +82526,8 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <icon src="https://images.pluto.tv/series/6887f3524f8d4a9917f12865/tile_1753740117058.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6887f3524f8d4a9917f12865</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260703230000 +0000" stop="20260704004600 +0000">
     <title>24 Hours to Live</title>
@@ -82578,8 +82537,8 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <icon src="https://images.pluto.tv/series/65e829a26ef49d001341a79f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65e829a26ef49d001341a79f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260704004600 +0000" stop="20260704024900 +0000">
     <title>Criminal</title>
@@ -82589,8 +82548,19 @@ Competition boils over when bitter rivals Brandon and Jesse throw down over a st
     <icon src="https://images.pluto.tv/series/660322643e3d500013005ffe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">660322643e3d500013005ffe</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260704024900 +0000" stop="20260704045900 +0000">
+    <title>American Assassin</title>
+    <live />
+    <episode-num system="original-air-date">20260704024900 +0000</episode-num>
+    <desc>Cold War veteran Stan Hurley takes CIA black ops recruit Mitch Rapp under his wing, and they join forces with a lethal Turkish agent to stop a mysterious operative who wants to start a global war.</desc>
+    <icon src="https://images.pluto.tv/series/670d3929a2922a00132ddc9f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">670d3929a2922a00132ddc9f</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
