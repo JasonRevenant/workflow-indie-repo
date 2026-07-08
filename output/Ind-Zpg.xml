@@ -84117,21 +84117,6 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260708084429 +0000" stop="20260708093438 +0000">
-    <title>Rookie Blue</title>
-    <desc>Andy's ex-cop father has confessed that he may have committed a crime during an alcohol-induced blackout.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260708093438 +0000" stop="20260708102537 +0000">
-    <title>Rookie Blue</title>
-    <desc>It's time for performance assessments for the rookies as they find out the fate of their careers.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260708102537 +0000" stop="20260708111655 +0000">
-    <title>Rookie Blue</title>
-    <desc>When an arrest compromises a drug bust, Andy steps up to salvage the bust by going undercover with Swarek.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260708111655 +0000" stop="20260708133151 +0000">
     <title>3 Days to Kill</title>
     <desc>A dying CIA agent is offered an experimental drug that could save his life in exchange for one last assignment</desc>
@@ -84142,10 +84127,15 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <desc>A police psychologist works to talk down an ex-con who is threatening to jump from a Manhattan hotel rooftop.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698180_0_20250724T094855621Z_131_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260708090507 +0000" stop="20260708105019 +0000">
-    <title>The Bad Son</title>
-    <desc>An elusive serial killer is killing innocent women in Seattle. The police and FBI are on the killer's trail but were never prepared to face a bizarre twist in the case.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487364_1_20231024T173452948Z_166.jpeg" />
+  <programme channel="GBBA33000557H" start="20260708152741 +0000" stop="20260708171716 +0000">
+    <title>The Cold Light of Day</title>
+    <desc>After his family is kidnapped, a young Wall Street trader is confronted by the people responsible.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698343_1_20250724T094851070Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-7g8nq.jpeg" />
+  </programme>
+  <programme channel="GBBA33000557H" start="20260708171716 +0000" stop="20260708190945 +0000">
+    <title>Nerve</title>
+    <desc>Partnered with a sly competitor, a high schooler plays an online game of dare that takes a sinister turn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1983690591_0_20260703T092437665Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-nbtjg.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260708105019 +0000" stop="20260708123514 +0000">
     <title>The Perfect Soulmate</title>
@@ -84162,46 +84152,20 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <desc>When Sydney reconnects with her ex and joins a Half Marathon he is running, she asks the Love Club to help.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260708161015 +0000" stop="20260708180006 +0000">
+    <title>A Friend's Obsession</title>
+    <desc>After Megan's fiancé is killed, Lloyd follows her to win her love, but her new boyfriend stands in the way.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260708180006 +0000" stop="20260708195014 +0000">
+    <title>Wish You Were Dead</title>
+    <desc>Hayley Udall tries to make ends meet for herself and her 14 year-old daughter while providing alimony for a horrible ex-husband. She wishes her problems with her ex could go away, and upon venting her frustrations one night, finds herself tangled up in a pact with two people (Melanie and Kevin) to “eliminate” each other's problems.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485488026_1_20231024T173456957Z_43.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260708084400 +0000" stop="20260708093400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260708084400 +0000</episode-num>
-    <desc>Andy faces the possibility that her father may have murdered someone during a drunken blackout; Chris and Dov's squad car is robbed.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>To Serve or Protect</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260708093400 +0000" stop="20260708102500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260708093400 +0000</episode-num>
-    <desc>Andy questions her future with the force after the suspicious death of a young girl; the rookies find out if they have passed their evaluations.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Judgment Day</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260708102500 +0000" stop="20260708111600 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260708102500 +0000</episode-num>
-    <desc>An untimely arrest compromises a major drug bust; Andy goes undercover with Swarek; Dov must choose between his girlfriend and his career.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Takedown</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260708111600 +0000" stop="20260708133100 +0000">
     <title>3 Days to Kill</title>
     <live />
@@ -84210,8 +84174,8 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <icon src="https://images.pluto.tv/series/6887f3554f8d4a9917f1409a/tile_1753740125426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6887f3554f8d4a9917f1409a</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260708133100 +0000" stop="20260708152700 +0000">
     <title>Man on a Ledge</title>
@@ -84221,8 +84185,8 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <icon src="https://images.pluto.tv/series/685c1d4ede5f6440c489b7b6/tile_1750867281355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4ede5f6440c489b7b6</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260708152700 +0000" stop="20260708171700 +0000">
     <title>The Cold Light of Day</title>
@@ -84232,8 +84196,8 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <icon src="https://images.pluto.tv/series/6875230563893d441e9c7a93/tile_1752507163500.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6875230563893d441e9c7a93</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260708171700 +0000" stop="20260708190900 +0000">
     <title>Nerve</title>
@@ -84243,8 +84207,8 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <icon src="https://images.pluto.tv/series/6a3ba3bb114ca7fcbefec502/tile_1782293436716.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a3ba3bb114ca7fcbefec502</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260708190900 +0000" stop="20260708212400 +0000">
     <title>3 Days to Kill</title>
@@ -84254,8 +84218,8 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <icon src="https://images.pluto.tv/series/6887f3554f8d4a9917f1409a/tile_1753740125426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6887f3554f8d4a9917f1409a</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260708212400 +0000" stop="20260708232000 +0000">
     <title>Man on a Ledge</title>
@@ -84265,8 +84229,8 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <icon src="https://images.pluto.tv/series/685c1d4ede5f6440c489b7b6/tile_1750867281355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4ede5f6440c489b7b6</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260708232000 +0000" stop="20260709011000 +0000">
     <title>The Cold Light of Day</title>
@@ -84276,8 +84240,30 @@ We join a team as they undertake the largest maritime investigation since the Ma
     <icon src="https://images.pluto.tv/series/6875230563893d441e9c7a93/tile_1752507163500.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6875230563893d441e9c7a93</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260709011000 +0000" stop="20260709032500 +0000">
+    <title>3 Days to Kill</title>
+    <live />
+    <episode-num system="original-air-date">20260709011000 +0000</episode-num>
+    <desc>A dying Secret Service agent (Kevin Costner) who wants to reconnect with his estranged daughter (Hailee Steinfeld) is offered a potentially lifesaving drug in exchange for completing one final mission.</desc>
+    <icon src="https://images.pluto.tv/series/6887f3554f8d4a9917f1409a/tile_1753740125426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6887f3554f8d4a9917f1409a</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260709032500 +0000" stop="20260709051700 +0000">
+    <title>Nerve</title>
+    <live />
+    <episode-num system="original-air-date">20260709032500 +0000</episode-num>
+    <desc>Partnered with a mysterious stranger (Dave Franco), a high school senior (Emma Roberts) joins a popular online game that dares players to perform increasingly dangerous stunts.</desc>
+    <icon src="https://images.pluto.tv/series/6a3ba3bb114ca7fcbefec502/tile_1782293436716.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a3ba3bb114ca7fcbefec502</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
