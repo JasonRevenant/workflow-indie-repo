@@ -84627,16 +84627,6 @@ Brandon and Lori square off against Wade, and the contents of a unit create outr
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260710100953 +0000" stop="20260710105920 +0000">
-    <title>Rookie Blue</title>
-    <desc>When Gail Peck's uniform is stolen, the rookies go after a vigilante who is impersonating a police officer.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260710105920 +0000" stop="20260710131425 +0000">
-    <title>Madea's Witness Protection</title>
-    <desc>An investment banker who has been set up as the linchpin of a Ponzi scheme is relocated to Aunt Madea's home.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1989112088_0_20260705T083154964Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-xfxkq.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260710131425 +0000" stop="20260710151932 +0000">
     <title>Madea's Family Reunion</title>
     <desc>A take-no-trash-from-anybody matriarch tries to throw a family reunion to hold her family together.</desc>
@@ -84647,15 +84637,10 @@ Brandon and Lori square off against Wade, and the contents of a unit create outr
     <desc>A businessman is jolted out of his scripted life when he meets a single mother who cleans his office.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1096833052_0_20250730T065853544Z_46_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260710090534 +0000" stop="20260710105500 +0000">
-    <title>The Charm of Love</title>
-    <desc>Art historian Maddie searches for the "Lovers Stone" in the Caribbean with the help of a charming hotelier.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
-  </programme>
-  <programme channel="GBBA3300059BU" start="20260710105500 +0000" stop="20260710124002 +0000">
-    <title>Sweet Autumn</title>
-    <desc>Maggie inherits half of her aunt's maple business and teams up with Dex to uncover the truth behind her will.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260710172156 +0000" stop="20260710194048 +0000">
+    <title>Why Did I Get Married?</title>
+    <desc>Explore the trials of marriage and what happens to one family when a sexy young temptress arrives on the scene</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1579032503_0_20260127T104704569Z_129_imageprocessorclient-tvplus-linear-85d7d49859-zhg42.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260710124002 +0000" stop="20260710143057 +0000">
     <title>The Song to My Heart</title>
@@ -84672,58 +84657,15 @@ Brandon and Lori square off against Wade, and the contents of a unit create outr
     <desc>Dr. Richards, a successful plastic surgeon, is caught in a narcissistic patient's scary quest for perfection.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260710180051 +0000" stop="20260710194533 +0000">
+    <title>Love Club: Tara, The</title>
+    <desc>Tara, a free spirit who doesn't need love, asks the Love Club to help plan Tara's commitment-to-herself party.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260710073900 +0000" stop="20260710082800 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260710073900 +0000</episode-num>
-    <desc>Gail and Dov work with Swarerk as they try to protect an informant from a dangerous gang; Chris and Andy participate in competitive equine training.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Brotherhood</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260710082800 +0000" stop="20260710091800 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260710082800 +0000</episode-num>
-    <desc>Andy and Swarek come across a car accident while pursuing a child and his kidnapper; Chris fights with Dov over an indiscretion; Andy worries life is passing her by.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Best Laid Plans</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260710091800 +0000" stop="20260710100900 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260710091800 +0000</episode-num>
-    <desc>An undercover training exercise challenges Andy, Dov and Traci; Gail and Chris find a tied-up teenager at a graveyard.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>A Little Faith</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260710100900 +0000" stop="20260710105900 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260710100900 +0000</episode-num>
-    <desc>A vigilante steals Gail's uniform from her car; a drug deal gone wrong provides clues to Chris and Dov; Andy and Sam's inability to stay away from each other endangers Swarek.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>On the Double</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260710105900 +0000" stop="20260710131400 +0000">
     <title>Madea's Witness Protection</title>
     <live />
@@ -84798,6 +84740,17 @@ Brandon and Lori square off against Wade, and the contents of a unit create outr
     <icon src="https://images.pluto.tv/series/659d19350726640013560bb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">659d19350726640013560bb9</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260711021200 +0000" stop="20260711041400 +0000">
+    <title>Tyler Perry's Good Deeds</title>
+    <live />
+    <episode-num system="original-air-date">20260711021200 +0000</episode-num>
+    <desc>Romantic sparks fly between a wealthy businessman and a struggling single mother who works as a cleaner in his office building.</desc>
+    <icon src="https://images.pluto.tv/series/659d19350726640013560be4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">659d19350726640013560be4</series-id>
     <category>Entertainment</category>
     <category>Series</category>
   </programme>
