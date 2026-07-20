@@ -83373,16 +83373,6 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260720090128 +0000" stop="20260720095231 +0000">
-    <title>Rookie Blue</title>
-    <desc>Andy is attacked by an intruder at Traci's place and the Sex Crimes Unit steps in to take over the case.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260720095231 +0000" stop="20260720104334 +0000">
-    <title>Rookie Blue</title>
-    <desc>Andy debates her future with Sam after learning the heart-breaking news that Marlo is pregnant with his baby.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260720104334 +0000" stop="20260720125844 +0000">
     <title>3 Days to Kill</title>
     <desc>A dying CIA agent is offered an experimental drug that could save his life in exchange for one last assignment</desc>
@@ -83398,10 +83388,10 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <desc>A police psychologist works to talk down an ex-con who is threatening to jump from a Manhattan hotel rooftop.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078698180_0_20250724T094855621Z_131_imageprocessorclient-tvplus-linear-5db7c6bc99-ztbvg.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260720091537 +0000" stop="20260720110006 +0000">
-    <title>Miss Me This Christmas</title>
-    <desc>Regina falls for a billionaire while waiting for her divorce settlement, but her ex isn't ready to let go.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260720164440 +0000" stop="20260720183908 +0000">
+    <title>Nerve</title>
+    <desc>Partnered with a sly competitor, a high schooler plays an online game of dare that takes a sinister turn.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1983690591_0_20260703T092437665Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-nbtjg.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260720110006 +0000" stop="20260720124504 +0000">
     <title>Murder at the Mansion</title>
@@ -83418,58 +83408,20 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <desc>An ambitious junior executive is reunited with her first love at a corporate retreat, ultimately realizing that she might have to take a step back to make a leap forward.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485391474_0_20231019T005413293Z_26.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260720162011 +0000" stop="20260720180513 +0000">
+    <title>My Terrorized Teen</title>
+    <desc>When her daughter is tormented by high school mean girls, one mother must stop it before it becomes deadly…</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260720180513 +0000" stop="20260720195500 +0000">
+    <title>My Baby Gone</title>
+    <desc />
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260720062900 +0000" stop="20260720071900 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260720062900 +0000</episode-num>
-    <desc>When the Division helps tenants move out of a condemned subsidized-housing complex, they discover a badly beaten man in one of the empty units.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Moving Day</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260720071900 +0000" stop="20260720081000 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260720071900 +0000</episode-num>
-    <desc>When a car bomb explodes in a downtown parking garage, a newly reinstated Duncan goes rogue in an effort to prove himself.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Fragments</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260720081000 +0000" stop="20260720090100 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260720081000 +0000</episode-num>
-    <desc>The officers of Division 15 work to track down Ted McDonald; but even after catching him, they realize Ted has more targets set to explode out there.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Everlasting</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260720090100 +0000" stop="20260720095200 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260720090100 +0000</episode-num>
-    <desc>Andy and Sam return to work; Andy is attacked at Traci's apartment and the Sex Crimes Unit tries to take over the case.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Open Windows</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260720095200 +0000" stop="20260720104300 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -83479,8 +83431,8 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Perfect Family</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260720104300 +0000" stop="20260720125800 +0000">
     <title>3 Days to Kill</title>
@@ -83490,8 +83442,8 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <icon src="https://images.pluto.tv/series/6887f3554f8d4a9917f1409a/tile_1753740125426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6887f3554f8d4a9917f1409a</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260720125800 +0000" stop="20260720144800 +0000">
     <title>The Cold Light of Day</title>
@@ -83501,8 +83453,8 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <icon src="https://images.pluto.tv/series/6875230563893d441e9c7a93/tile_1752507163500.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6875230563893d441e9c7a93</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260720144800 +0000" stop="20260720164400 +0000">
     <title>Man on a Ledge</title>
@@ -83512,8 +83464,8 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <icon src="https://images.pluto.tv/series/685c1d4ede5f6440c489b7b6/tile_1750867281355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4ede5f6440c489b7b6</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260720164400 +0000" stop="20260720183900 +0000">
     <title>Nerve</title>
@@ -83523,8 +83475,8 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <icon src="https://images.pluto.tv/series/6a3ba3bb114ca7fcbefec502/tile_1782293436716.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a3ba3bb114ca7fcbefec502</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260720183900 +0000" stop="20260720205400 +0000">
     <title>3 Days to Kill</title>
@@ -83534,8 +83486,8 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <icon src="https://images.pluto.tv/series/6887f3554f8d4a9917f1409a/tile_1753740125426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6887f3554f8d4a9917f1409a</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260720205400 +0000" stop="20260720224500 +0000">
     <title>The Cold Light of Day</title>
@@ -83543,10 +83495,10 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <episode-num system="original-air-date">20260720205400 +0000</episode-num>
     <desc>A vacation in Spain turns nightmarish when a man's (Henry Cavill) family is kidnapped by agents who are hell-bent on recovering a mysterious briefcase.</desc>
     <icon src="https://images.pluto.tv/series/6875230563893d441e9c7a93/tile_1752507163500.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>00010101</date>
+    <date>19700101</date>
     <series-id system="pluto">6875230563893d441e9c7a93</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260720224500 +0000" stop="20260721004100 +0000">
     <title>Man on a Ledge</title>
@@ -83554,10 +83506,21 @@ In 80 AD Emperor Titus opens the Colosseum with 100 days of spectacular games, i
     <episode-num system="original-air-date">20260720224500 +0000</episode-num>
     <desc>While trying to convince a disgraced ex-cop (Sam Worthington) to come in from a high-rise ledge, a police negotiator (Elizabeth Banks) begins to realize that the man has an ulterior motive.</desc>
     <icon src="https://images.pluto.tv/series/685c1d4ede5f6440c489b7b6/tile_1750867281355.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>00010101</date>
+    <date>19700101</date>
     <series-id system="pluto">685c1d4ede5f6440c489b7b6</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260721004100 +0000" stop="20260721023300 +0000">
+    <title>Nerve</title>
+    <live />
+    <episode-num system="original-air-date">20260721004100 +0000</episode-num>
+    <desc>Partnered with a mysterious stranger (Dave Franco), a high school senior (Emma Roberts) joins a popular online game that dares players to perform increasingly dangerous stunts.</desc>
+    <icon src="https://images.pluto.tv/series/6a3ba3bb114ca7fcbefec502/tile_1782293436716.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a3ba3bb114ca7fcbefec502</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
