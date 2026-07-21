@@ -83425,16 +83425,6 @@ A signed, limited-edition copy of "Seven Years in Tibet" enters the shop, Corey 
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260721090243 +0000" stop="20260721095346 +0000">
-    <title>Rookie Blue</title>
-    <desc>Andy, Dov, Gail, and Nick undertake a risky plan to prove that Commissioner Alonso Santana is corrupt.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260721095346 +0000" stop="20260721104430 +0000">
-    <title>Rookie Blue</title>
-    <desc>A heat wave hits and Jarvis opens the division to the public as a cooling station.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260721104430 +0000" stop="20260721124334 +0000">
     <title>Righteous Kill</title>
     <desc>Two veteran New York City detectives hunt a vigilante who may be one of their own..</desc>
@@ -83450,15 +83440,16 @@ A signed, limited-edition copy of "Seven Years in Tibet" enters the shop, Corey 
     <desc>In the course of one chaotic week, the lives of three conflicted New York City police officers are dramatically transformed by their involvement in a massive drug operation.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1545974559_0_20260113T121616848Z_104_imageprocessorclient-tvplus-linear-85d7d49859-drfrv.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260721073036 +0000" stop="20260721092023 +0000">
-    <title>My Baby Gone</title>
-    <desc />
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260721162442 +0000" stop="20260721181558 +0000">
+    <title>Sleepless</title>
+    <desc>Don't judge a cop by his cover. Rescue. Revenge. Redemption. To get justice, sometimes you have to get brutal.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1141508793_0_20250821T075242103Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-s56jx.jpeg" />
+    <episode-num system="onscreen">S05E06</episode-num>
   </programme>
-  <programme channel="GBBA3300059BU" start="20260721092023 +0000" stop="20260721111006 +0000">
-    <title>Deadly Exchange</title>
-    <desc>A British exchange student upends her host family's life when she tries to take the place of their daughter.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260721181558 +0000" stop="20260721202948 +0000">
+    <title>999</title>
+    <desc>A gang of criminals and corrupt cops plan the murder of a police officer in order to pull off a heist.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1397270720_0_20251201T164200231Z_40_imageprocessorclient-tvplus-linear-85d7d49859-rj8jh.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260721111006 +0000" stop="20260721125513 +0000">
     <title>Baby Obsession</title>
@@ -83475,46 +83466,20 @@ A signed, limited-edition copy of "Seven Years in Tibet" enters the shop, Corey 
     <desc>Melanie discovers her husband is actually his twin, Alex, back to steal his life—and willing to kill for it.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260721162503 +0000" stop="20260721181035 +0000">
+    <title>The Music in Me</title>
+    <desc>A singer/songwriter leaves her dreams behind to help her family, until one special guy and a group of musically-challenged strangers help her find her voice again.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323501_2_20231018T125757411Z_112.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260721181035 +0000" stop="20260721200054 +0000">
+    <title>The Past Never Dies</title>
+    <desc>CASEY MARSH was born in captivity. Her mother, JANE, was abducted as a teenager and gave birth to Casey while she was being held by the kidnapper, TIMOTHY FAST. Jane eventually escaped when Casey was 6 years old. Timothy Fast was arrested and incarcerated. Ever since, Jane has struggled to regain a normal life for her and her daughter. For Casey, the memories of a childhood in captivity still haunt her. Jane, on the other hand, has seemingly moved on. She has re-married and is happy. When a number of local women start to go missing, Jane reveals to Casey that Timothy might have had an accomplice and wonders if he is involved. The kidnapping M.O. is eerily similar. Casey is furious that her mother has hidden this knowledge from her all this time. Then, Jane suddenly disappears. Has she been kidnapped again? Casey must face the demons of her past in order to find her mother before it's too late.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485486933_0_20231024T173456513Z_3.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260721081100 +0000" stop="20260721090200 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260721081100 +0000</episode-num>
-    <desc>Sam and Andy are determined to clear Oliver's name after discovering he is the prime suspect in the evidence room bombing.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Best Man</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260721090200 +0000" stop="20260721095300 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260721090200 +0000</episode-num>
-    <desc>Andy, Dov, Gail and Nick undertake a risky plan; Traci shadows Steve Peck, hoping to calm her fears about his involvement in the bombing.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Integrity Test</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260721095300 +0000" stop="20260721104400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260721095300 +0000</episode-num>
-    <desc>During a heat wave, 15 Division opens to the public as a cooling station; Andy and Marlo search for a missing woman.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Ninety Degrees</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260721104400 +0000" stop="20260721124300 +0000">
     <title>Righteous Kill</title>
     <live />
@@ -83600,6 +83565,17 @@ A signed, limited-edition copy of "Seven Years in Tibet" enters the shop, Corey 
     <icon src="https://images.pluto.tv/series/689f4bab9017101f05446b90/tile_1755270065725.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">689f4bab9017101f05446b90</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260722021100 +0000" stop="20260722042500 +0000">
+    <title>Triple 9</title>
+    <live />
+    <episode-num system="original-air-date">20260722021100 +0000</episode-num>
+    <desc>Criminals and some crooked cops hatch a devious scheme to use an honest lawman as a pawn for a heist.</desc>
+    <icon src="https://images.pluto.tv/series/69248f49270d239ba321ef48/tile_1764003659494.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">69248f49270d239ba321ef48</series-id>
     <category>Entertainment</category>
     <category>Series</category>
   </programme>
