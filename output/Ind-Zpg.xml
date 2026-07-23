@@ -83361,21 +83361,6 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260723083508 +0000" stop="20260723092607 +0000">
-    <title>Rookie Blue</title>
-    <desc>It's time for performance assessments for the rookies as they find out the fate of their careers.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260723092607 +0000" stop="20260723101710 +0000">
-    <title>Rookie Blue</title>
-    <desc>When an arrest compromises a drug bust, Andy steps up to salvage the bust by going undercover with Swarek.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260723101710 +0000" stop="20260723110716 +0000">
-    <title>Rookie Blue</title>
-    <desc>Andy's world explodes when a student is killed in a shooting, and a bullet hits Andy, lodging in her vest.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260723110716 +0000" stop="20260723131230 +0000">
     <title>Barb and Star Go to Vista Del Mar</title>
     <desc>Two friends leave their Midwestern town and find themselves in over their heads with love and crime in Florida</desc>
@@ -83391,10 +83376,10 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <desc>A small shop owner is furious at a large candy company moving in, but a romance blossoms with her competitor.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1977796667_0_20260701T083343696Z_116_imageprocessorclient-tvplus-linear-66fc4d58c8-t6p6c.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260723091548 +0000" stop="20260723110032 +0000">
-    <title>The Perfect Cheerleader</title>
-    <desc>Cassie's dream cheerleading squad takes a dark turn when a new man and a murder uncover a deadly conspiracy.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260723164442 +0000" stop="20260723185215 +0000">
+    <title>The Spy Who Dumped Me</title>
+    <desc>Two friends become entangled in a conspiracy when one of them discovers the boyfriend who dumped her was a spy</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1977805383_0_20260701T083343695Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-t6p6c.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260723110032 +0000" stop="20260723124520 +0000">
     <title>Amber Alert</title>
@@ -83411,34 +83396,20 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <desc>A high schooler faces a brutal cheer initiation. When things turn deadly and she disappears, her mom must act.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260723162037 +0000" stop="20260723180537 +0000">
+    <title>The Bad Son</title>
+    <desc>An elusive serial killer is killing innocent women in Seattle. The police and FBI are on the killer's trail but were never prepared to face a bizarre twist in the case.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487364_1_20231024T173452948Z_166.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260723180537 +0000" stop="20260723195014 +0000">
+    <title>Our Dream Wedding</title>
+    <desc>Haley, staunchly anti-marriage, tries on her grandma's magical veil and sees her future with boyfriend Scott.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260723074700 +0000" stop="20260723083500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260723074700 +0000</episode-num>
-    <desc>Andy faces the possibility that her father may have murdered someone during a drunken blackout; Chris and Dov's squad car is robbed.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>To Serve or Protect</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260723083500 +0000" stop="20260723092600 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260723083500 +0000</episode-num>
-    <desc>Andy questions her future with the force after the suspicious death of a young girl; the rookies find out if they have passed their evaluations.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Judgment Day</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723092600 +0000" stop="20260723101700 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -83448,8 +83419,8 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Takedown</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723101700 +0000" stop="20260723110700 +0000">
     <title>Rookie Blue</title>
@@ -83460,8 +83431,8 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Butterflies</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723110700 +0000" stop="20260723131200 +0000">
     <title>Barb &amp; Star Go to Vista Del Mar</title>
@@ -83471,8 +83442,8 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <icon src="https://images.pluto.tv/series/6a39400d87a403a7cf4ec76b/tile_1782136846549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a39400d87a403a7cf4ec76b</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723131200 +0000" stop="20260723150900 +0000">
     <title>Delivery Man</title>
@@ -83482,8 +83453,8 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <icon src="https://images.pluto.tv/series/6a39400d87a403a7cf4ec6f1/tile_1782136846322.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a39400d87a403a7cf4ec6f1</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723150900 +0000" stop="20260723164400 +0000">
     <title>They Came Together</title>
@@ -83493,8 +83464,8 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <icon src="https://images.pluto.tv/series/667ad495fe060c0013007989/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">667ad495fe060c0013007989</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723164400 +0000" stop="20260723185200 +0000">
     <title>The Spy Who Dumped Me</title>
@@ -83502,10 +83473,10 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <episode-num system="original-air-date">20260723164400 +0000</episode-num>
     <desc>Unexpectedly thrust into an international conspiracy, two best friends find themselves dodging deadly assassins and a suspicious British agent while hatching a plan to save the world.</desc>
     <icon src="https://images.pluto.tv/series/6a39400d87a403a7cf4ec84c/tile_1782136846700.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
+    <date>00010101</date>
     <series-id system="pluto">6a39400d87a403a7cf4ec84c</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723185200 +0000" stop="20260723204900 +0000">
     <title>Keeping Mum</title>
@@ -83513,10 +83484,10 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <episode-num system="original-air-date">20260723185200 +0000</episode-num>
     <desc>The problems of an oblivious vicar (Rowan Atkinson) and his bored wife (Kristin Scott Thomas) seem to disappear when a new housekeeper (Maggie Smith) arrives on the scene.</desc>
     <icon src="https://images.pluto.tv/series/6a39400e87a403a7cf4ec8c7/tile_1782136846992.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
+    <date>00010101</date>
     <series-id system="pluto">6a39400e87a403a7cf4ec8c7</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723204900 +0000" stop="20260723224800 +0000">
     <title>Love, Rosie</title>
@@ -83524,10 +83495,10 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <episode-num system="original-air-date">20260723204900 +0000</episode-num>
     <desc>Rosie and Alex are best friends until Alex's family moves to America. They gamble everything to keep their love and friendship alive over the years and miles.</desc>
     <icon src="https://images.pluto.tv/series/671bf90f7dcabd0013a0e3f1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
+    <date>00010101</date>
     <series-id system="pluto">671bf90f7dcabd0013a0e3f1</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260723224800 +0000" stop="20260724001100 +0000">
     <title>The Party</title>
@@ -83535,10 +83506,32 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <episode-num system="original-air-date">20260723224800 +0000</episode-num>
     <desc>Janet hosts an intimate gathering of friends in her London home to celebrate her political ascension. As Janet's husband provokes a series of revelations, a night that began with champagne soon ends up with arguments, shouting and a pointed gun.</desc>
     <icon src="https://images.pluto.tv/series/6a39400e87a403a7cf4ec93e/tile_1782136847043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
+    <date>00010101</date>
     <series-id system="pluto">6a39400e87a403a7cf4ec93e</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260724001100 +0000" stop="20260724014900 +0000">
+    <title>The All Together</title>
+    <live />
+    <episode-num system="original-air-date">20260724001100 +0000</episode-num>
+    <desc>Two gangsters invade the home of a London artist (Velibor Topic) while his roommate (Martin Freeman) is away.</desc>
+    <icon src="https://images.pluto.tv/series/6a39400e87a403a7cf4ec993/tile_1782136847349.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">6a39400e87a403a7cf4ec993</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260724014900 +0000" stop="20260724034200 +0000">
+    <title>Filth</title>
+    <live />
+    <episode-num system="original-air-date">20260724014900 +0000</episode-num>
+    <desc>A drug-addled, manipulative misanthrope (James McAvoy) begins to experience increasingly severe hallucinations as he tries to solve the murder of a Japanese student.</desc>
+    <icon src="https://images.pluto.tv/series/685c08232339944cecd6af78/tile_1750861868894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>00010101</date>
+    <series-id system="pluto">685c08232339944cecd6af78</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
@@ -83546,58 +83539,6 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
     <url>http://www.rakuten.tv</url>
     <display-name lang="en">UK: MyTime Movie Network</display-name>
   </channel>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721004534 -0300" stop="20260721023036 -0300">
-    <title lang="en">My Terrorized Teen</title>
-    <desc lang="en">When her daughter is tormented by high school mean girls, one mother must stop it before it becomes deadly.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721023037 -0300" stop="20260721042023 -0300">
-    <title lang="en">My Baby Gone</title>
-    <desc lang="en">Info not available.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721042024 -0300" stop="20260721061006 -0300">
-    <title lang="en">Deadly Exchange</title>
-    <desc lang="en">A British exchange student upends her host family's life when she tries to take the place of their daughter.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721061007 -0300" stop="20260721075513 -0300">
-    <title lang="en">Baby Obsession</title>
-    <desc lang="en">Years after losing her child under a sitter's watch Raquel seeks revenge upon learning the sitter is pregnant.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721075514 -0300" stop="20260721094023 -0300">
-    <title lang="en">Do I Say I Do</title>
-    <desc lang="en">Author Jessica Bender is forced to work with her former boyfriend and editor Mike Pryce. During this association, the two ex begin to realize that the spark of their love is not yet completely extinguished.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721094024 -0300" stop="20260721112503 -0300">
-    <title lang="en">The Wrong Husband</title>
-    <desc lang="en">Melanie discovers her husband is actually his twin, Alex, back to steal his life—and willing to kill for it.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721112504 -0300" stop="20260721131035 -0300">
-    <title lang="en">The Music in Me</title>
-    <desc lang="en">A singer/songwriter leaves her dreams behind to help her family, until one special guy and a group of musically-challenged strangers help her find her voice again.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721131036 -0300" stop="20260721150054 -0300">
-    <title lang="en">The Past Never Dies</title>
-    <desc lang="en">CASEY MARSH was born in captivity. Her mother, JANE, was abducted as a teenager and gave birth to Casey while she was being held by the kidnapper, TIMOTHY FAST. Jane eventually escaped when Casey was 6 years old. Timothy Fast was arrested and incarcerated. Ever since, Jane has struggled to regain a normal life for her and her daughter. For Casey, the memories of a childhood in captivity still haunt her. Jane, on the other hand, has seemingly moved on. She has re-married and is happy. When a number of local women start to go missing, Jane reveals to Casey that Timothy might have had an accomplice and wonders if he is involved. The kidnapping M.O. is eerily similar. Casey is furious that..</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721150055 -0300" stop="20260721165501 -0300">
-    <title lang="en">Stolen Dreams</title>
-    <desc lang="en">Laura Paddington is overcome with joy when her daughter, Zoe, returns to her after being abducted 17 years before--but is Zoe really her long lost child.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721165502 -0300" stop="20260721185244 -0300">
-    <title lang="en">Mediator</title>
-    <desc lang="en">A family counselor in the missing children's division becomes a mediator between the living and the missing.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721185245 -0300" stop="20260721204020 -0300">
-    <title lang="en">Love's Sweet Recipe</title>
-    <desc lang="en">Sparks fly between a talented chef and her childhood best friend as she regains her passion for cooking.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721204021 -0300" stop="20260721222530 -0300">
-    <title lang="en">Do I Say I Do</title>
-    <desc lang="en">Author Jessica Bender is forced to work with her former boyfriend and editor Mike Pryce. During this association, the two ex begin to realize that the spark of their love is not yet completely extinguished.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260721222531 -0300" stop="20260722001009 -0300">
-    <title lang="en">The Wrong Husband</title>
-    <desc lang="en">Melanie discovers her husband is actually his twin, Alex, back to steal his life—and willing to kill for it.</desc>
-  </programme>
   <programme channel="UK:.MyTime.Movie.Network.be" start="20260722001010 -0300" stop="20260722015541 -0300">
     <title lang="en">The Music in Me</title>
     <desc lang="en">A singer/songwriter leaves her dreams behind to help her family, until one special guy and a group of musically-challenged strangers help her find her voice again.</desc>
@@ -83781,6 +83722,64 @@ Todd hauls a massive machine as he fights his way home in a final showdown with 
   <programme channel="UK:.MyTime.Movie.Network.be" start="20260724230502 -0300" stop="20260725004524 -0300">
     <title lang="en">Ivy &amp; Mistletoe</title>
     <desc lang="en">A young woman is determined to get home for Christmas, but gets stranded in a small town during a snow storm. Little does she know that she is exactly where she is supposed to be.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725004525 -0300" stop="20260725023533 -0300">
+    <title lang="en">Falling in Love at Christmas</title>
+    <desc lang="en">Business rivals who playfully despise each other work together on a holiday gift-giving app and feelings grow.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725023534 -0300" stop="20260725042007 -0300">
+    <title lang="en">A Christmas Wish</title>
+    <desc lang="en">When Paula chose Gary over Nick, to take her to the senior prom, little did she know that 15 years later she’d be married, have two daughters and tons of debt. When Nick reappears, now a rich, successful art broker, Paula wishes her decision were different. With bills and troubles mounting, especially frustrating during the Christmas season, Paula wishes hard to trade places with Nick’s wife. A little Christmas magic and she is transported to the life with Nick. But, be careful what you wish for… Although she is financially rich, she is far from happy. Eventually her “dream” becomes a “nightmare,” as Nick wants a divorce and she can’t find a way back to Gary and her daughters. Will there..</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725042008 -0300" stop="20260725060533 -0300">
+    <title lang="en">A Gift for Christmas</title>
+    <desc lang="en">A handsome stranger develops amnesia after a hopeless romantic crashes into him on her bicycle.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725060534 -0300" stop="20260725075009 -0300">
+    <title lang="en">Christmas Cupcakes</title>
+    <desc lang="en">When their family bakery may have to close its doors right before Christmas, rival sisters Kim and Gina must team up to win a national baking competition, save the family business, and perhaps even discover a bigger prize than they hoped.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725075010 -0300" stop="20260725094005 -0300">
+    <title lang="en">Smooch</title>
+    <desc lang="en">A rakishly handsome "English Royal" comes to America for an arranged marriage, and ends up being mugged in San Francisco's Golden Gate Park and left with amnesia.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725094006 -0300" stop="20260725112002 -0300">
+    <title lang="en">Ivy &amp; Mistletoe</title>
+    <desc lang="en">A young woman is determined to get home for Christmas, but gets stranded in a small town during a snow storm. Little does she know that she is exactly where she is supposed to be.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725112003 -0300" stop="20260725130555 -0300">
+    <title lang="en">Falling in Love at Christmas</title>
+    <desc lang="en">Business rivals who playfully despise each other work together on a holiday gift-giving app and feelings grow.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725130556 -0300" stop="20260725145030 -0300">
+    <title lang="en">A Christmas Wish</title>
+    <desc lang="en">When Paula chose Gary over Nick, to take her to the senior prom, little did she know that 15 years later she’d be married, have two daughters and tons of debt. When Nick reappears, now a rich, successful art broker, Paula wishes her decision were different. With bills and troubles mounting, especially frustrating during the Christmas season, Paula wishes hard to trade places with Nick’s wife. A little Christmas magic and she is transported to the life with Nick. But, be careful what you wish for… Although she is financially rich, she is far from happy. Eventually her “dream” becomes a “nightmare,” as Nick wants a divorce and she can’t find a way back to Gary and her daughters. Will there..</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725145031 -0300" stop="20260725163556 -0300">
+    <title lang="en">A Gift for Christmas</title>
+    <desc lang="en">A handsome stranger develops amnesia after a hopeless romantic crashes into him on her bicycle.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725163557 -0300" stop="20260725182405 -0300">
+    <title lang="en">Christmas Cupcakes</title>
+    <desc lang="en">When their family bakery may have to close its doors right before Christmas, rival sisters Kim and Gina must team up to win a national baking competition, save the family business, and perhaps even discover a bigger prize than they hoped.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725182406 -0300" stop="20260725185250 -0300">
+    <title lang="en">At Home With Tori</title>
+    <sub-title lang="en">Episode 8</sub-title>
+    <desc lang="en">Tori teams up with Josh Flagg to create a backyard summer camp-out with the Troop Beverly Hills theme.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725185251 -0300" stop="20260725204023 -0300">
+    <title lang="en">Love at Sunset Terrace</title>
+    <desc lang="en">A girl tries to play matchmaker for her widowed father when a woman rents one of his rooms.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725204024 -0300" stop="20260725225005 -0300">
+    <title lang="en">Alter</title>
+    <desc lang="en">Alter, a psychological thriller about a man who is convinced that he’s found his childhood abductor, and is determined to get him to confess by any means necessary.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260725225006 -0300" stop="20260726003507 -0300">
+    <title lang="en">Sweet Autumn</title>
+    <desc lang="en">Maggie inherits half of her aunt's maple business and teams up with Dex to uncover the truth behind her will.</desc>
   </programme>
   <channel id="M.Movies.1.za">
     <display-name lang="en">M Movies 1</display-name>
