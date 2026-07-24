@@ -83188,16 +83188,6 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260724090203 +0000" stop="20260724095224 +0000">
-    <title>Rookie Blue</title>
-    <desc>When an informant is murdered, 15 Division sets its sights on finding a weak link in the East Jameson gang.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260724095224 +0000" stop="20260724121400 +0000">
-    <title>Snowpiercer</title>
-    <desc>After a failed global-warming experiment, a post-apocalyptic Ice Age has killed off nearly all life on Earth.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1744121382_0_20260402T044934173Z_25_imageprocessorclient-tvplus-linear-74d4c47476-l5txh.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260724121400 +0000" stop="20260724142907 +0000">
     <title>Sicario</title>
     <desc>An idealistic FBI agent is enlisted by an elite task force official to aid in the escalating war against drugs</desc>
@@ -83208,10 +83198,10 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <desc>A father goes undercover and infiltrates a Mexican drug cartel for the DEA in order to free his son.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1153989036_0_20250827T085901754Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260724085035 +0000" stop="20260724104025 +0000">
-    <title>Love's Second Chance</title>
-    <desc>Stylist Rose inherits her grandmother's dress shop and reconnects with her old crush, Cole, sparking romance.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260724164131 +0000" stop="20260724190322 +0000">
+    <title>Snowpiercer</title>
+    <desc>After a failed global-warming experiment, a post-apocalyptic Ice Age has killed off nearly all life on Earth.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1744121382_0_20260402T044934173Z_25_imageprocessorclient-tvplus-linear-74d4c47476-l5txh.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260724104025 +0000" stop="20260724122526 +0000">
     <title>Once Upon a Date</title>
@@ -83228,34 +83218,20 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <desc>Maggie inherits half of her aunt's maple business and teams up with Dex to uncover the truth behind her will.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260724162002 +0000" stop="20260724180555 +0000">
+    <title>What Would Jesus Do? The Journey Continues</title>
+    <desc>The journey continues from What Would Jesus Do? (2010) as the drifter arrives into a new town inspiring a group of people to live as Jesus would.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485423990_0_20231020T004305559Z_87.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260724180555 +0000" stop="20260724195505 +0000">
+    <title>The Charm of Love</title>
+    <desc>Art historian Maddie searches for the "Lovers Stone" in the Caribbean with the help of a charming hotelier.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260724081100 +0000" stop="20260724090200 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260724081100 +0000</episode-num>
-    <desc>Chris and Dovare are trapped in a dangerous meth house during a sting operation; Luke helps Jo with a surveillance job in a hotel room.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Stung</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260724090200 +0000" stop="20260724095200 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260724090200 +0000</episode-num>
-    <desc>A notorious gang appears to be involved in the murder of a police informant; Detective Rosati reveals something that puts Andy's relationship with Luke in danger.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>In Plain View</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260724095200 +0000" stop="20260724121400 +0000">
     <title>Snowpiercer</title>
     <live />
@@ -83264,8 +83240,8 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <icon src="https://images.pluto.tv/series/69c40db48e5593ad0e9c4285/tile_1774456271045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69c40db48e5593ad0e9c4285</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260724121400 +0000" stop="20260724142900 +0000">
     <title>Sicario</title>
@@ -83275,8 +83251,8 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <icon src="https://images.pluto.tv/series/69787edacd24a9501e81b6d7/tile_1769504474836.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69787edacd24a9501e81b6d7</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260724142900 +0000" stop="20260724164100 +0000">
     <title>Snitch</title>
@@ -83286,8 +83262,8 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <icon src="https://images.pluto.tv/series/685c08212339944cecd696a6/tile_1750861864978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c08212339944cecd696a6</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260724164100 +0000" stop="20260724190300 +0000">
     <title>Snowpiercer</title>
@@ -83297,8 +83273,8 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <icon src="https://images.pluto.tv/series/69c40db48e5593ad0e9c4285/tile_1774456271045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69c40db48e5593ad0e9c4285</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260724190300 +0000" stop="20260724210300 +0000">
     <title>Law Abiding Citizen</title>
@@ -83308,8 +83284,8 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <icon src="https://images.pluto.tv/series/6a39b08f7918fece016acf3f/tile_1782770692898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a39b08f7918fece016acf3f</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260724210300 +0000" stop="20260724232700 +0000">
     <title>Sicario</title>
@@ -83319,8 +83295,8 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <icon src="https://images.pluto.tv/series/69787edacd24a9501e81b6d7/tile_1769504474836.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69787edacd24a9501e81b6d7</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260724232700 +0000" stop="20260725014200 +0000">
     <title>Snitch</title>
@@ -83330,8 +83306,8 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <icon src="https://images.pluto.tv/series/685c08212339944cecd696a6/tile_1750861864978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c08212339944cecd696a6</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260725014200 +0000" stop="20260725034600 +0000">
     <title>Law Abiding Citizen</title>
@@ -83341,8 +83317,19 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <icon src="https://images.pluto.tv/series/6a39b08f7918fece016acf3f/tile_1782770692898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a39b08f7918fece016acf3f</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260725034600 +0000" stop="20260725054900 +0000">
+    <title>After the Storm</title>
+    <live />
+    <episode-num system="original-air-date">20260725034600 +0000</episode-num>
+    <desc>A loner (Benjamin Bratt) and a wealthy businessman (Armand Assante) try to recover treasure from a sunken yacht off the coast of the Bahamas.</desc>
+    <icon src="https://images.pluto.tv/series/65c18bb070ac440013a94ea8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">65c18bb070ac440013a94ea8</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
@@ -83350,74 +83337,6 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
     <url>http://www.rakuten.tv</url>
     <display-name lang="en">UK: MyTime Movie Network</display-name>
   </channel>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722001010 -0300" stop="20260722015541 -0300">
-    <title lang="en">The Music in Me</title>
-    <desc lang="en">A singer/songwriter leaves her dreams behind to help her family, until one special guy and a group of musically-challenged strangers help her find her voice again.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722015542 -0300" stop="20260722034531 -0300">
-    <title lang="en">The Past Never Dies</title>
-    <desc lang="en">CASEY MARSH was born in captivity. Her mother, JANE, was abducted as a teenager and gave birth to Casey while she was being held by the kidnapper, TIMOTHY FAST. Jane eventually escaped when Casey was 6 years old. Timothy Fast was arrested and incarcerated. Ever since, Jane has struggled to regain a normal life for her and her daughter. For Casey, the memories of a childhood in captivity still haunt her. Jane, on the other hand, has seemingly moved on. She has re-married and is happy. When a number of local women start to go missing, Jane reveals to Casey that Timothy might have had an accomplice and wonders if he is involved. The kidnapping M.O. is eerily similar. Casey is furious that..</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722034532 -0300" stop="20260722054008 -0300">
-    <title lang="en">Stolen Dreams</title>
-    <desc lang="en">Laura Paddington is overcome with joy when her daughter, Zoe, returns to her after being abducted 17 years before--but is Zoe really her long lost child.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722054009 -0300" stop="20260722074008 -0300">
-    <title lang="en">Mediator</title>
-    <desc lang="en">A family counselor in the missing children's division becomes a mediator between the living and the missing.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722074009 -0300" stop="20260722092520 -0300">
-    <title lang="en">The Perfect Stalker</title>
-    <desc lang="en">When Grace becomes obsessed with her neighbor she invents an imaginary stalker to help get him to protect her.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722092521 -0300" stop="20260722111005 -0300">
-    <title lang="en">Sweetheart Con</title>
-    <desc lang="en">Heartbroken over her parents' breakup and recovering from a car accident, Jane becomes increasingly suspicious of her mother's charming new boyfriend.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722111006 -0300" stop="20260722130507 -0300">
-    <title lang="en">My Daddy is in Heaven</title>
-    <desc lang="en">Becky, Adam and their 5-year-old daughter Acie are a perfect family until a tragic accident during a 4th of July celebration kills their father. Struggling with grief, Becky decides she needs to leave the family farm and all its memories. She leaves Acie with her grandfather Ben and visits with her friend from school, June. With all the best intent, June offers Becky plenty of distraction from her family life. Fueled by her anger at G*d and loss of faith, Becky starts drinking and making other self-destructive choices. Then, after Becky is arrested, Ben threatens to keep Acie until Becky is back on track. A chance encounter in a bus station with a traveler gives Becky what she needs to..</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722130508 -0300" stop="20260722144512 -0300">
-    <title lang="en">Undercover Angel</title>
-    <desc lang="en">When a little girl prays for a miracle to help her recently divorced mother settle in their new town and fixer-upper house, an angel posing as a handyman, is sent down from heaven to help. While trying to accomplish his mission, the angel falls for the mother, ultimately forcing him into the unlikeliest of choices.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722144513 -0300" stop="20260722163056 -0300">
-    <title lang="en">The Perfect Cheerleader</title>
-    <desc lang="en">Cassie's dream cheerleading squad takes a dark turn when a new man and a murder uncover a deadly conspiracy.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722163057 -0300" stop="20260722181630 -0300">
-    <title lang="en">Amber Alert</title>
-    <desc lang="en">A woman goes on the run with her children to escape an abusive husband, who is the District Attorney. He puts out an Amber Alert for them.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722181631 -0300" stop="20260722184139 -0300">
-    <title lang="en">New Dogs, Old Tricks</title>
-    <desc lang="en">Pete and DeeDee have an announcement for the Gamma brothers. Across campus, Sarah struggles with her new living situation.</desc>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722184140 -0300" stop="20260722190722 -0300">
-    <title lang="en">New Dogs, Old Tricks</title>
-    <sub-title lang="en">Episode 9</sub-title>
-    <desc lang="en">At the Gamma Christmas Mixer, Sarah is missing and her friends' search leads to a shocking attack.</desc>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722190723 -0300" stop="20260722193243 -0300">
-    <title lang="en">New Dogs, Old Tricks</title>
-    <desc lang="en">Most leave for break, while a few stay behind. Rick is pushed to his breaking point and flips out on Allison.</desc>
-    <episode-num system="onscreen">S1 E10</episode-num>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722193244 -0300" stop="20260722211044 -0300">
-    <title lang="en">All of My heart 2</title>
-    <desc lang="en">Brian and Jenny are preparing for the big opening of their bed and breakfast, Emily's Country Inn, when a huge storm hits Bucks County. Brian agrees to return to Wall Street to boost their funds, while Jenny scrambles to keep the opening on time.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722211045 -0300" stop="20260722225556 -0300">
-    <title lang="en">The Perfect Stalker</title>
-    <desc lang="en">When Grace becomes obsessed with her neighbor she invents an imaginary stalker to help get him to protect her.</desc>
-  </programme>
-  <programme channel="UK:.MyTime.Movie.Network.be" start="20260722225557 -0300" stop="20260723004041 -0300">
-    <title lang="en">Sweetheart Con</title>
-    <desc lang="en">Heartbroken over her parents' breakup and recovering from a car accident, Jane becomes increasingly suspicious of her mother's charming new boyfriend.</desc>
-  </programme>
   <programme channel="UK:.MyTime.Movie.Network.be" start="20260723004042 -0300" stop="20260723023543 -0300">
     <title lang="en">My Daddy is in Heaven</title>
     <desc lang="en">Becky, Adam and their 5-year-old daughter Acie are a perfect family until a tragic accident during a 4th of July celebration kills their father. Struggling with grief, Becky decides she needs to leave the family farm and all its memories. She leaves Acie with her grandfather Ben and visits with her friend from school, June. With all the best intent, June offers Becky plenty of distraction from her family life. Fueled by her anger at G*d and loss of faith, Becky starts drinking and making other self-destructive choices. Then, after Becky is arrested, Ben threatens to keep Acie until Becky is back on track. A chance encounter in a bus station with a traveler gives Becky what she needs to..</desc>
@@ -83591,6 +83510,70 @@ The final showdown of the series sees the Berniers pitted against the Taylors in
   <programme channel="UK:.MyTime.Movie.Network.be" start="20260725225006 -0300" stop="20260726003507 -0300">
     <title lang="en">Sweet Autumn</title>
     <desc lang="en">Maggie inherits half of her aunt's maple business and teams up with Dex to uncover the truth behind her will.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726003508 -0300" stop="20260726022100 -0300">
+    <title lang="en">What Would Jesus Do? The Journey Continues</title>
+    <desc lang="en">The journey continues from What Would Jesus Do? (2010) as the drifter arrives into a new town inspiring a group of people to live as Jesus would.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726022101 -0300" stop="20260726041010 -0300">
+    <title lang="en">The Charm of Love</title>
+    <desc lang="en">Art historian Maddie searches for the "Lovers Stone" in the Caribbean with the help of a charming hotelier.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726041011 -0300" stop="20260726060018 -0300">
+    <title lang="en">The Love Club: Sydney</title>
+    <desc lang="en">When Sydney reconnects with her ex and joins a Half Marathon he is running, she asks the Love Club to help.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726060019 -0300" stop="20260726074504 -0300">
+    <title lang="en">The wrong Nanny</title>
+    <desc lang="en">When Blake finds her birth mother and her now-perfect family, Blake will do anything it takes to destroy it.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726074505 -0300" stop="20260726093005 -0300">
+    <title lang="en">Love Club: Tara, The</title>
+    <desc lang="en">Tara, a free spirit who doesn’t need love, asks the Love Club to help plan Tara’s commitment-to-herself party.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726093006 -0300" stop="20260726111505 -0300">
+    <title lang="en">Sisters of the Groom</title>
+    <desc lang="en">Jason ropes his neighbor Sarah into pretending to be his girlfriend for his brother’s wedding but his prying sisters suspect something is amiss.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726111506 -0300" stop="20260726130003 -0300">
+    <title lang="en">A Romance Wedding</title>
+    <desc lang="en">Info not available.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726130004 -0300" stop="20260726144501 -0300">
+    <title lang="en">You Can't Fight Christmas</title>
+    <desc lang="en">When the Christmas-loving designer Leslie meets handsome scroogey Edmund, she's determined to change his mind.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726144502 -0300" stop="20260726163007 -0300">
+    <title lang="en">12 Days of Giving</title>
+    <desc lang="en">A man who wins $50,000 decides to share his winnings by acting as a Secret Santa to people in a small town.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726163008 -0300" stop="20260726181603 -0300">
+    <title lang="en">The Wrong Patient</title>
+    <desc lang="en">Dr. Richards, a successful plastic surgeon, is caught in a narcissistic patient's scary quest for perfection.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726181604 -0300" stop="20260726184559 -0300">
+    <title lang="en">At Home With Tori</title>
+    <sub-title lang="en">Episode 3</sub-title>
+    <desc lang="en">Tori is cooking for girls night and must figure out how to please both of her friends.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726184600 -0300" stop="20260726191556 -0300">
+    <title lang="en">At Home With Tori</title>
+    <sub-title lang="en">Episode 4</sub-title>
+    <desc lang="en">Tori surprises her family with a meal that transports them to Spain.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726191557 -0300" stop="20260726211018 -0300">
+    <title lang="en">Stolen Dreams</title>
+    <desc lang="en">Laura Paddington is overcome with joy when her daughter, Zoe, returns to her after being abducted 17 years before--but is Zoe really her long lost child.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726211019 -0300" stop="20260726225520 -0300">
+    <title lang="en">Love Club: Tara, The</title>
+    <desc lang="en">Tara, a free spirit who doesn’t need love, asks the Love Club to help plan Tara’s commitment-to-herself party.</desc>
+  </programme>
+  <programme channel="UK:.MyTime.Movie.Network.be" start="20260726225521 -0300" stop="20260727004019 -0300">
+    <title lang="en">Sisters of the Groom</title>
+    <desc lang="en">Jason ropes his neighbor Sarah into pretending to be his girlfriend for his brother’s wedding but his prying sisters suspect something is amiss.</desc>
   </programme>
   <channel id="M.Movies.1.za">
     <display-name lang="en">M Movies 1</display-name>
