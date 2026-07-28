@@ -83038,16 +83038,6 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260728100958 +0000" stop="20260728110102 +0000">
-    <title>Rookie Blue</title>
-    <desc>A gifted psychic (or a gifted conman) helps find the missing witness in an organized-crime case.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260728110102 +0000" stop="20260728131326 +0000">
-    <title>Snitch</title>
-    <desc>A father goes undercover and infiltrates a Mexican drug cartel for the DEA in order to free his son.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1153989036_0_20250827T085901754Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260728131326 +0000" stop="20260728153501 +0000">
     <title>Snowpiercer</title>
     <desc>After a failed global-warming experiment, a post-apocalyptic Ice Age has killed off nearly all life on Earth.</desc>
@@ -83058,15 +83048,10 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <desc>An idealistic FBI agent is enlisted by an elite task force official to aid in the escalating war against drugs</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1601289202_0_20260205T103111851Z_1_imageprocessorclient-tvplus-linear-85d7d49859-77bt7.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260728091008 +0000" stop="20260728105539 +0000">
-    <title>Til Ex Do Us Part</title>
-    <desc>As Kyle and Sophia reconnect, she's accused of assaulting his friend Claire, a woman he slept with once.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
-  </programme>
-  <programme channel="GBBA3300059BU" start="20260728105539 +0000" stop="20260728124514 +0000">
-    <title>A Friend's Obsession</title>
-    <desc>After Megan's fiancé is killed, Lloyd follows her to win her love, but her new boyfriend stands in the way.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260728175009 +0000" stop="20260728200233 +0000">
+    <title>Snitch</title>
+    <desc>A father goes undercover and infiltrates a Mexican drug cartel for the DEA in order to free his son.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1153989036_0_20250827T085901754Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260728124514 +0000" stop="20260728142559 +0000">
     <title>A Summer to Remember</title>
@@ -83083,46 +83068,15 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <desc>A group of Americans - a singer, a newspaper editor, a pastor and a real estate mogul - vow to walk in the steps of Jesus. Every day, every decision becomes a turning point in their lives as they must ask themselves "What Would Jesus Do?"</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485343160_2_20231018T125757107Z_66.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260728180030 +0000" stop="20260728194509 +0000">
+    <title>Offline</title>
+    <desc>An online stalker torments a young woman.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485620069_0_20231029T003917505Z_20.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260728073500 +0000" stop="20260728082600 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260728073500 +0000</episode-num>
-    <desc>Traci's first day as a detective, all hell breaks loose when a carload of girls from a drunken bachelorette party is involved in a fatal accident; Jerry discovers the driver of the other vehicle was murdered before the accident.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Girls' Night Out</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260728082600 +0000" stop="20260728091700 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260728082600 +0000</episode-num>
-    <desc>Estranged mother Claire, a woman who abandons Andy and her father 15 years ago; forced to work with the woman who deserted her, Andy begins dissecting the secrets of a family in turmoil; Sam, Nick, Chris and Gail race to find a desperate mother.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Messy Houses</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260728091700 +0000" stop="20260728100900 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260728091700 +0000</episode-num>
-    <desc>A silent alarm leads Andy and Swarek to the discovery of an illegal warehouse party and to an injured John Doe; a homeless squatter who has been the victim of a brutal stabbing; 15 division works to contain the teenagers to the scene for questioning.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Coming Home</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260728100900 +0000" stop="20260728110100 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -83132,8 +83086,8 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Leap of Faith</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260728110100 +0000" stop="20260728131300 +0000">
     <title>Snitch</title>
@@ -83143,8 +83097,8 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <icon src="https://images.pluto.tv/series/685c08212339944cecd696a6/tile_1750861864978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c08212339944cecd696a6</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260728131300 +0000" stop="20260728153500 +0000">
     <title>Snowpiercer</title>
@@ -83154,8 +83108,8 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <icon src="https://images.pluto.tv/series/69c40db48e5593ad0e9c4285/tile_1774456271045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69c40db48e5593ad0e9c4285</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260728153500 +0000" stop="20260728175000 +0000">
     <title>Sicario</title>
@@ -83165,8 +83119,8 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <icon src="https://images.pluto.tv/series/69787edacd24a9501e81b6d7/tile_1769504474836.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69787edacd24a9501e81b6d7</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260728175000 +0000" stop="20260728200200 +0000">
     <title>Snitch</title>
@@ -83176,8 +83130,8 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <icon src="https://images.pluto.tv/series/685c08212339944cecd696a6/tile_1750861864978.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c08212339944cecd696a6</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260728200200 +0000" stop="20260728220600 +0000">
     <title>Law Abiding Citizen</title>
@@ -83187,8 +83141,8 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <icon src="https://images.pluto.tv/series/6a39b08f7918fece016acf3f/tile_1782770692898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a39b08f7918fece016acf3f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260728220600 +0000" stop="20260729002800 +0000">
     <title>Snowpiercer</title>
@@ -83198,8 +83152,8 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <icon src="https://images.pluto.tv/series/69c40db48e5593ad0e9c4285/tile_1774456271045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69c40db48e5593ad0e9c4285</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260729002800 +0000" stop="20260729024300 +0000">
     <title>Sicario</title>
@@ -83209,8 +83163,19 @@ T-Money is dreaming of riches when he successfully bids on huge a chained-up bin
     <icon src="https://images.pluto.tv/series/69787edacd24a9501e81b6d7/tile_1769504474836.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69787edacd24a9501e81b6d7</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260729024300 +0000" stop="20260729044500 +0000">
+    <title>Law Abiding Citizen</title>
+    <live />
+    <episode-num system="original-air-date">20260729024300 +0000</episode-num>
+    <desc>Ten years after his wife and child die in a home invasion, a man carries out an elaborate plot against the prosecutor who cut a deal with one of the killers.</desc>
+    <icon src="https://images.pluto.tv/series/6a39b08f7918fece016acf3f/tile_1782770692898.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a39b08f7918fece016acf3f</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
