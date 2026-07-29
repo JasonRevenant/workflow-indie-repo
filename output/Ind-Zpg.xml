@@ -82788,11 +82788,6 @@ Digs in southern England reveal a previously unknown Roman town, a Tudor ship bu
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260729095304 +0000" stop="20260729114942 +0000">
-    <title>Tyler Perry's Daddy's Little Girls</title>
-    <desc>A mechanic enlists the help of an attorney while trying to wrest custody of his daughters from his ex-wife.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2014547921_0_20260714T073910219Z_52_imageprocessorclient-tvplus-linear-66fc4d58c8-sdt5q.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260729114942 +0000" stop="20260729135435 +0000">
     <title>Madea's Family Reunion</title>
     <desc>A take-no-trash-from-anybody matriarch tries to throw a family reunion to hold her family together.</desc>
@@ -82803,15 +82798,15 @@ Digs in southern England reveal a previously unknown Roman town, a Tudor ship bu
     <desc>An investment banker who has been set up as the linchpin of a Ponzi scheme is relocated to Aunt Madea's home.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1989112088_0_20260705T083154964Z_1_imageprocessorclient-tvplus-linear-66fc4d58c8-xfxkq.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260729091005 +0000" stop="20260729110003 +0000">
-    <title>The Psycho She Met Online</title>
-    <desc>While her husband heals from a car crash, Karen bonds with their new renter—until another houseguest vanishes.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260729161352 +0000" stop="20260729181616 +0000">
+    <title>Tyler Perry's Good Deeds</title>
+    <desc>A businessman is jolted out of his scripted life when he meets a single mother who cleans his office.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1096833052_0_20250730T065853544Z_46_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260729110003 +0000" stop="20260729124513 +0000">
-    <title>The Missing Sister</title>
-    <desc>When Sharon tracks down her estranged sister she's elated to reunite—until she suspects that it's an impostor.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260729181616 +0000" stop="20260729203023 +0000">
+    <title>Why Did I Get Married?</title>
+    <desc>Explore the trials of marriage and what happens to one family when a sexy young temptress arrives on the scene</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1579032503_0_20260127T104704569Z_129_imageprocessorclient-tvplus-linear-85d7d49859-zhg42.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260729124513 +0000" stop="20260729143506 +0000">
     <title>Love You to Death</title>
@@ -82823,57 +82818,20 @@ Digs in southern England reveal a previously unknown Roman town, a Tudor ship bu
     <desc>Engaged Nicole wonders if her true love is actually her mystery college pen pal, and asks her friends to help.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260729162004 +0000" stop="20260729180500 +0000">
+    <title>Abduction of Angie</title>
+    <desc>Paramedic Miranda races to save her daughter Angie, who was kidnapped by Miranda's estranged father.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260729180500 +0000" stop="20260729195555 +0000">
+    <title>The Song to My Heart</title>
+    <desc>An organic tea shop owner helps a music sensation write lyrics for a new solo album.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260729071800 +0000" stop="20260729080800 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260729071800 +0000</episode-num>
-    <desc>Andy and Nick are called to the scene of a van that's been torched, to discover that it belongs to Father Jean Pierre a street priest who's been receiving death threats from the local drug kingpin; priest is reluctant to accept the officers' help.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>The Rules</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260729080800 +0000" stop="20260729085900 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260729080800 +0000</episode-num>
-    <desc>With the senior officers off on another assignment, the rookies of 15 Division are on their own; a seemingly innocuous shift leads to a frenzied night in the station when an improperly searched prisoner pulls a gun on Chris in cells.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Every Man</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260729085900 +0000" stop="20260729094800 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260729085900 +0000</episode-num>
-    <desc>A prison transfer goes awry, and the convict flees custody. The officers of 15 Division are troubled to learn that it's John Grey, the pedophile they apprehended earlier in the year.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>I Never</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260729094800 +0000" stop="20260729095300 +0000">
-    <title>Conan The Barbarian Trailer MS</title>
-    <live />
-    <episode-num system="original-air-date">20260729094800 +0000</episode-num>
-    <desc>ConanTheBarbarian_Trailer_MS.</desc>
-    <icon src="https://images.pluto.tv/series/68c85b94fd92ab53e87837b3/tile_1757977106430.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">68c85b94fd92ab53e87837b3</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260729095300 +0000" stop="20260729114900 +0000">
     <title>Tyler Perry's Daddy's Little Girls</title>
     <live />
@@ -82959,6 +82917,28 @@ Digs in southern England reveal a previously unknown Roman town, a Tudor ship bu
     <icon src="https://images.pluto.tv/series/65b2a1d604045f0013dc9343/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65b2a1d604045f0013dc9343</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260730010400 +0000" stop="20260730030600 +0000">
+    <title>Tyler Perry's Good Deeds</title>
+    <live />
+    <episode-num system="original-air-date">20260730010400 +0000</episode-num>
+    <desc>Romantic sparks fly between a wealthy businessman and a struggling single mother who works as a cleaner in his office building.</desc>
+    <icon src="https://images.pluto.tv/series/659d19350726640013560be4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">659d19350726640013560be4</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260730030600 +0000" stop="20260730051800 +0000">
+    <title>Why Did I Get Married?</title>
+    <live />
+    <episode-num system="original-air-date">20260730030600 +0000</episode-num>
+    <desc>Revelations of infidelity and other secrets force eight married friends to take a hard look at issues of commitment, betrayal and forgiveness.</desc>
+    <icon src="https://images.pluto.tv/series/6645458bc306f10014f39b04/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6645458bc306f10014f39b04</series-id>
     <category>Entertainment</category>
     <category>Series</category>
   </programme>
