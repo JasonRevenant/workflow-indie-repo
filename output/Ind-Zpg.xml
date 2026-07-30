@@ -82258,21 +82258,6 @@ German-American pilot Dieter Dengler escapes a secret Laotian prison during the 
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260730084531 +0000" stop="20260730093631 +0000">
-    <title>Rookie Blue</title>
-    <desc>After a messy drug arrest, Andy and Marlo are quarantined together.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260730093631 +0000" stop="20260730102654 +0000">
-    <title>Rookie Blue</title>
-    <desc>There's a possible connection between a missing woman and one of the division's most distressing cases.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260730102654 +0000" stop="20260730111809 +0000">
-    <title>Rookie Blue</title>
-    <desc>When human bones found in a ravine open up a 15-year-old case, Swarek reunites with his old training officer.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260730111809 +0000" stop="20260730132836 +0000">
     <title>Bend It Like Beckham</title>
     <desc>Jess does not want to settle down. She wants to show the world how great of a soccer player she is.</desc>
@@ -82283,20 +82268,15 @@ German-American pilot Dieter Dengler escapes a secret Laotian prison during the 
     <desc>Anne deals with life as a working mother and raising a teen who seems to be growing up faster than expected.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1135306225_0_20250818T070011955Z_119_imageprocessorclient-tvplus-linear-5db7c6bc99-x889l.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260730072511 +0000" stop="20260730091536 +0000">
-    <title>The Song to My Heart</title>
-    <desc>An organic tea shop owner helps a music sensation write lyrics for a new solo album.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260730152352 +0000" stop="20260730171813 +0000">
+    <title>The Duff</title>
+    <desc>A high school senior instigates revolution after finding out she's the DUFF - Designated Ugly Fat Friend.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1966619280_0_20260627T091304414Z_118_imageprocessorclient-tvplus-linear-66fc4d58c8-gbvhf.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260730091536 +0000" stop="20260730110009 +0000">
-    <title>A Man for Every Month</title>
-    <desc>Blogger, Megan, tends to shy away from dating, but that all changes when her boss assigns her to vlog her dates for the eligible bachelor calendar. Now pushed out of her comfort zone, Megan must quickly learn the golden rules of dating.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485344868_1_20231018T125754555Z_57.jpeg" />
-  </programme>
-  <programme channel="GBBA3300059BU" start="20260730110009 +0000" stop="20260730124527 +0000">
-    <title>Sister's Obsession, A</title>
-    <desc>After Kendra's happy life starts to unravel, she soon discovers the cause is a vengeful long-lost twin sister.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260730171813 +0000" stop="20260730192840 +0000">
+    <title>Bend It Like Beckham</title>
+    <desc>Jess does not want to settle down. She wants to show the world how great of a soccer player she is.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1125286278_0_20250813T084616396Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-cj6j4.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260730124527 +0000" stop="20260730143008 +0000">
     <title>Watching Over You</title>
@@ -82308,46 +82288,20 @@ German-American pilot Dieter Dengler escapes a secret Laotian prison during the 
     <desc>Brian and Jenny are preparing for the big opening of their bed and breakfast, Emily's Country Inn, when a huge storm hits Bucks County. Brian agrees to return to Wall Street to boost their funds, while Jenny scrambles to keep the opening on time.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485488637_1_20231024T173455805Z_126.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260730161009 +0000" stop="20260730180008 +0000">
+    <title>WWJD II The Woodcarver</title>
+    <desc>A troubled youth vandalizes a church and winds up in a close association with the woodcarver whose work he destroyed.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485324351_0_20231018T125756227Z_18.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260730180008 +0000" stop="20260730194502 +0000">
+    <title>The Love Club: Lauren</title>
+    <desc>Lauren faces divorce papers but has a feeling that it's not quite over, so she asks the Love Club for help.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260730075400 +0000" stop="20260730084500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260730075400 +0000</episode-num>
-    <desc>During a routine traffic stop, Gail and Andy find a teenage boy bound and gagged in the trunk of a car; Oliver, Chris and Swarek track a gunman.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>The Kids Are Not Alright</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260730084500 +0000" stop="20260730093600 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260730084500 +0000</episode-num>
-    <desc>When an arrest reveals that drugs contaminated with deadly bacteria have hit the street, the squad rushes to control the situation; Marlo reveals a shocking secret; Dov suspects Chloe of hiding secrets.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Poison Pill</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260730093600 +0000" stop="20260730102600 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260730093600 +0000</episode-num>
-    <desc>When the investigation of a missing girl is linked to a past case, Detective Luke Callaghan comes back to help with search; Traci realizes she needs to get past Jerry's death; Sam and Andy face their past.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Skeletons</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260730102600 +0000" stop="20260730111800 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -82434,6 +82388,28 @@ German-American pilot Dieter Dengler escapes a secret Laotian prison during the 
     <icon src="https://images.pluto.tv/series/6a34324e87a403a7cf913551/tile_1781805647709.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a34324e87a403a7cf913551</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260731010200 +0000" stop="20260731031200 +0000">
+    <title>Bend It Like Beckham</title>
+    <live />
+    <episode-num system="original-air-date">20260731010200 +0000</episode-num>
+    <desc>An Anglo-Indian teenager does not tell her tradition-minded parents that she has joined a women's soccer team.</desc>
+    <icon src="https://images.pluto.tv/series/6890c4209017101f0518d9aa/tile_1754317858571.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6890c4209017101f0518d9aa</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260731031200 +0000" stop="20260731045700 +0000">
+    <title>Dirty Girl</title>
+    <live />
+    <episode-num system="original-air-date">20260731031200 +0000</episode-num>
+    <desc>Accompanied by her closeted gay buddy (Jeremy Dozier), a promiscuous teenager (Juno Temple) sets out to find her long-absent father.</desc>
+    <icon src="https://images.pluto.tv/series/6a34324f87a403a7cf913768/tile_1781805647962.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a34324f87a403a7cf913768</series-id>
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
