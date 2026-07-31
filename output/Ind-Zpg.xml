@@ -82731,16 +82731,6 @@ Brandon goes for a bin of nude photos, which he thinks are valuable, while Lori 
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260731100319 +0000" stop="20260731105437 +0000">
-    <title>Rookie Blue</title>
-    <desc>Andy and Dov pull themselves together at an all-night diner, but are caught off-guard in a diner hold-up.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260731105437 +0000" stop="20260731130647 +0000">
-    <title>The Expendables 3</title>
-    <desc>Barney augments his team with new blood to take down Conrad Stonebanks, the Expendables co-founder.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1734386896_0_20260329T084738690Z_99_imageprocessorclient-tvplus-linear-74d4c47476-n55xb.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260731130647 +0000" stop="20260731151632 +0000">
     <title>Escape Plan</title>
     <desc>The world's authority on structural security accepts a job to break out of an ultra-secret, high-tech facility</desc>
@@ -82751,15 +82741,15 @@ Brandon goes for a bin of nude photos, which he thinks are valuable, while Lori 
     <desc>A CIA operative hires a team of mercenaries to eliminate a Latin dictator and a renegade CIA agent.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1734405587_0_20260329T084738689Z_1_imageprocessorclient-tvplus-linear-74d4c47476-n55xb.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260731092002 +0000" stop="20260731110508 +0000">
-    <title>Love's Sweet Recipe</title>
-    <desc>Sparks fly between a talented chef and her childhood best friend as she regains her passion for cooking.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260731171056 +0000" stop="20260731190319 +0000">
+    <title>The Expendables 2</title>
+    <desc>When one of The Expendables is murdered on the job, their quest for revenge puts them deep in enemy territory.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1734418046_0_20260329T084738689Z_116_imageprocessorclient-tvplus-linear-74d4c47476-n55xb.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260731110508 +0000" stop="20260731125020 +0000">
-    <title>The Baby Proposal</title>
-    <desc>Sparks fly between a TV show host and her colleague when they become the unexpected guardians of a baby.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260731190319 +0000" stop="20260731211544 +0000">
+    <title>The Expendables 3</title>
+    <desc>Barney augments his team with new blood to take down Conrad Stonebanks, the Expendables co-founder.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1734386896_0_20260329T084738690Z_99_imageprocessorclient-tvplus-linear-74d4c47476-n55xb.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260731125020 +0000" stop="20260731143027 +0000">
     <title>The Joneses Unplugged</title>
@@ -82776,58 +82766,15 @@ Brandon goes for a bin of nude photos, which he thinks are valuable, while Lori 
     <desc>Beth is wrongly accused of murdering her husband. With the help of an insurance investigator and her stepdaughter together they find the real killer.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485488932_1_20231024T173455698Z_92.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260731180037 +0000" stop="20260731194506 +0000">
+    <title>Time Capsule</title>
+    <desc>After many years, a group of friends reunite at the summer camp of their youth, which is on the verge of being sold off.  When reliving their past joys, loves and sorrows, they open a time capsule that brings old tensions to the surface and inspires some newfound relationships.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485391822_0_20231019T005405632Z_112.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260731073000 +0000" stop="20260731082100 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260731073000 +0000</episode-num>
-    <desc>Andy finds out Marlo has been carrying out an unauthorized investigation into a pedophile; the drug sweep Traci is overseeing takes an unexpected turn when Sam leaves to help Marlo.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Deception</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260731082100 +0000" stop="20260731091200 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260731082100 +0000</episode-num>
-    <desc>When Andy and Chloe respond to a routine 911 call, they are blindsided by an unseen shooter out for revenge.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Under Fire</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260731091200 +0000" stop="20260731100300 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260731091200 +0000</episode-num>
-    <desc>Following violent, targeted attacks on 15 Division, the officers must piece together a past crime in order to find Oliver; the shooter's plan is revealed.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>You Can See the Stars</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260731100300 +0000" stop="20260731105400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260731100300 +0000</episode-num>
-    <desc>While off-duty, Andy and Dov become involved in a holdup at a diner; Nick goes rogue to search for Sam Swarek's next of kin; Andy is faced with both the men she cares for and must reveal her decision.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Blink</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260731105400 +0000" stop="20260731130600 +0000">
     <title>The Expendables 3</title>
     <live />
@@ -82913,6 +82860,39 @@ Brandon goes for a bin of nude photos, which he thinks are valuable, while Lori 
     <icon src="https://images.pluto.tv/series/65c17da0b65b870013d2018b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65c17da0b65b870013d2018b</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260801004900 +0000" stop="20260801024200 +0000">
+    <title>The Expendables 2</title>
+    <live />
+    <episode-num system="original-air-date">20260801004900 +0000</episode-num>
+    <desc>Mercenary Barney Ross and his team cut a swath of destruction through opposing forces as they take revenge for the vicious murder of a comrade.</desc>
+    <icon src="https://images.pluto.tv/series/65c17da1b65b870013d201b6/tile_1785168309106.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">65c17da1b65b870013d201b6</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260801024200 +0000" stop="20260801045400 +0000">
+    <title>The Expendables 3</title>
+    <live />
+    <episode-num system="original-air-date">20260801024200 +0000</episode-num>
+    <desc>After a former associate makes it his mission to end the Expendables, Barney Ross (Sylvester Stallone) assembles a team of younger, tech-savvy recruits to help take down their enemy.</desc>
+    <icon src="https://images.pluto.tv/series/65c17da1b65b870013d201e1/tile_1785168275046.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">65c17da1b65b870013d201e1</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260801045400 +0000" stop="20260801064300 +0000">
+    <title>Season of the Witch</title>
+    <live />
+    <episode-num system="original-air-date">20260801045400 +0000</episode-num>
+    <desc>Knights (Nicolas Cage, Ron Perlman) escort an accused witch to a remote abbey, where monks will perform a ritual in the hope of ending the pestilence ravaging Europe.</desc>
+    <icon src="https://images.pluto.tv/series/694592fb6d8434d421df765c/tile_1766185446225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">694592fb6d8434d421df765c</series-id>
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
