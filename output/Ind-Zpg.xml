@@ -82593,16 +82593,6 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260804100948 +0000" stop="20260804110051 +0000">
-    <title>Rookie Blue</title>
-    <desc>A riot breaks out at a women's prison while Andy, Juliet, Nick, and Gail are there to transfer prisoners.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260804110051 +0000" stop="20260804123913 +0000">
-    <title>The Cookout</title>
-    <desc>In an attempt at normality, the No. 1 NBA draft pick throws an old-fashioned neighborhood barbecue.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2061024878_0_20260730T075717208Z_85_imageprocessorclient-tvplus-linear-648598f6b5-kggn5.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260804123913 +0000" stop="20260804145218 +0000">
     <title>The Devil You Know</title>
     <desc>A man has a chance to turn things around, but he finds himself spiraling back into the dark place he overcame.</desc>
@@ -82613,15 +82603,15 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <desc>Two inept criminals are mistakenly delivered a package of cocaine and think they've hit the jackpot.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1096836722_0_20250730T065853544Z_72_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260804091010 +0000" stop="20260804105508 +0000">
-    <title>Murder at the Mansion</title>
-    <desc>As her wedding day approaches, a woman uncovers some deadly secrets hidden at her fiancé's lush family estate.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260804163052 +0000" stop="20260804183345 +0000">
+    <title>Brotherhood</title>
+    <desc>Sam is facing up to the new world. He realizes it also comes with new problems and new challenges.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2060969253_0_20260730T075717202Z_22_imageprocessorclient-tvplus-linear-648598f6b5-kggn5.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260804105508 +0000" stop="20260804125010 +0000">
-    <title>One Last Dance</title>
-    <desc>In the wake of tragedy, a renowned NY dance company is on the brink of collapse. After leaving the dance world for good, Travis, Chrissa and Max have one last chance to re-connect with the passion and prove that miracles really can happen.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485487869_1_20231024T173455798Z_156.jpeg" />
+  <programme channel="GBBA33000557H" start="20260804183345 +0000" stop="20260804202425 +0000">
+    <title>Blindspotting</title>
+    <desc>The intersection of race and class is set against the backdrop of a rapidly gentrifying Oakland.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1567059927_0_20260122T090005620Z_96_imageprocessorclient-tvplus-linear-85d7d49859-mrmsk.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260804125010 +0000" stop="20260804142553 +0000">
     <title>His Secret Past</title>
@@ -82638,57 +82628,15 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <desc />
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260804180501 +0000" stop="20260804195508 +0000">
+    <title>Deadly Vows</title>
+    <desc>Pastry chef Helena poisons men who don't meet her standards, but Helena's fiancé's sister smells danger.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260804082700 +0000" stop="20260804091900 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260804082700 +0000</episode-num>
-    <desc>Andy and Sam return to work; Andy is attacked at Traci's apartment and the Sex Crimes Unit tries to take over the case.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Open Windows</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260804091900 +0000" stop="20260804100900 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260804091900 +0000</episode-num>
-    <desc>Andy contemplates her future with Sam after learning of heartbreaking news; she meets a teenager in need of protection.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Perfect Family</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260804100900 +0000" stop="20260804110000 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260804100900 +0000</episode-num>
-    <desc>A riot erupts at an over-capacity women's correctional facility while Andy, Juliet, Nick and Gail transfer inmates; a dangerous prisoner tries to prove her innocence to a trapped Andy and Juliet.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Uprising</sub-title>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260804110000 +0000" stop="20260804123900 +0000">
-    <title>The Cookout</title>
-    <live />
-    <episode-num system="original-air-date">20260804110000 +0000</episode-num>
-    <desc>After her son signs a contract with an NBA team, a woman invites friends and family to a wild barbecue at his new mansion.</desc>
-    <icon src="https://images.pluto.tv/series/659d193007266400135605c3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">659d193007266400135605c3</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260804123900 +0000" stop="20260804145200 +0000">
     <title>The Devil You Know</title>
     <live />
@@ -82697,8 +82645,8 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <icon src="https://images.pluto.tv/series/6a6a3ff6fb2bd7ef08e12386/tile_1785348087657.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a6a3ff6fb2bd7ef08e12386</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260804145200 +0000" stop="20260804163000 +0000">
     <title>Next Day Air</title>
@@ -82708,8 +82656,8 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <icon src="https://images.pluto.tv/series/660ef1bfd4a73e0013a27b09/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">660ef1bfd4a73e0013a27b09</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260804163000 +0000" stop="20260804183300 +0000">
     <title>Brotherhood</title>
@@ -82719,8 +82667,8 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <icon src="https://images.pluto.tv/series/6684a9aa40b9bd001346abee/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6684a9aa40b9bd001346abee</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260804183300 +0000" stop="20260804202400 +0000">
     <title>Blindspotting</title>
@@ -82730,8 +82678,8 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <icon src="https://images.pluto.tv/series/69665e31f65a7c96c6358865/tile_1768368326256.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">69665e31f65a7c96c6358865</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260804202400 +0000" stop="20260804212300 +0000">
     <title>BMF</title>
@@ -82742,8 +82690,8 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <date>19700101</date>
     <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
     <sub-title>See It… Touch It... Obtain It</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260804212300 +0000" stop="20260804222300 +0000">
     <title>BMF</title>
@@ -82754,8 +82702,8 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <date>19700101</date>
     <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
     <sub-title>Rumors</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260804222300 +0000" stop="20260804232300 +0000">
     <title>BMF</title>
@@ -82766,8 +82714,8 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <date>19700101</date>
     <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
     <sub-title>Love All, Trust Few</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260804232300 +0000" stop="20260805002300 +0000">
     <title>BMF</title>
@@ -82778,8 +82726,8 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <date>19700101</date>
     <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
     <sub-title>Heroes</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805002300 +0000" stop="20260805012300 +0000">
     <title>BMF</title>
@@ -82790,8 +82738,56 @@ Alien monoliths haunt the coast of England; an obliterated jungle points to a br
     <date>19700101</date>
     <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
     <sub-title>Secrets and Lies</sub-title>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260805012300 +0000" stop="20260805022400 +0000">
+    <title>BMF</title>
+    <live />
+    <episode-num system="original-air-date">20260805012300 +0000</episode-num>
+    <desc>Meech and Terry create a new system for "The 50 Boyz" to operate more smoothly, while a secret within their ranks threatens to tear the crew apart.</desc>
+    <icon src="https://images.pluto.tv/series/6a6934a31de8a69a11bc6288/tile_1785279652225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
+    <sub-title>Strictly Business</sub-title>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260805022400 +0000" stop="20260805032300 +0000">
+    <title>BMF</title>
+    <live />
+    <episode-num system="original-air-date">20260805022400 +0000</episode-num>
+    <desc>Meech avoids a street war by moving his crew, The 50 Boyz, to a new location; Meech and his brother Terry cook up a more potent batch of drugs that creates enough demand to help their family overcome the economic crisis.</desc>
+    <icon src="https://images.pluto.tv/series/6a6934a31de8a69a11bc6288/tile_1785279652225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
+    <sub-title>See It… Touch It... Obtain It</sub-title>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260805032300 +0000" stop="20260805042300 +0000">
+    <title>BMF</title>
+    <live />
+    <episode-num system="original-air-date">20260805032300 +0000</episode-num>
+    <desc>Tensions rise between The 50 Boyz and their rivals, which creates repercussions; Lamar plants misinformation so he can actively step towards the throne.</desc>
+    <icon src="https://images.pluto.tv/series/6a6934a31de8a69a11bc6288/tile_1785279652225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
+    <sub-title>Rumors</sub-title>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260805042300 +0000" stop="20260805052300 +0000">
+    <title>BMF</title>
+    <live />
+    <episode-num system="original-air-date">20260805042300 +0000</episode-num>
+    <desc>Meech and Terry set up an undercover operation using a food truck to sell drugs to factory workers; Detective Lopez investigates a murder at the center of the city's drug war.</desc>
+    <icon src="https://images.pluto.tv/series/6a6934a31de8a69a11bc6288/tile_1785279652225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a6934a31de8a69a11bc6288</series-id>
+    <sub-title>Love All, Trust Few</sub-title>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
