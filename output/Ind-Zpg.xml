@@ -82253,21 +82253,6 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260805084646 +0000" stop="20260805093749 +0000">
-    <title>Rookie Blue</title>
-    <desc>Andy, Dov, Gail, and Nick undertake a risky plan to prove that Commissioner Alonso Santana is corrupt.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260805093749 +0000" stop="20260805102817 +0000">
-    <title>Rookie Blue</title>
-    <desc>A heat wave hits and Jarvis opens the division to the public as a cooling station.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260805102817 +0000" stop="20260805111935 +0000">
-    <title>Rookie Blue</title>
-    <desc>Now that Sam and Marlo's baby girl has arrived, it's clear nothing could have prepared Andy for this moment.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260805111935 +0000" stop="20260805130734 +0000">
     <title>Evolver</title>
     <desc>A teenager gets a robotic opponent after winning a laser tag contest  however the robot is not what it seems!</desc>
@@ -82283,10 +82268,10 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <desc>Two kids with special abilities must find a girl in Hong Kong before a shadowy government organization does.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1078697988_1_20250724T094851071Z_80_imageprocessorclient-tvplus-linear-5db7c6bc99-7g8nq.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260805091020 +0000" stop="20260805110040 +0000">
-    <title>Fatal Defense</title>
-    <desc>A single mother signs up for self-defense classes from a handsome instructor. But he develops a frightening obsession with her and orchestrates an increasing deadly array of "tests" to see if she has truly learned from his lessons.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485422865_0_20231020T004306753Z_36.jpeg" />
+  <programme channel="GBBA33000557H" start="20260805171555 +0000" stop="20260805185118 +0000">
+    <title>Ghost Rider: The Spirit of Vengeance</title>
+    <desc>Johnny Blaze, tortured by the Ghost Rider's curse, gets a chance of redemption by protecting the Devil's son.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_2063518581_2_20260731T054934195Z_46_imageprocessorclient-tvplus-linear-648598f6b5-lxd9l.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260805110040 +0000" stop="20260805124514 +0000">
     <title>Deadly Patient</title>
@@ -82303,58 +82288,20 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <desc>A lawyer is riding high after putting a receiving a Not Guilty verdict for her client, but has to look over her shoulder when a woman she meets in a traffic accident is not all she appears to be.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485342618_0_20231018T125754796Z_108.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260805161509 +0000" stop="20260805180522 +0000">
+    <title>Deadly Exchange</title>
+    <desc>A British exchange student upends her host family's life when she tries to take the place of their daughter.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260805180522 +0000" stop="20260805195023 +0000">
+    <title>Another Man's Wife</title>
+    <desc>After a tragic car accident, a family gets away to a remote mountain cabin to recover and rebuild their lives. During their vacation, a handsome man befriends them only to get revenge and destroy what is left of their fragile lives.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485488468_0_20231024T173452760Z_87.jpeg" />
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260805061400 +0000" stop="20260805070500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260805061400 +0000</episode-num>
-    <desc>Officers from 15 Division race to find Traci after she fails to show up for a raid involving a notorious gun dealer.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>A Real Gentleman</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260805070500 +0000" stop="20260805075500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260805070500 +0000</episode-num>
-    <desc>A community outreach baseball game is interrupted by a drive-by shooting; Sam plans a getaway with Andy.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Home Run</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260805075500 +0000" stop="20260805084600 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260805075500 +0000</episode-num>
-    <desc>Sam and Andy are determined to clear Oliver's name after discovering he is the prime suspect in the evidence room bombing.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Best Man</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260805084600 +0000" stop="20260805093700 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260805084600 +0000</episode-num>
-    <desc>Andy, Dov, Gail and Nick undertake a risky plan; Traci shadows Steve Peck, hoping to calm her fears about his involvement in the bombing.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Integrity Test</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805093700 +0000" stop="20260805102800 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -82364,8 +82311,8 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Ninety Degrees</sub-title>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805102800 +0000" stop="20260805111900 +0000">
     <title>Rookie Blue</title>
@@ -82376,8 +82323,8 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Breaking Up the Band</sub-title>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805111900 +0000" stop="20260805130700 +0000">
     <title>Evolver</title>
@@ -82387,8 +82334,8 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <icon src="https://images.pluto.tv/series/6a6a38dad8618839a6b5f094/tile_1785346267160.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a6a38dad8618839a6b5f094</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805130700 +0000" stop="20260805151000 +0000">
     <title>The Spirit</title>
@@ -82398,8 +82345,8 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <icon src="https://images.pluto.tv/series/65b2a1d504045f0013dc9220/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65b2a1d504045f0013dc9220</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805151000 +0000" stop="20260805171500 +0000">
     <title>Push</title>
@@ -82409,8 +82356,8 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <icon src="https://images.pluto.tv/series/676adaa50bd9010013ade7c6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">676adaa50bd9010013ade7c6</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805171500 +0000" stop="20260805185100 +0000">
     <title>Ghost Rider: Spirit of Vengeance</title>
@@ -82420,8 +82367,8 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <icon src="https://images.pluto.tv/series/6a6a38dad8618839a6b5f1f5/tile_1785346267614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a6a38dad8618839a6b5f1f5</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805185100 +0000" stop="20260805210500 +0000">
     <title>Hellboy</title>
@@ -82431,8 +82378,8 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <icon src="https://images.pluto.tv/series/660c5ce19622540013323642/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">660c5ce19622540013323642</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805210500 +0000" stop="20260805230800 +0000">
     <title>The Spirit</title>
@@ -82442,8 +82389,8 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <icon src="https://images.pluto.tv/series/65b2a1d504045f0013dc9220/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">65b2a1d504045f0013dc9220</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260805230800 +0000" stop="20260806011300 +0000">
     <title>Push</title>
@@ -82453,8 +82400,19 @@ Travelling east, Alice discovers a Roman barn conversion, unearths a Tudor fort 
     <icon src="https://images.pluto.tv/series/676adaa50bd9010013ade7c6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">676adaa50bd9010013ade7c6</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260806011300 +0000" stop="20260806024900 +0000">
+    <title>Ghost Rider: Spirit of Vengeance</title>
+    <live />
+    <episode-num system="original-air-date">20260806011300 +0000</episode-num>
+    <desc>Johnny Blaze (Nicolas Cage) gets a chance to rid himself of the Ghost Rider curse forever when members of a secret church hire him to save a boy from Satan (Ciarán Hinds).</desc>
+    <icon src="https://images.pluto.tv/series/6a6a38dad8618839a6b5f1f5/tile_1785346267614.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a6a38dad8618839a6b5f1f5</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
