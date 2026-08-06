@@ -82110,16 +82110,6 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <display-name>MyTime Movie Network</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20260127T040312SQUARE.png" />
   </channel>
-  <programme channel="GBBA33000557H" start="20260806100432 +0000" stop="20260806105441 +0000">
-    <title>Rookie Blue</title>
-    <desc>A fatal traffic collision reveals a shocking truth, and Andy's romance with Det. Callaghan gets complicated.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
-  <programme channel="GBBA33000557H" start="20260806105441 +0000" stop="20260806114559 +0000">
-    <title>Rookie Blue</title>
-    <desc>A heat wave has wreaked havoc on the city, multiplied by growing fears of a serial rapist on the loose.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_974062400_0_20250613T143315107Z_85_imageprocessorclient-tvplus-linear-5db7c6bc99-nf4cw.jpeg" />
-  </programme>
   <programme channel="GBBA33000557H" start="20260806114559 +0000" stop="20260806135846 +0000">
     <title>Revolver</title>
     <desc>Gambler Jake Green enters into a game with potentially deadly consequences.</desc>
@@ -82135,15 +82125,10 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <desc>Two detectives are drawn into a mysterious case where a thief has masterminded a series of bank heists.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1515371780_0_20260104T104607317Z_67_imageprocessorclient-tvplus-linear-85d7d49859-kwj9b.jpeg" />
   </programme>
-  <programme channel="GBBA3300059BU" start="20260806084525 +0000" stop="20260806103027 +0000">
-    <title>My Terrorized Teen</title>
-    <desc>When her daughter is tormented by high school mean girls, one mother must stop it before it becomes deadly…</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
-  </programme>
-  <programme channel="GBBA3300059BU" start="20260806103027 +0000" stop="20260806121007 +0000">
-    <title>Pretty Little Stalker</title>
-    <desc>A mother warns her popular son away from a new girlfriend, convinced she is dangerous to both of them.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
+  <programme channel="GBBA33000557H" start="20260806181807 +0000" stop="20260806200355 +0000">
+    <title>Safe</title>
+    <desc>Luke Wright is tormented by the Russian Mafia and witnesses a young Chinese girl being pursued by the same mafia who want her for a priceless numerical code that they would kill for.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_1419826737_0_20251208T100317823Z_1_imageprocessorclient-tvplus-linear-85d7d49859-9m9zg.jpeg" />
   </programme>
   <programme channel="GBBA3300059BU" start="20260806121007 +0000" stop="20260806142508 +0000">
     <title>Pure Country 2: The Gift</title>
@@ -82155,58 +82140,21 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <desc>A family counselor in the missing children's division becomes a mediator between the living and the missing.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485323615_2_20231018T125756228Z_40.jpeg" />
   </programme>
+  <programme channel="GBBA3300059BU" start="20260806162509 +0000" stop="20260806180504 +0000">
+    <title>Hometown Hero</title>
+    <desc>Young divorce lawyer Kelsey finds it safer to keep love out of her life - that is until a stray dog pairs her with Harrison, the local vet.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_485331120_3_20231018T125758203Z_69.jpeg" />
+  </programme>
+  <programme channel="GBBA3300059BU" start="20260806180504 +0000" stop="20260806195523 +0000">
+    <title>Be Mine</title>
+    <desc>A woman finds romance as she prepares to take over her mother's garden store.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQO570425A_952097914_0_20250606T053343048Z_57_imageprocessorclient-tvplus-linear-6fb5b47f79-vs62g.jpeg" />
+    <episode-num system="onscreen">S06E02</episode-num>
+  </programme>
   <channel id="6401d85a49839300087b116c">
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20260806073400 +0000" stop="20260806082400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260806073400 +0000</episode-num>
-    <desc>Andy wrestles with a dilemma, while the other rookies are ready to duke it out at a charity event.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Fite Nite</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260806082400 +0000" stop="20260806091500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260806082400 +0000</episode-num>
-    <desc>Andy goes undercover as a prostitute during a citywide sting operation; Dov and Andy's attempt to impress Sgt. Boyko backfires.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Signals Crossed</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260806091500 +0000" stop="20260806100400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260806091500 +0000</episode-num>
-    <desc>Andy and Traci are among the first responders to a home invasion at an upscale address; when the crisis appears to be over, Traci hurries away to handle a personal emergency; Andy must confront the armed suspect alone.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Broad Daylight</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20260806100400 +0000" stop="20260806105400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20260806100400 +0000</episode-num>
-    <desc>A fatal traffic collision reveals a shocking truth; Andy and Callaghan's relationship gets complicated when they disagree over the handling of a witness in a murder case.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Bullet Proof</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20260806105400 +0000" stop="20260806114500 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -82216,8 +82164,8 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>Hot and Bothered</sub-title>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260806114500 +0000" stop="20260806135800 +0000">
     <title>Revolver</title>
@@ -82227,8 +82175,8 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <icon src="https://images.pluto.tv/series/66d64a8f9f04dd0013b11c85/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66d64a8f9f04dd0013b11c85</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260806135800 +0000" stop="20260806161800 +0000">
     <title>Parker</title>
@@ -82238,8 +82186,8 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <icon src="https://images.pluto.tv/series/685c1d4bde5f6440c4899a77/tile_1750867278707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4bde5f6440c4899a77</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260806161800 +0000" stop="20260806181800 +0000">
     <title>Chaos</title>
@@ -82249,8 +82197,8 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <icon src="https://images.pluto.tv/series/680b3a1519d991719ffdda31/tile_1745566233004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">680b3a1519d991719ffdda31</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260806181800 +0000" stop="20260806200300 +0000">
     <title>Safe</title>
@@ -82260,8 +82208,8 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <icon src="https://images.pluto.tv/series/685c1d4ade5f6440c4898e51/tile_1750867276929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4ade5f6440c4898e51</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260806200300 +0000" stop="20260806215700 +0000">
     <title>Mechanic: Resurrection</title>
@@ -82271,8 +82219,8 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <icon src="https://images.pluto.tv/series/693b1c396a2e5eeebc85e42f/tile_1765481530995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">693b1c396a2e5eeebc85e42f</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260806215700 +0000" stop="20260806235300 +0000">
     <title>War</title>
@@ -82282,8 +82230,8 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <icon src="https://images.pluto.tv/series/6783849ffdf9ffc121c2b03d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6783849ffdf9ffc121c2b03d</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20260806235300 +0000" stop="20260807021200 +0000">
     <title>Parker</title>
@@ -82293,8 +82241,19 @@ Quawntay Adams, a young African American man from South-Central Los Angeles gets
     <icon src="https://images.pluto.tv/series/685c1d4bde5f6440c4899a77/tile_1750867278707.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">685c1d4bde5f6440c4899a77</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20260807021200 +0000" stop="20260807041200 +0000">
+    <title>Chaos</title>
+    <live />
+    <episode-num system="original-air-date">20260807021200 +0000</episode-num>
+    <desc>A veteran detective and a rookie cop have to stop a master thief's computer virus before it drains all the funds from a bank's accounts.</desc>
+    <icon src="https://images.pluto.tv/series/680b3a1519d991719ffdda31/tile_1745566233004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">680b3a1519d991719ffdda31</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
