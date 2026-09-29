@@ -116,6 +116,8 @@ lifetimemovies.us
 lifetime.us
 lifetime.ca
 mgm+.us
+mgmplus.us
+mgmplusdrivein.us
 mgm+drive.us
 mgm+hits.us
 mgm+marquee.us
