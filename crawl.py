@@ -299,6 +299,7 @@ trutv.us
 tvland.us
 uptv.us
 vh1.us
+wnetwork.ca
 """
 
 valid_tvg_ids_original = [line.strip() for line in tvg_ids_raw.splitlines() if line.strip()]
