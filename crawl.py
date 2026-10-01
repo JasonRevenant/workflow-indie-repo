@@ -279,6 +279,7 @@ shoutmovies.us
 showcase.ca
 showtime.us
 shoxbet.us
+shoxbetwest.us
 skyatlantic.uk
 skycinemacomedy.uk
 skydocumentaries.uk
