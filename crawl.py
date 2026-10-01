@@ -23,11 +23,9 @@ and.flix.in
 and.Flix.HD.in
 AndFlix.HD.in
 And.Prive.HD.in
-MOVIES.NOW.in
-MOVIES.NOW.in
-Movies Now HD.in
-Movies.Now.HD.in
+MoviesNow.in
 MNX.in
+462
 MN+.HD.in
 SONY PIX.in
 SONY PIX HD.in
@@ -47,15 +45,13 @@ ROMEDY.NOW.in
 DISCOVERY.HD.WORLD.in
 Disney Channel HD.in
 HISTORY.TV18.HD.in
-History TV18 HD.in
+146
 NATIONAL.GEOGRAPHIC.HD.in
 National Geographic HD.in
 National Geographic.in
 SONY.SPORTS.TEN.1.HD.in
 SONY SPORTS TEN 1 HD.in
-SONY.SPORTS.TEN.1.in
-Sony.Ten.1.in
-Sony.Ten.1.HD.in
+3510
 MTV.in
 MTV HD.in
 MTV.in
@@ -63,6 +59,7 @@ COLORS.in
 Colors.in
 Colors.HD.in
 Colors HD.in
+144
 COLORS.HD.uk
 Colors.uk
 Colors.uk
@@ -75,8 +72,9 @@ movies.us
 amc.ca
 amcthrillers.us
 storiesamc.us
+StoriesbyAMC.us
 amc+.us
-wbtvthemovies.us
+AtTheMovies.us
 backstage.us
 cinemax.us
 5starmax.us
@@ -94,12 +92,12 @@ epixhits.us
 fx.us
 fxmovies.us
 hbo.us
-hbo2.us
-hbo2.ca
 hbo1.ca
-hbocomedy.us
-hbosignature.us
 hbowest.us
+hbohits.us
+hbo2.ca
+hbocomedy.us
+hbodrama.us
 hbozone.us
 hdnetmovies.us
 hollywoodsuite2000s.ca
@@ -109,9 +107,10 @@ Hollywood.Suite.2010s+.ca2
 hollywoodsuite70s.ca
 hollywoodsuite80s.ca
 lifetimemovienetwork.us
+LifetimeMovieFavorites.us
 US1600002OK
 68fa84637ac952737656ae5f-680adc83ea62ac6a05a626e6
-5e20b730f2f8d5003d739db7-680adc83ea62ac6a05a626e6
+6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6
 lifetimemovies.us
 lifetime.us
 lifetime.ca
@@ -136,6 +135,7 @@ GBBA3300059BU
 UK:.MyTime.Movie.Network.be
 paramountnetwork.us
 pixl.us
+ScaresbyShudder.us
 screenpix.us
 screenpixaction.us
 screenpixvoices.us
@@ -158,6 +158,7 @@ skycinemagreats.uk
 skycinemahits.uk
 skycinemapremiere.uk
 skycinemascihorror.uk
+skycinemascifihorror.uk
 skycinemathriller.uk
 sonymoviechannel.us
 dummy-673623
@@ -197,9 +198,10 @@ adultswim.ca
 ahc.ca
 aliennationbydust.us
 dummy-1133115
+plex.tv.ANIME.x.HIDIVE.plex
 5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf
 5e20b730f2f8d5003d739db7-686452b8fbd6d9b449de2be3
-5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643
+6a1610bebdf296985fd95603-65622fb65dbccec83a87b643
 bet.us
 cartoonnetwork.ca
 cinevault.us
@@ -210,14 +212,15 @@ comedycentral.us
 comedycentral.uk
 comet.us
 cozitv.us
-crime+investigation.us
+crimeplusinvestigation.us
 crunchyroll.us
 ctvcomedy.ca
 ctvdramachannel.ca
 ctvscichannel.ca
+ctvscifichannel.ca
 cwgold.us
 dejaview.ca
-discoverycanada.ca
+discoverychannel.ca
 discoverychannel.us
 discovery.uk
 discoverylife.us
@@ -226,7 +229,7 @@ discoveryscience.ca
 disneychannel.us
 disneychannelcanada.ca
 dtour.ca
-e!entertainment.us
+e!entertainmenttelevision.us
 e4.uk
 filmrisefreemovies.us
 filmriseaction.us
@@ -281,8 +284,9 @@ skycinemacomedy.uk
 skydocumentaries.uk
 skyhistory.uk
 skyhistory2.uk
-ktv.uk
+SkyMix.uk
 skysci.uk
+skyscifi.uk
 skyshowcase.uk
 slice.ca
 slightlyoffifc.us
