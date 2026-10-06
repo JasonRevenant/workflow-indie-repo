@@ -186,7 +186,9 @@ superchannelfuse.ca
 superchannelheart&home.ca
 superchannelquest.ca
 superchannelvault.ca
+syfy.us
 syfywest.us
+scifi.ca
 themoviechannel.us
 themovienetworkondemand.ca
 skycinemaselect.uk
