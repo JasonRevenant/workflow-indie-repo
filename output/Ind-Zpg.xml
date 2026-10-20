@@ -1296,79 +1296,111 @@
 <channel id="MTV HD.in"><display-name>MTV HD.in</display-name></channel>
 <channel id="National Geographic HD.in"><display-name>National Geographic HD.in</display-name></channel>
 <channel id="SONY PIX HD.in"><display-name>SONY PIX HD.in</display-name></channel>
-<programme start="20261018194000 +0000" stop="20261018205400 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc><episode-num system="xmltv_ns">19.41.</episode-num></programme>
-<programme start="20261018205400 +0000" stop="20261018220900 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>With dwindling time and ration, a dramatic twist forces an agonising sacrifice.</desc><episode-num system="xmltv_ns">19.40.</episode-num></programme>
-<programme start="20261018220900 +0000" stop="20261018223700 +0000" channel="Colors.in"><title>Shayad Yahi Hai Pyaar</title><desc>After a toxic relationship, 35-year-old Preeti finds love again with 25-year-old Aarav.</desc><episode-num system="xmltv_ns">0.15.</episode-num></programme>
-<programme start="20261018223700 +0000" stop="20261018230500 +0000" channel="Colors.in"><title>Shayad Yahi Hai Pyaar</title><desc>After a toxic relationship, 35-year-old Preeti finds love again with 25-year-old Aarav.</desc><episode-num system="xmltv_ns">0.16.</episode-num></programme>
-<programme start="20261018230500 +0000" stop="20261018233400 +0000" channel="Colors.in"><title>Shayad Yahi Hai Pyaar</title><desc>After a toxic relationship, 35-year-old Preeti finds love again with 25-year-old Aarav.</desc><episode-num system="xmltv_ns">0.17.</episode-num></programme>
-<programme start="20261018233400 +0000" stop="20261019000300 +0000" channel="Colors.in"><title>Shayad Yahi Hai Pyaar</title><desc>After a toxic relationship, 35-year-old Preeti finds love again with 25-year-old Aarav.</desc><episode-num system="xmltv_ns">0.18.</episode-num></programme>
-<programme start="20261019000300 +0000" stop="20261019003000 +0000" channel="Colors.in"><title>Shayad Yahi Hai Pyaar</title><desc>After a toxic relationship, 35-year-old Preeti finds love again with 25-year-old Aarav.</desc><episode-num system="xmltv_ns">0.19.</episode-num></programme>
-<programme start="20261019003000 +0000" stop="20261019013000 +0000" channel="Colors.in"><title>Tuu Juliet Jatt Di</title><desc>Nawab and Heer search for each other after meeting with an accident.</desc><episode-num system="xmltv_ns">0.335.</episode-num></programme>
-<programme start="20261019013000 +0000" stop="20261019020200 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc><episode-num system="xmltv_ns">19.41.</episode-num></programme>
-<programme start="20261019020200 +0000" stop="20261019034900 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc><episode-num system="xmltv_ns">19.42.</episode-num></programme>
-<programme start="20261019034900 +0000" stop="20261019060100 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>A fresh cooking competition kicks off, packed with twists, entertainment and chaos.</desc><episode-num system="xmltv_ns">2.0.</episode-num></programme>
-<programme start="20261019060100 +0000" stop="20261019080200 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>A fresh cooking competition kicks off, packed with twists, entertainment and chaos.</desc><episode-num system="xmltv_ns">2.0.</episode-num></programme>
-<programme start="20261019080200 +0000" stop="20261019082300 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Sugna tells Pratap that she will commit suicide if he marries someone else.</desc><episode-num system="xmltv_ns">0.97.</episode-num></programme>
-<programme start="20261019082300 +0000" stop="20261019084300 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Bhairon speaks to Pratap's parents and convinces them about delaying the 'gauna' ceremony.</desc><episode-num system="xmltv_ns">0.98.</episode-num></programme>
-<programme start="20261019084300 +0000" stop="20261019090300 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Kalyani calls Pratap's father and informs him about the 'gauna' ceremony.</desc><episode-num system="xmltv_ns">0.99.</episode-num></programme>
-<programme start="20261019090300 +0000" stop="20261019092200 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Sumitra tells Bhairon to change his decision and do as Pratap's parents asked.</desc><episode-num system="xmltv_ns">0.100.</episode-num></programme>
-<programme start="20261019092200 +0000" stop="20261019094300 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.101.</episode-num></programme>
-<programme start="20261019094300 +0000" stop="20261019100400 +0000" channel="Colors.in"><title>Thapki Pyar Ki</title><desc>Thapki, a lively and intelligent girl with a stutter, faces all her problems with aplomb.</desc><episode-num system="xmltv_ns">0.540.</episode-num></programme>
-<programme start="20261019100400 +0000" stop="20261019103600 +0000" channel="Colors.in"><title>Thapki Pyar Ki</title><desc>Thapki, a lively and intelligent girl with a stutter, faces all her problems with aplomb.</desc><episode-num system="xmltv_ns">0.541.</episode-num></programme>
-<programme start="20261019103600 +0000" stop="20261019110800 +0000" channel="Colors.in"><title>Thapki Pyar Ki</title><desc>Thapki, a lively and intelligent girl with a stutter, faces all her problems with aplomb.</desc><episode-num system="xmltv_ns">0.542.</episode-num></programme>
-<programme start="20261019110800 +0000" stop="20261019114200 +0000" channel="Colors.in"><title>Thapki Pyar Ki</title><desc>When Bihaan's 'badi daadi' visits the Pandey house, Vasundhara introduces Thapki as his wife. However, when Bihaan reveals the truth to his cousin Sonu, he mentions that the truth about their.</desc><episode-num system="xmltv_ns">0.543.</episode-num></programme>
-<programme start="20261019114200 +0000" stop="20261019122200 +0000" channel="Colors.in"><title>Thapki Pyar Ki</title><desc>When Bihaan's grandmother shows up unannounced, Bihaan and Thapki fake their marriage.</desc><episode-num system="xmltv_ns">0.544.</episode-num></programme>
-<programme start="20261019122200 +0000" stop="20261019125600 +0000" channel="Colors.in"><title>Bareilly Ki Bacchan</title><desc>Aarti's mother halts her wedding, leaving a heartbroken Ganga to grieve her absence.</desc><episode-num system="xmltv_ns">0.108.</episode-num></programme>
-<programme start="20261019125600 +0000" stop="20261019132800 +0000" channel="Colors.in"><title>Tuu Juliet Jatt Di</title><desc>Nawab and Heer search for each other after meeting with an accident.</desc><episode-num system="xmltv_ns">0.335.</episode-num></programme>
-<programme start="20261019132800 +0000" stop="20261019140000 +0000" channel="Colors.in"><title>Tuu Juliet Jatt Di</title><desc>Focused Heer encounters privileged Nawab, sparking an unexpected romance.</desc><episode-num system="xmltv_ns">0.336.</episode-num></programme>
-<programme start="20261019140000 +0000" stop="20261019143300 +0000" channel="Colors.in"><title>Mannat Harr Khushi Paane Ki</title><desc>Chef Mannat's dreams clash with her employer, who is her secret birth mother and nemesis.</desc><episode-num system="xmltv_ns">0.588.</episode-num></programme>
-<programme start="20261019143300 +0000" stop="20261019150600 +0000" channel="Colors.in"><title>DR. Aarambhi</title><desc>Aarambhi, an ex-AIPMT star trapped in chores, fights to revive her forgotten dream.</desc><episode-num system="xmltv_ns">0.215.</episode-num></programme>
-<programme start="20261019150600 +0000" stop="20261019153900 +0000" channel="Colors.in"><title>Seher Hone Ko Hai</title><desc>Kausar is determined to overcome societal barriers to help her daughter fulfil her dreams.</desc><episode-num system="xmltv_ns">0.247.</episode-num></programme>
-<programme start="20261019153900 +0000" stop="20261019161300 +0000" channel="Colors.in"><title>Bareilly Ki Bacchan</title><desc>Sangam marries Krishna Bacchan and strives to win over his all-male family.</desc><episode-num system="xmltv_ns">0.110.</episode-num></programme>
-<programme start="20261019161300 +0000" stop="20261019164800 +0000" channel="Colors.in"><title>Shayad Yahi Hai Pyaar</title><desc>After a toxic relationship, 35-year-old Preeti finds love again with 25-year-old Aarav.</desc><episode-num system="xmltv_ns">0.15.</episode-num></programme>
-<programme start="20261019164800 +0000" stop="20261019171900 +0000" channel="Colors.in"><title>Mahadev &amp; Sons</title><desc>A father's principled approach to guiding his family with a firm hand sparks rebellion.</desc><episode-num system="xmltv_ns">0.219.</episode-num></programme>
-<programme start="20261019171900 +0000" stop="20261019195600 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc><episode-num system="xmltv_ns">19.43.</episode-num></programme>
-<programme start="20261019195600 +0000" stop="20261019211100 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc><episode-num system="xmltv_ns">19.42.</episode-num></programme>
-<programme start="20261019211100 +0000" stop="20261019222500 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc><episode-num system="xmltv_ns">19.41.</episode-num></programme>
-<programme start="20261019222500 +0000" stop="20261019233900 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>With dwindling time and ration, a dramatic twist forces an agonising sacrifice.</desc><episode-num system="xmltv_ns">19.40.</episode-num></programme>
-<programme start="20261019233900 +0000" stop="20261020003000 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>The ex-captains must elect the next captain and later Qazi and Arishfa share a moment.</desc><episode-num system="xmltv_ns">19.39.</episode-num></programme>
-<programme start="20261020003000 +0000" stop="20261020010000 +0000" channel="Colors.in"><title>Tuu Juliet Jatt Di</title><desc>Consumed by guilt after a night with Tina, Nawab receives a warning from Buzzo.</desc><episode-num system="xmltv_ns">0.146.</episode-num></programme>
-<programme start="20261020010000 +0000" stop="20261020013000 +0000" channel="Colors.in"><title>Teleshopping</title><desc>The host showcases the features of a variety of products manufactured by renowned brands.</desc></programme>
-<programme start="20261020013000 +0000" stop="20261020031500 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>The celebrity contestants must prepare shahi phal barfi, shahi korma and shahi pulao.</desc><episode-num system="xmltv_ns">0.7.</episode-num></programme>
-<programme start="20261020031500 +0000" stop="20261020044500 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>The celebrity contestants prepare South Indian dishes to impress guest Suniel Shetty.</desc><episode-num system="xmltv_ns">0.8.</episode-num></programme>
-<programme start="20261020044500 +0000" stop="20261020061500 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>The contestants must prepare the best 'Chole Bhature' with a family member.</desc><episode-num system="xmltv_ns">0.9.</episode-num></programme>
-<programme start="20261020061500 +0000" stop="20261020074500 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>Arjun enacts a grand re-entry into the esteemed Laughter Chefs assembly after long hiatus.</desc><episode-num system="xmltv_ns">2.14.</episode-num></programme>
-<programme start="20261020074500 +0000" stop="20261020080000 +0000" channel="Colors.in"><title>Kasam Tere Pyaar Ki</title><desc>Bani falsely accuses the Bedis of abusing Tanuja, leading to their arrest.</desc><episode-num system="xmltv_ns">0.225.</episode-num></programme>
-<programme start="20261020080000 +0000" stop="20261020083000 +0000" channel="Colors.in"><title>Kasam Tere Pyaar Ki</title><desc>Tanuja learns of Bani's plan to harass the Bedis.</desc><episode-num system="xmltv_ns">0.226.</episode-num></programme>
-<programme start="20261020083000 +0000" stop="20261020090000 +0000" channel="Colors.in"><title>Kasam Tere Pyaar Ki</title><desc>Tanuja receives the hospital report and heads to the police station.</desc><episode-num system="xmltv_ns">0.227.</episode-num></programme>
-<programme start="20261020090000 +0000" stop="20261020093000 +0000" channel="Colors.in"><title>Kasam Tere Pyaar Ki</title><desc>Traumatised by police brutality, Rano accuses Tanuja of conspiring against the family.</desc><episode-num system="xmltv_ns">0.228.</episode-num></programme>
-<programme start="20261020093000 +0000" stop="20261020100000 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.1612.</episode-num></programme>
-<programme start="20261020100000 +0000" stop="20261020103000 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.1613.</episode-num></programme>
-<programme start="20261020103000 +0000" stop="20261020110000 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.1614.</episode-num></programme>
-<programme start="20261020110000 +0000" stop="20261020113000 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.1615.</episode-num></programme>
-<programme start="20261020113000 +0000" stop="20261020120000 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.1616.</episode-num></programme>
-<programme start="20261020120000 +0000" stop="20261020123000 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.1617.</episode-num></programme>
-<programme start="20261020123000 +0000" stop="20261020124500 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.1618.</episode-num></programme>
-<programme start="20261020124500 +0000" stop="20261020130000 +0000" channel="Colors.in"><title>Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title><desc>Anandi, a child bride, overcomes multiple challenges to become an idol for rural women.</desc><episode-num system="xmltv_ns">0.1619.</episode-num></programme>
-<programme start="20261020130000 +0000" stop="20261020133000 +0000" channel="Colors.in"><title>Noyontara</title><desc>After Noyontara finds the pen drive, Shaoli demands that Nishi sends Prateek away.</desc><episode-num system="xmltv_ns">0.308.</episode-num></programme>
-<programme start="20261020133000 +0000" stop="20261020140000 +0000" channel="Colors.in"><title>Tuu Juliet Jatt Di</title><desc>Heer's world collapses when Arjun proves Nawab was unfaithful to her.</desc><episode-num system="xmltv_ns">0.147.</episode-num></programme>
-<programme start="20261020140000 +0000" stop="20261020143000 +0000" channel="Colors.in"><title>Mannat Harr Khushi Paane Ki</title><desc>Arzoo learns that Mannat is a suitable donor, while Dua collects proof against Vishakha.</desc><episode-num system="xmltv_ns">0.399.</episode-num></programme>
-<programme start="20261020143000 +0000" stop="20261020150000 +0000" channel="Colors.in"><title>DR. Aarambhi</title><desc>Vikrant leaves his wedding behind to discover Mannat as startling revelations emerge.</desc><episode-num system="xmltv_ns">0.54.</episode-num></programme>
-<programme start="20261020150000 +0000" stop="20261020153000 +0000" channel="Colors.in"><title>Seher Hone Ko Hai</title><desc>Seher shows her self-reliance by confronting an auto driver who misbehaves with her.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
-<programme start="20261020153000 +0000" stop="20261020160000 +0000" channel="Colors.in"><title>Do Duniya Ek Dil</title><desc>Shivaay tells his mother about his visit to Agra, and later he visits Aadhya.</desc><episode-num system="xmltv_ns">0.25.</episode-num></programme>
-<programme start="20261020160000 +0000" stop="20261020163000 +0000" channel="Colors.in"><title>Mahadev &amp; Sons</title><desc>Rajji talks to Vidya and expresses her target and later Mahadev tells Vidya about Ashish.</desc><episode-num system="xmltv_ns">0.70.</episode-num></programme>
-<programme start="20261020163000 +0000" stop="20261020170000 +0000" channel="Colors.in"><title>Seher Hone Ko Hai</title><desc>Husna warmly welcomes Hyder and praises him in front of the gathered guests.</desc><episode-num system="xmltv_ns">0.94.</episode-num></programme>
-<programme start="20261020170000 +0000" stop="20261020195600 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>The chefs joyfully commemorate Lohri with enthusiasm and lively celebrations.</desc><episode-num system="xmltv_ns">2.15.</episode-num></programme>
-<programme start="20261020195600 +0000" stop="20261020210900 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>The arrival of new wildcards sparks intense speculation among the housemates.</desc><episode-num system="xmltv_ns">19.36.</episode-num></programme>
-<programme start="20261020210900 +0000" stop="20261020222000 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Sharp criticism is faced by Scout, Yung and Aman from Salman over recent behaviour.</desc><episode-num system="xmltv_ns">19.35.</episode-num></programme>
-<programme start="20261020222000 +0000" stop="20261020233700 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc><episode-num system="xmltv_ns">19.34.</episode-num></programme>
-<programme start="20261020233700 +0000" stop="20261021003000 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Celebrity contestants live in an isolated house and perform tasks in order to win.</desc><episode-num system="xmltv_ns">19.33.</episode-num></programme>
-<programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="Colors.in"><title>Tuu Juliet Jatt Di</title><desc>Nawab goes on a search to find the person who exposed his fake marksheet to his father.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
-<programme start="20261021010000 +0000" stop="20261021012900 +0000" channel="Colors.in"><title>Teleshopping</title><desc>The host showcases the features of a variety of products manufactured by renowned brands.</desc></programme>
-<programme start="20261021012900 +0000" stop="20261021025200 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Salman Khan unveils the grand premiere of the new season as a special power unfolds.</desc><episode-num system="xmltv_ns">19.0.</episode-num></programme>
-<programme start="20261021025200 +0000" stop="20261021043300 +0000" channel="Colors.in"><title>Bigg Boss</title><desc>Salman Khan unveils the grand premiere of the new season as a special power unfolds.</desc><episode-num system="xmltv_ns">19.0.</episode-num></programme>
-<programme start="20261021043300 +0000" stop="20261021062400 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>A fresh cooking competition kicks off, packed with twists, entertainment and chaos.</desc><episode-num system="xmltv_ns">2.0.</episode-num></programme>
-<programme start="20261021062400 +0000" stop="20261021080400 +0000" channel="Colors.in"><title>Laughter Chefs Unlimited Entertainment</title><desc>A fresh cooking competition kicks off, packed with twists, entertainment and chaos.</desc><episode-num system="xmltv_ns">2.0.</episode-num></programme>
+<programme start="20261019183500 +0000" stop="20261019193000 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.3.</episode-num></programme>
+<programme start="20261019193000 +0000" stop="20261019200000 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.2.</episode-num></programme>
+<programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.3.</episode-num></programme>
+<programme start="20261019203000 +0000" stop="20261019230000 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc><episode-num system="xmltv_ns">4.2.</episode-num></programme>
+<programme start="20261019230000 +0000" stop="20261019235000 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
+<programme start="20261019235000 +0000" stop="20261020003000 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261020003000 +0000" stop="20261020053000 +0000" channel="MTV HD.in"><title>Pump Up Mornings</title><desc>A comprehensive compilation of energetic songs performed by various artists.</desc></programme>
+<programme start="20261020053000 +0000" stop="20261020071500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261020071500 +0000" stop="20261020081500 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Uorfi Javed's team excels in a task, which earns her a special power.</desc><episode-num system="xmltv_ns">13.3.</episode-num></programme>
+<programme start="20261020081500 +0000" stop="20261020093000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>The contestants reel from the effects of the Mischief Maker's troubling antics.</desc><episode-num system="xmltv_ns">14.23.</episode-num></programme>
+<programme start="20261020093000 +0000" stop="20261020113000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261020113000 +0000" stop="20261020125000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Sakshi Shrivas and Soundous Moufakir get into a fight during the dome session.</desc><episode-num system="xmltv_ns">13.4.</episode-num></programme>
+<programme start="20261020125000 +0000" stop="20261020144500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
+<programme start="20261020144500 +0000" stop="20261020154000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc><episode-num system="xmltv_ns">14.24.</episode-num></programme>
+<programme start="20261020154000 +0000" stop="20261020164500 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>An alliance gets formed between Kashish Thakur, Honey Kamboj and Justin D'Cruz.</desc><episode-num system="xmltv_ns">13.5.</episode-num></programme>
+<programme start="20261020164500 +0000" stop="20261020183500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261020183500 +0000" stop="20261020202000 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.3.</episode-num></programme>
+<programme start="20261020202000 +0000" stop="20261020204500 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.2.</episode-num></programme>
+<programme start="20261020204500 +0000" stop="20261020223000 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc><episode-num system="xmltv_ns">4.3.</episode-num></programme>
+<programme start="20261020223000 +0000" stop="20261020230000 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261020230000 +0000" stop="20261020235000 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
+<programme start="20261020235000 +0000" stop="20261021003000 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc><episode-num system="xmltv_ns">0.3.</episode-num></programme>
+<programme start="20261021003000 +0000" stop="20261021053000 +0000" channel="MTV HD.in"><title>Pump Up Mornings</title><desc>A comprehensive compilation of energetic songs performed by various artists.</desc></programme>
+<programme start="20261021053000 +0000" stop="20261021071500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
+<programme start="20261021071500 +0000" stop="20261021081500 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Sakshi Shrivas and Soundous Moufakir get into a fight during the dome session.</desc><episode-num system="xmltv_ns">13.4.</episode-num></programme>
+<programme start="20261021081500 +0000" stop="20261021093000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc><episode-num system="xmltv_ns">14.24.</episode-num></programme>
+<programme start="20261021093000 +0000" stop="20261021113000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261021113000 +0000" stop="20261021125000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>An alliance gets formed between Kashish Thakur, Honey Kamboj and Justin D'Cruz.</desc><episode-num system="xmltv_ns">13.5.</episode-num></programme>
+<programme start="20261021125000 +0000" stop="20261021144500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
+<programme start="20261021144500 +0000" stop="20261021163000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>he Mischief Maker exploits the division among the Splitsvillains in the dome session.</desc><episode-num system="xmltv_ns">14.25.</episode-num></programme>
+<programme start="20261021163000 +0000" stop="20261021172000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>During the dome session, Kashish Thakur and Aagaz Akhtar engage in a messy spat.</desc><episode-num system="xmltv_ns">13.6.</episode-num></programme>
+<programme start="20261021172000 +0000" stop="20261021190000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
+<programme start="20261021190000 +0000" stop="20261021203000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Simran enters the 'Paisa Villa' as a competitive game puts vulnerable players at risk.</desc><episode-num system="xmltv_ns">15.4.</episode-num></programme>
+<programme start="20261021203000 +0000" stop="20261021210000 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.3.</episode-num></programme>
+<programme start="20261021210000 +0000" stop="20261021233000 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc><episode-num system="xmltv_ns">4.4.</episode-num></programme>
+<programme start="20261021233000 +0000" stop="20261022003000 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc><episode-num system="xmltv_ns">0.4.</episode-num></programme>
+<programme start="20261022003000 +0000" stop="20261022053000 +0000" channel="MTV HD.in"><title>Pump Up Mornings</title><desc>A comprehensive compilation of energetic songs performed by various artists.</desc></programme>
+<programme start="20261022053000 +0000" stop="20261022071500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261019191500 +0000" stop="20261019195900 +0000" channel="National Geographic HD.in"><title>Trafficked: Underworlds With Mariana van Zeller</title><desc>Mariana van Zeller sheds light on the dark world of human trafficking.</desc></programme>
+<programme start="20261019195900 +0000" stop="20261019204400 +0000" channel="National Geographic HD.in"><title>Air Crash Investigation</title><desc>Air Astana 1388 is thrust into dire circumstances due to an uncanny chain of events.</desc></programme>
+<programme start="20261019204400 +0000" stop="20261019213800 +0000" channel="National Geographic HD.in"><title>Air Crash Investigation</title><desc>A chartered plane carrying a football star disappears from radar over the English Channel.</desc></programme>
+<programme start="20261019213800 +0000" stop="20261019222100 +0000" channel="National Geographic HD.in"><title>Filthy Riches</title><desc>While Ray suspects an eel thief, Chris and Levena are in a race to find wild mushrooms.</desc></programme>
+<programme start="20261019222100 +0000" stop="20261019230500 +0000" channel="National Geographic HD.in"><title>Tucci in Italy</title><desc>Tucci explores Lazio and looks into the authentic recipes of various dishes.</desc></programme>
+<programme start="20261019230500 +0000" stop="20261019234800 +0000" channel="National Geographic HD.in"><title>Last of the Giants: Wild Fish</title><desc>Cyril and his team face a perilous journey to finish their Nicaraguan quest for tarpon.</desc></programme>
+<programme start="20261019234800 +0000" stop="20261020003000 +0000" channel="National Geographic HD.in"><title>India's Mega Kitchen</title><desc>A journey through India allows travellers to soak in a vibrant celebration of culture.</desc></programme>
+<programme start="20261020003000 +0000" stop="20261020012800 +0000" channel="National Geographic HD.in"><title>African Lake Giants-Unknown Waters With Jeremy Wade</title><desc>Jeremy Wade ventures out into the gigantic lakes of Kenya to search for the Nile perch.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261020012800 +0000" stop="20261020021700 +0000" channel="National Geographic HD.in"><title>India's Mega Festivals</title><desc>Gary Mehigan travels to the breathtaking land of Ladakh to witness the Hemis festival.</desc></programme>
+<programme start="20261020021700 +0000" stop="20261020030400 +0000" channel="National Geographic HD.in"><title>Last of the Giants: Wild Fish</title><desc>Cyril Chaquet and his team look for the Giant Trevally to save it from going extinct.</desc></programme>
+<programme start="20261020030400 +0000" stop="20261020032700 +0000" channel="National Geographic HD.in"><title>On The Brink</title><desc>The filmmaker explores some of the unseen magnificence from India's forests.</desc></programme>
+<programme start="20261020032700 +0000" stop="20261020041300 +0000" channel="National Geographic HD.in"><title>Swamped-Dirty Rotten Survival</title><desc>The guys test their skills to get an old jeep through the largest swamp in Louisiana.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261020041300 +0000" stop="20261020050000 +0000" channel="National Geographic HD.in"><title>Airport Security: Rome</title><desc>Italian officials regulate travel, trade and finance laws to prevent illegal activities.</desc></programme>
+<programme start="20261020050000 +0000" stop="20261020054300 +0000" channel="National Geographic HD.in"><title>Last of the Giants: Wild Fish</title><desc>Cyril encounters a colossal giant catfish, which can reach over nine feet in length.</desc></programme>
+<programme start="20261020054300 +0000" stop="20261020063000 +0000" channel="National Geographic HD.in"><title>Destruction Decoded</title><desc>Explore some of the most dramatic space accidents, that have had devastating outcomes.</desc></programme>
+<programme start="20261020063000 +0000" stop="20261020071400 +0000" channel="National Geographic HD.in"><title>India's Mega Festivals</title><desc>A popular chef Gary Mehigan goes to Kolkata to soak in the festive spirit of Durga Puja.</desc><episode-num system="xmltv_ns">0.5.</episode-num></programme>
+<programme start="20261020071400 +0000" stop="20261020080000 +0000" channel="National Geographic HD.in"><title>Airport Security: Madrid</title><desc>The police detain a man coming from Medellín with cocaine in his underwear.</desc><episode-num system="xmltv_ns">3.7.</episode-num></programme>
+<programme start="20261020080000 +0000" stop="20261020084200 +0000" channel="National Geographic HD.in"><title>India's Mega Kitchen</title><desc>Watch Anandpur Sahib turn into a Mega Kitchen during the Hola Mohalla festival.</desc></programme>
+<programme start="20261020084200 +0000" stop="20261020092600 +0000" channel="National Geographic HD.in"><title>Primal Survivor</title><desc>Hazen goes on a gruelling journey through the deadly frozen wilds of Northern Canada.</desc></programme>
+<programme start="20261020092600 +0000" stop="20261020101400 +0000" channel="National Geographic HD.in"><title>Snakes in the City</title><desc>Simon and Sioux's new apprentice, Mbali's commitment to the job is put to the test.</desc></programme>
+<programme start="20261020101400 +0000" stop="20261020105700 +0000" channel="National Geographic HD.in"><title>Airport Security: Rome</title><desc>Security and anti-narcotics units at Rome Airport work 24/7 to stop illegal activities.</desc></programme>
+<programme start="20261020105700 +0000" stop="20261020114400 +0000" channel="National Geographic HD.in"><title>India From Above</title><desc>The narrator discusses the world's largest religious gathering that occurs in India.</desc></programme>
+<programme start="20261020114400 +0000" stop="20261020123100 +0000" channel="National Geographic HD.in"><title>India's Jungle Heroes</title><desc>A hyena is chased by frightened villagers and a lost leopard cub reunites with its mother.</desc></programme>
+<programme start="20261020123100 +0000" stop="20261020130800 +0000" channel="National Geographic HD.in"><title>The North Pole-Pole to Pole With Will Smith</title><desc>Will takes a mission, diving under ice at the North Pole to help a polar ecologist.</desc><episode-num system="xmltv_ns">0.6.</episode-num></programme>
+<programme start="20261020130800 +0000" stop="20261020133000 +0000" channel="National Geographic HD.in"><title>Snakes SOS: Goa's Wildest</title><desc>Benhail and Louise have a day of intriguing encounters like a feisty Cobra and more.</desc></programme>
+<programme start="20261020133000 +0000" stop="20261020141400 +0000" channel="National Geographic HD.in"><title>India's Mega Festivals</title><desc>A popular chef Gary Mehigan goes to Kolkata to soak in the festive spirit of Durga Puja.</desc><episode-num system="xmltv_ns">0.5.</episode-num></programme>
+<programme start="20261020141400 +0000" stop="20261020145600 +0000" channel="National Geographic HD.in"><title>India's Mega Kitchen</title><desc>The host takes a look at the kitchens of TajSATS preparing over 22,000 meals a day.</desc></programme>
+<programme start="20261020145600 +0000" stop="20261020152100 +0000" channel="National Geographic HD.in"><title>Airport Security: Brazil</title><desc>A man's photos of the Pope act as a clever hiding place for illegal drugs.</desc></programme>
+<programme start="20261020152100 +0000" stop="20261020160900 +0000" channel="National Geographic HD.in"><title>Primal Survivor</title><desc>Survivalist Hazen Audel tackles the waterless wilderness of the deadly Atacama Desert.</desc></programme>
+<programme start="20261020160900 +0000" stop="20261020165500 +0000" channel="National Geographic HD.in"><title>Raging Waters-Primal Survivor: Mighty Mekong</title><desc>Hazen Audel confronts the Mekong's most treacherous waters in a survival adventure.</desc><episode-num system="xmltv_ns">0.5.</episode-num></programme>
+<programme start="20261020165500 +0000" stop="20261020174200 +0000" channel="National Geographic HD.in"><title>Construction Fails</title><desc>The presenter explains the science of what went wrong when structures collapse.</desc></programme>
+<programme start="20261020174200 +0000" stop="20261020182800 +0000" channel="National Geographic HD.in"><title>To Catch a Smuggler</title><desc>The filmmaker gives a behind the scenes peek into the work of security personnel.</desc></programme>
+<programme start="20261020182800 +0000" stop="20261020191200 +0000" channel="National Geographic HD.in"><title>Destruction Decoded</title><desc>Explore the causes, prevention, and lessons from history’s worst dam failures.</desc></programme>
+<programme start="20261020191200 +0000" stop="20261020195600 +0000" channel="National Geographic HD.in"><title>Airport Security: Brazil</title><desc>Federal Police at São Paulo International Airport work 24-7 to stop illegal activity.</desc></programme>
+<programme start="20261020195600 +0000" stop="20261020204200 +0000" channel="National Geographic HD.in"><title>Trafficked With Mariana van Zeller</title><desc>Mariana exposes the dangers of the deadly and growing industry of untraceable firearms.</desc></programme>
+<programme start="20261020204200 +0000" stop="20261020212600 +0000" channel="National Geographic HD.in"><title>To Catch a Smuggler</title><desc>United States Customs and Border Protection officers arrest smugglers of illegal goods.</desc></programme>
+<programme start="20261020212600 +0000" stop="20261020220800 +0000" channel="National Geographic HD.in"><title>David Blaine Do Not Attempt</title><desc>David Blaine explores belief and performance through magic in India.</desc></programme>
+<programme start="20261020220800 +0000" stop="20261020223000 +0000" channel="National Geographic HD.in"><title>No Country for Gold Men-Money Meltdown</title><desc>Rich heads out to a Wild West theme ranch in the hopes of finding precious metal antiques.</desc><episode-num system="xmltv_ns">0.9.</episode-num></programme>
+<programme start="20261020223000 +0000" stop="20261020230500 +0000" channel="National Geographic HD.in"><title>Newcomers-Money Meltdown</title><desc>Three urban treasure hunters search for precious metals in unorthodox locations.</desc><episode-num system="xmltv_ns">0.10.</episode-num></programme>
+<programme start="20261020230500 +0000" stop="20261020234800 +0000" channel="National Geographic HD.in"><title>David Blaine Do Not Attempt</title><desc>David meets artists who unite to fulfil an audacious leap of faith that he's long dreamt of.</desc></programme>
+<programme start="20261020234800 +0000" stop="20261021003000 +0000" channel="National Geographic HD.in"><title>Last of the Giants: Wild Fish</title><desc>Cyril encounters a colossal giant catfish, which can reach over nine feet in length.</desc></programme>
+<programme start="20261021003000 +0000" stop="20261021013000 +0000" channel="National Geographic HD.in"><title>David Blaine Do Not Attempt</title><desc>David meets artists who unite to fulfil an audacious leap of faith that he's long dreamt of.</desc></programme>
+<programme start="20261021013000 +0000" stop="20261021023000 +0000" channel="National Geographic HD.in"><title>Jersey Devils-Dirty Rotten Survival</title><desc>The guys take a 50-mile hike through the most densely populated state in America.</desc><episode-num system="xmltv_ns">0.3.</episode-num></programme>
+<programme start="20261021023000 +0000" stop="20261021033000 +0000" channel="National Geographic HD.in"><title>India's Mega Kitchen</title><desc>The host introduces the Lijjat kitchen, which has over 45,000 members.</desc></programme>
+<programme start="20261021033000 +0000" stop="20261021043000 +0000" channel="National Geographic HD.in"><title>Construction Fails</title><desc>Witness the science of what went wrong when structures collapse in Construction Fails.</desc></programme>
+<programme start="20261021043000 +0000" stop="20261021053000 +0000" channel="National Geographic HD.in"><title>Last of the Giants: Wild Fish</title><desc>It's a fight to the finish for Cyril and his team as they search for the enormous Piraiba.</desc></programme>
+<programme start="20261021053000 +0000" stop="20261021063000 +0000" channel="National Geographic HD.in"><title>Primal Survivor Cutdowns</title><desc>Hazen embarks on a quest to lead a herd of yak across the forbidding Himalayan wilderness.</desc></programme>
+<programme start="20261021063000 +0000" stop="20261021073000 +0000" channel="National Geographic HD.in"><title>Fool's Gold-Dirty Rotten Survival</title><desc>Dick and the guys head to the mountains of Oregon for a gold rush adventure.</desc><episode-num system="xmltv_ns">0.9.</episode-num></programme>
+<programme start="20261021073000 +0000" stop="20261021083000 +0000" channel="National Geographic HD.in"><title>Luke Nguyen's Street Food Asia</title><desc>Chef Luke Nguyen searches for the best Tom Yum soup and makes a dancing shrimp salad.</desc></programme>
+<programme start="20261021083000 +0000" stop="20261021090000 +0000" channel="National Geographic HD.in"><title>Airport Security: Rome</title><desc>The agents stop a man who is carrying drug in a secret compartment of his suitcase.</desc></programme>
+<programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="National Geographic HD.in"><title>India's Mega Kitchen</title><desc>Take a look inside the Shirdi Prasadalaya, one of India's largest solar-powered kitchens.</desc></programme>
+<programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="National Geographic HD.in"><title>Last of the Giants: Wild Fish</title><desc>Sharks derail the team, rerouting them to a remote volcanic island, where danger awaits.</desc></programme>
+<programme start="20261021100000 +0000" stop="20261021103000 +0000" channel="National Geographic HD.in"><title>India's Mega Festivals</title><desc>Gary Mehigan experiences the grand celebration of the Islamic festival, Eid al-Fitr.</desc><episode-num system="xmltv_ns">0.3.</episode-num></programme>
+<programme start="20261021103000 +0000" stop="20261021110000 +0000" channel="National Geographic HD.in"><title>Destruction Decoded</title><desc>Explore the 10 most dramatic structural collapses in history, from bridges to buildings.</desc></programme>
+<programme start="20261021110000 +0000" stop="20261021113000 +0000" channel="National Geographic HD.in"><title>Deadly Descent-Primal Survivor: Mighty Mekong</title><desc>Hazen Audel begins an epic survival adventure high in the mountains of Laos.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
+<programme start="20261021113000 +0000" stop="20261021120000 +0000" channel="National Geographic HD.in"><title>Snakes SOS: Goa's Wildest</title><desc>Benhail Antao and Louise Remedios try to rescue an entire family of porcupines.</desc></programme>
+<programme start="20261021120000 +0000" stop="20261021123000 +0000" channel="National Geographic HD.in"><title>Airport Security: Madrid</title><desc>Police uncover 45 kilos of the psychoactive plant khat in a man's luggage.</desc></programme>
+<programme start="20261021123000 +0000" stop="20261021130000 +0000" channel="National Geographic HD.in"><title>India's Mega Festivals</title><desc>Gary explores Kerala's Onam celebrations, a grand display of feasts and festivities.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="National Geographic HD.in"><title>Construction Fails</title><desc>Witness the science of what went wrong when structures collapse in Construction Fails.</desc></programme>
+<programme start="20261021133000 +0000" stop="20261021143000 +0000" channel="National Geographic HD.in"><title>Searing Salt Flats-Primal Survivor: Over the Andes</title><desc>Hazen Audel struggles across narrow valleys to participate in a challenging native event.</desc><episode-num system="xmltv_ns">0.3.</episode-num></programme>
+<programme start="20261021143000 +0000" stop="20261021150000 +0000" channel="National Geographic HD.in"><title>Last of the Giants: Wild Fish</title><desc>Adventurer Cyril Chaquet braves wild perils of Bolivia for a giant fish.</desc></programme>
+<programme start="20261021150000 +0000" stop="20261021153000 +0000" channel="National Geographic HD.in"><title>Tucci in Italy</title><desc>Famous actor Stanley Tucci explores Italy's culinary traditions and untold local stories.</desc></programme>
+<programme start="20261021153000 +0000" stop="20261021160000 +0000" channel="National Geographic HD.in"><title>India's Mega Kitchen</title><desc>A journey through India allows travellers to soak in a vibrant celebration of culture.</desc></programme>
+<programme start="20261021160000 +0000" stop="20261021163000 +0000" channel="National Geographic HD.in"><title>Primal Survivor</title><desc>Hazen Audel joins Salkon tribesmen on a hunt to bring back a feast for the community.</desc></programme>
+<programme start="20261021163000 +0000" stop="20261021173000 +0000" channel="National Geographic HD.in"><title>Primal Survivor</title><desc>Hazen Audel shows what it takes to survive in the most extreme environments on the planet.</desc></programme>
+<programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="National Geographic HD.in"><title>Destruction Decoded</title><desc>Explore some of the most dramatic space accidents, that have had devastating outcomes.</desc></programme>
+<programme start="20261021180000 +0000" stop="20261021183000 +0000" channel="National Geographic HD.in"><title>Airport Security: Rome</title><desc>The filmmaker sheds light on security and anti-narcotics units at Rome Airport.</desc></programme>
 <channel id="Colors.in">
     <display-name>IN - Colors</display-name>
     <icon src="https://iptv-epg.org/images/mWeb0YEgX-t00Xy_vRD4qb0MTogt0WkcmUoxMi6gV7C0iYmRaTls9aosy6REsCA8_uzIHxsVhs1rFAoSne3I0fCJtv3HJUaZIAe9CcCd" />
@@ -1381,60 +1413,7 @@
     <display-name>IN - Romedy Now</display-name>
     <icon src="https://iptv-epg.org/images/m1-ajJJ1SeHzxkdsh_HaBfVOp-X3IXkzxTZFhDTlZMCSWxtisK7-OfwWCwhnRvKSjv_kH4fTgiOoXxvCRoipWl2_QZqANhquH0QmN9_JYVMF" />
   </channel>
-  <programme start="20261019003000 +0000" stop="20261019010000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ankur Bhatia</director>
-      <director>Mohsin Khan</director>
-      <director>Kushal Zaveri</director>
-      <actor>Jasmeet Kaur</actor>
-      <actor>Syed Raza Ahmed</actor>
-      <actor>Sangita Ghosh</actor>
-      <actor>Digvijay Purohit</actor>
-      <actor>Alisha Parveen Khan</actor>
-      <actor>Chetna Singh</actor>
-      <actor>Anmol Gupta</actor>
-      <actor>Pardeep Singh Toor</actor>
-      <producer>Ravi Dubey</producer>
-      <producer>Sargun Mehta</producer>
-    </credits>
-    <desc lang="en">S1 E280
-Gulaab leaps from a balcony to secure Nawab's faith by implicating Heer. Moreover, she desires Nawab and Shanaiya to unite.</desc>
-    <episode-num>S1 E280</episode-num>
-    <icon src="https://iptv-epg.org/images/KvFqYhKs2GK4_xbcJgEqPH1DIDbKGohJ2jyzmOSzD1Y19ugQGeidsJSU9V9MdXZP1_YZm1yyQUAnQpKnYCVhAxow3WarMSI5oEWAYRt8y5XiSP3NOGuWS9zmMa5HJA" />
-    <title lang="en">Tuu Juliet Jatt Di</title>
-  </programme>
-  <programme start="20261019010000 +0000" stop="20261019013000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Consumer</category>
-    <desc lang="en">The host showcases the features of a variety of products manufactured by renowned brands that can be purchased from the comfort of one's home.</desc>
-    <icon src="https://iptv-epg.org/images/FQUHhh7Td9rOrYlAlnQDWrMaalaHk-TdcFgYQ8dXxmmDc-D5P4YKK4ojB8fPcSaoGDqt_FWMg3QRsPAk6fO1xUG79n0qZM_4sFnz-m_i-vaaZQDpSElYkqD_Sgdrbw" />
-    <title lang="en">Teleshopping</title>
-  </programme>
-  <programme start="20261019013000 +0000" stop="20261019024500 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Reality - Talent</category>
-    <credits>
-      <director>Ankur Poddar</director>
-      <director>Deepak Dhar</director>
-      <director>Kapil Batra</director>
-      <director>Shounok Ghosh</director>
-      <director>Taranjiet Singh Namdhari</director>
-      <director>Abhiroop</director>
-      <actor>Salman Khan</actor>
-      <actor>Vijay Vikram Singh</actor>
-      <actor>Atul Kapoor</actor>
-      <producer>Deepak Dhar</producer>
-      <producer>Aman Sharma</producer>
-    </credits>
-    <desc lang="en">S20 E42
-Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
-    <episode-num>S20 E42</episode-num>
-    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
-    <title lang="en">Bigg Boss</title>
-  </programme>
-  <programme start="20261019024500 +0000" stop="20261019040000 +0000" channel="Colors.in">
+  <programme start="20261019195600 +0000" stop="20261019211100 +0000" channel="Colors.in">
     <category lang="en">TV Show</category>
     <category lang="en">Reality - Talent</category>
     <credits>
@@ -1451,574 +1430,12 @@ Celebrity contestants live in an isolated house and perform assigned tasks, in o
       <producer>Aman Sharma</producer>
     </credits>
     <desc lang="en">S20 E43
-Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+Salman introduces confrontation tasks that prompt the housemates to voice their grievances against one another. Meanwhile, hostility mounts in the house as everyone awaits a sudden elimination.</desc>
     <episode-num>S20 E43</episode-num>
     <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
     <title lang="en">Bigg Boss</title>
   </programme>
-  <programme start="20261019040000 +0000" stop="20261019060000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Comedy</category>
-    <credits>
-      <actor>Bharti Singh</actor>
-      <actor>Harpal Singh Sokhi</actor>
-      <actor>Karan Kundrra</actor>
-      <actor>Arjun Bijlani</actor>
-      <actor>Krushna Abhishek</actor>
-      <actor>Kashmera Shah</actor>
-      <actor>Sudesh Lehri</actor>
-      <actor>Jannat Zubair Rahmani</actor>
-      <producer>Vipul D. Shah</producer>
-    </credits>
-    <desc lang="en">S3 E49
-A vibrant Mother's Day tribute sees stars cooking alongside their mums. Festive culinary trials and spirited talent performances create a chaotic yet affectionate atmosphere for all.</desc>
-    <episode-num>S3 E49</episode-num>
-    <icon src="https://iptv-epg.org/images/XQTlZOC9uhIhDzkoorUgLJh83_Ir5jdDMbaY_PNv8DzG76uMa222RQEyuoZ_PXCh-WBBpzN0p6EsAhpqfyJEMT5APhK5aMbEP7csAC43Szl4L0qSZKQpIhUgN3FgmQ" />
-    <title lang="en">Laughter Chefs Unlimited Entertainment</title>
-  </programme>
-  <programme start="20261019060000 +0000" stop="20261019080000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Comedy</category>
-    <credits>
-      <actor>Bharti Singh</actor>
-      <actor>Harpal Singh Sokhi</actor>
-      <actor>Karan Kundrra</actor>
-      <actor>Arjun Bijlani</actor>
-      <actor>Krushna Abhishek</actor>
-      <actor>Kashmera Shah</actor>
-      <actor>Sudesh Lehri</actor>
-      <actor>Jannat Zubair Rahmani</actor>
-      <producer>Vipul D. Shah</producer>
-    </credits>
-    <desc lang="en">S3 E64
-Devoted fans surprise the contestants by visiting the kitchen with gifts and laughter. This heartwarming encounter provides a massive boost of motivation before cooking begins.</desc>
-    <episode-num>S3 E64</episode-num>
-    <icon src="https://iptv-epg.org/images/XQTlZOC9uhIhDzkoorUgLJh83_Ir5jdDMbaY_PNv8DzG76uMa222RQEyuoZ_PXCh-WBBpzN0p6EsAhpqfyJEMT5APhK5aMbEP7csAC43Szl4L0qSZKQpIhUgN3FgmQ" />
-    <title lang="en">Laughter Chefs Unlimited Entertainment</title>
-  </programme>
-  <programme start="20261019080000 +0000" stop="20261019082000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Sidharth Sengupta</director>
-      <director>Pradeep Yadav</director>
-      <actor>Pratyusha Banerjee</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Avika Gor</actor>
-      <actor>Shashank Vyas</actor>
-      <actor>Avinash Mukherjee</actor>
-      <actor>Anjum Farooki</actor>
-      <actor>Sidharth Shukla</actor>
-      <actor>Sriti Jha</actor>
-      <actor>Surekha Sikri</actor>
-      <actor>Anup Soni</actor>
-      <actor>Smita Bansal</actor>
-      <actor>Veebha Anand</actor>
-      <actor>Vikrant Massey</actor>
-      <actor>Satyajit Sharma</actor>
-      <actor>Neha Marda</actor>
-      <producer>Sunjoy Waddhwa</producer>
-      <producer>Comall Sunjoy W</producer>
-    </credits>
-    <desc lang="en">S1 E99
-Bhairon goes to speak to Pratap's parents and convince them about delaying the 'gauna' ceremony. Meanwhile, Kalyani decides to proceed with the 'gauna' ceremony.</desc>
-    <episode-num>S1 E99</episode-num>
-    <icon src="https://iptv-epg.org/images/83KuVP_yJ1ZczNnLI8xXiPFA6O9SSUSefHEHE_uOLIHK2VJDkCDFc_DhzN8wO_QY7dWHfLKKE9qOpiJ_-8SHm5h1lO6NKG6yAMQl0eFBWS7y29XQgAK-TqE3uic8" />
-    <title lang="en">Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title>
-  </programme>
-  <programme start="20261019082000 +0000" stop="20261019084500 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Sidharth Sengupta</director>
-      <director>Pradeep Yadav</director>
-      <actor>Pratyusha Banerjee</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Avika Gor</actor>
-      <actor>Shashank Vyas</actor>
-      <actor>Avinash Mukherjee</actor>
-      <actor>Anjum Farooki</actor>
-      <actor>Sidharth Shukla</actor>
-      <actor>Sriti Jha</actor>
-      <actor>Surekha Sikri</actor>
-      <actor>Anup Soni</actor>
-      <actor>Smita Bansal</actor>
-      <actor>Veebha Anand</actor>
-      <actor>Vikrant Massey</actor>
-      <actor>Satyajit Sharma</actor>
-      <actor>Neha Marda</actor>
-      <producer>Sunjoy Waddhwa</producer>
-      <producer>Comall Sunjoy W</producer>
-    </credits>
-    <desc lang="en">S1 E100
-Bhairon is upset that his mother did not inform him before organising Sugna's 'gauna' ceremony. Kalyani calls Pratap's father and informs him about the 'gauna' ceremony.</desc>
-    <episode-num>S1 E100</episode-num>
-    <icon src="https://iptv-epg.org/images/83KuVP_yJ1ZczNnLI8xXiPFA6O9SSUSefHEHE_uOLIHK2VJDkCDFc_DhzN8wO_QY7dWHfLKKE9qOpiJ_-8SHm5h1lO6NKG6yAMQl0eFBWS7y29XQgAK-TqE3uic8" />
-    <title lang="en">Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title>
-  </programme>
-  <programme start="20261019084500 +0000" stop="20261019090500 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Sidharth Sengupta</director>
-      <director>Pradeep Yadav</director>
-      <actor>Pratyusha Banerjee</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Avika Gor</actor>
-      <actor>Shashank Vyas</actor>
-      <actor>Avinash Mukherjee</actor>
-      <actor>Anjum Farooki</actor>
-      <actor>Sidharth Shukla</actor>
-      <actor>Sriti Jha</actor>
-      <actor>Surekha Sikri</actor>
-      <actor>Anup Soni</actor>
-      <actor>Smita Bansal</actor>
-      <actor>Veebha Anand</actor>
-      <actor>Vikrant Massey</actor>
-      <actor>Satyajit Sharma</actor>
-      <actor>Neha Marda</actor>
-      <producer>Sunjoy Waddhwa</producer>
-      <producer>Comall Sunjoy W</producer>
-    </credits>
-    <desc lang="en">S1 E101
-Pratap's parents tell Bhairon to send Sugna home with them failing which, they will find another bride for Pratap. Sumitra tells Bhairon to change his decision and do as Pratap's parents asked.</desc>
-    <episode-num>S1 E101</episode-num>
-    <icon src="https://iptv-epg.org/images/83KuVP_yJ1ZczNnLI8xXiPFA6O9SSUSefHEHE_uOLIHK2VJDkCDFc_DhzN8wO_QY7dWHfLKKE9qOpiJ_-8SHm5h1lO6NKG6yAMQl0eFBWS7y29XQgAK-TqE3uic8" />
-    <title lang="en">Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title>
-  </programme>
-  <programme start="20261019090500 +0000" stop="20261019092500 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Sidharth Sengupta</director>
-      <director>Pradeep Yadav</director>
-      <actor>Pratyusha Banerjee</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Avika Gor</actor>
-      <actor>Shashank Vyas</actor>
-      <actor>Avinash Mukherjee</actor>
-      <actor>Anjum Farooki</actor>
-      <actor>Sidharth Shukla</actor>
-      <actor>Sriti Jha</actor>
-      <actor>Surekha Sikri</actor>
-      <actor>Anup Soni</actor>
-      <actor>Smita Bansal</actor>
-      <actor>Veebha Anand</actor>
-      <actor>Vikrant Massey</actor>
-      <actor>Satyajit Sharma</actor>
-      <actor>Neha Marda</actor>
-      <producer>Sunjoy Waddhwa</producer>
-      <producer>Comall Sunjoy W</producer>
-    </credits>
-    <desc lang="en">S1 E102
-Anandi, a child bride, married into an affluent family at a tender age, struggles to cope with the traditions. Soon, she overcomes multiple personal obstacles to emerge as an example for rural women.</desc>
-    <episode-num>S1 E102</episode-num>
-    <icon src="https://iptv-epg.org/images/83KuVP_yJ1ZczNnLI8xXiPFA6O9SSUSefHEHE_uOLIHK2VJDkCDFc_DhzN8wO_QY7dWHfLKKE9qOpiJ_-8SHm5h1lO6NKG6yAMQl0eFBWS7y29XQgAK-TqE3uic8" />
-    <title lang="en">Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title>
-  </programme>
-  <programme start="20261019092500 +0000" stop="20261019094500 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Sidharth Sengupta</director>
-      <director>Pradeep Yadav</director>
-      <actor>Pratyusha Banerjee</actor>
-      <actor>Toral Rasputra</actor>
-      <actor>Avika Gor</actor>
-      <actor>Shashank Vyas</actor>
-      <actor>Avinash Mukherjee</actor>
-      <actor>Anjum Farooki</actor>
-      <actor>Sidharth Shukla</actor>
-      <actor>Sriti Jha</actor>
-      <actor>Surekha Sikri</actor>
-      <actor>Anup Soni</actor>
-      <actor>Smita Bansal</actor>
-      <actor>Veebha Anand</actor>
-      <actor>Vikrant Massey</actor>
-      <actor>Satyajit Sharma</actor>
-      <actor>Neha Marda</actor>
-      <producer>Sunjoy Waddhwa</producer>
-      <producer>Comall Sunjoy W</producer>
-    </credits>
-    <desc lang="en">S1 E103
-Anandi, a child bride, married into an affluent family at a tender age, struggles to cope with the traditions. Soon, she overcomes multiple personal obstacles to emerge as an example for rural women.</desc>
-    <episode-num>S1 E103</episode-num>
-    <icon src="https://iptv-epg.org/images/83KuVP_yJ1ZczNnLI8xXiPFA6O9SSUSefHEHE_uOLIHK2VJDkCDFc_DhzN8wO_QY7dWHfLKKE9qOpiJ_-8SHm5h1lO6NKG6yAMQl0eFBWS7y29XQgAK-TqE3uic8" />
-    <title lang="en">Balika Vadhu - Kacchi Umar Ke Pakke Rishte</title>
-  </programme>
-  <programme start="20261019094500 +0000" stop="20261019101000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ranjan Kumar Singh</director>
-      <director>Aanand Kumaar</director>
-      <actor>Jigyasa Singh</actor>
-      <actor>Manish Goplani</actor>
-      <actor>Ankit Bathla</actor>
-      <actor>Sheena Bajaj</actor>
-      <actor>Jaya Bhattacharya</actor>
-      <actor>Kritika Sharma</actor>
-      <actor>Abhinandan Jindal</actor>
-      <actor>Monica Khanna</actor>
-      <producer>Faizal Alanaa</producer>
-      <producer>Kamna Nirula Menezes</producer>
-      <producer>Ved Raj</producer>
-      <producer>Dheeraj Sarna</producer>
-    </credits>
-    <desc lang="en">S1 E549
-Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
-    <episode-num>S1 E549</episode-num>
-    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
-    <title lang="en">Thapki Pyar Ki</title>
-  </programme>
-  <programme start="20261019101000 +0000" stop="20261019103500 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ranjan Kumar Singh</director>
-      <director>Aanand Kumaar</director>
-      <actor>Jigyasa Singh</actor>
-      <actor>Manish Goplani</actor>
-      <actor>Ankit Bathla</actor>
-      <actor>Sheena Bajaj</actor>
-      <actor>Jaya Bhattacharya</actor>
-      <actor>Kritika Sharma</actor>
-      <actor>Abhinandan Jindal</actor>
-      <actor>Monica Khanna</actor>
-      <producer>Faizal Alanaa</producer>
-      <producer>Kamna Nirula Menezes</producer>
-      <producer>Ved Raj</producer>
-      <producer>Dheeraj Sarna</producer>
-    </credits>
-    <desc lang="en">S1 E550
-Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
-    <episode-num>S1 E550</episode-num>
-    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
-    <title lang="en">Thapki Pyar Ki</title>
-  </programme>
-  <programme start="20261019103500 +0000" stop="20261019110500 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ranjan Kumar Singh</director>
-      <director>Aanand Kumaar</director>
-      <actor>Jigyasa Singh</actor>
-      <actor>Manish Goplani</actor>
-      <actor>Ankit Bathla</actor>
-      <actor>Sheena Bajaj</actor>
-      <actor>Jaya Bhattacharya</actor>
-      <actor>Kritika Sharma</actor>
-      <actor>Abhinandan Jindal</actor>
-      <actor>Monica Khanna</actor>
-      <producer>Faizal Alanaa</producer>
-      <producer>Kamna Nirula Menezes</producer>
-      <producer>Ved Raj</producer>
-      <producer>Dheeraj Sarna</producer>
-    </credits>
-    <desc lang="en">S1 E551
-Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
-    <episode-num>S1 E551</episode-num>
-    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
-    <title lang="en">Thapki Pyar Ki</title>
-  </programme>
-  <programme start="20261019110500 +0000" stop="20261019113000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ranjan Kumar Singh</director>
-      <director>Aanand Kumaar</director>
-      <actor>Jigyasa Singh</actor>
-      <actor>Manish Goplani</actor>
-      <actor>Ankit Bathla</actor>
-      <actor>Sheena Bajaj</actor>
-      <actor>Jaya Bhattacharya</actor>
-      <actor>Kritika Sharma</actor>
-      <actor>Abhinandan Jindal</actor>
-      <actor>Monica Khanna</actor>
-      <producer>Faizal Alanaa</producer>
-      <producer>Kamna Nirula Menezes</producer>
-      <producer>Ved Raj</producer>
-      <producer>Dheeraj Sarna</producer>
-    </credits>
-    <desc lang="en">S1 E552
-Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
-    <episode-num>S1 E552</episode-num>
-    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
-    <title lang="en">Thapki Pyar Ki</title>
-  </programme>
-  <programme start="20261019113000 +0000" stop="20261019120000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ranjan Kumar Singh</director>
-      <director>Aanand Kumaar</director>
-      <actor>Jigyasa Singh</actor>
-      <actor>Manish Goplani</actor>
-      <actor>Ankit Bathla</actor>
-      <actor>Sheena Bajaj</actor>
-      <actor>Jaya Bhattacharya</actor>
-      <actor>Kritika Sharma</actor>
-      <actor>Abhinandan Jindal</actor>
-      <actor>Monica Khanna</actor>
-      <producer>Faizal Alanaa</producer>
-      <producer>Kamna Nirula Menezes</producer>
-      <producer>Ved Raj</producer>
-      <producer>Dheeraj Sarna</producer>
-    </credits>
-    <desc lang="en">S1 E553
-Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
-    <episode-num>S1 E553</episode-num>
-    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
-    <title lang="en">Thapki Pyar Ki</title>
-  </programme>
-  <programme start="20261019120000 +0000" stop="20261019123000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ranjan Kumar Singh</director>
-      <director>Aanand Kumaar</director>
-      <actor>Jigyasa Singh</actor>
-      <actor>Manish Goplani</actor>
-      <actor>Ankit Bathla</actor>
-      <actor>Sheena Bajaj</actor>
-      <actor>Jaya Bhattacharya</actor>
-      <actor>Kritika Sharma</actor>
-      <actor>Abhinandan Jindal</actor>
-      <actor>Monica Khanna</actor>
-      <producer>Faizal Alanaa</producer>
-      <producer>Kamna Nirula Menezes</producer>
-      <producer>Ved Raj</producer>
-      <producer>Dheeraj Sarna</producer>
-    </credits>
-    <desc lang="en">S1 E554
-Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
-    <episode-num>S1 E554</episode-num>
-    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
-    <title lang="en">Thapki Pyar Ki</title>
-  </programme>
-  <programme start="20261019123000 +0000" stop="20261019130000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <actor>Pravisht Mishra</actor>
-      <actor>Ramneek Kataria</actor>
-      <actor>Yashpal Sharma</actor>
-      <actor>Kinshuk Mahajan</actor>
-      <producer>Aarooshee Sood</producer>
-    </credits>
-    <desc lang="en">S1 E61
-After Sangam bravely confronts Vicky and her family, Mahi expresses her appreciation. Later, Krishna surprises Sangam with a car grandly decorated in flowers.</desc>
-    <episode-num>S1 E61</episode-num>
-    <icon src="https://iptv-epg.org/images/Y_p8iqETBG2UiE7rfSgTe6NxXdeb6n3-vTzn-mkfxvX68jmQiykuQb8yLBa9UHkA6LllXn5S75dYRFBjwkCN9wU3Nd_0hEsP1pWb0GOsr47aFcc6VtHmNaNndDaA_g" />
-    <title lang="en">Bareilly Ke Bacchan</title>
-  </programme>
-  <programme start="20261019130000 +0000" stop="20261019133000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ankur Bhatia</director>
-      <director>Mohsin Khan</director>
-      <director>Kushal Zaveri</director>
-      <actor>Jasmeet Kaur</actor>
-      <actor>Syed Raza Ahmed</actor>
-      <actor>Sangita Ghosh</actor>
-      <actor>Digvijay Purohit</actor>
-      <actor>Alisha Parveen Khan</actor>
-      <actor>Chetna Singh</actor>
-      <actor>Anmol Gupta</actor>
-      <actor>Pardeep Singh Toor</actor>
-      <producer>Ravi Dubey</producer>
-      <producer>Sargun Mehta</producer>
-    </credits>
-    <desc lang="en">S1 E280
-Gulaab leaps from a balcony to secure Nawab's faith by implicating Heer. Moreover, she desires Nawab and Shanaiya to unite.</desc>
-    <episode-num>S1 E280</episode-num>
-    <icon src="https://iptv-epg.org/images/KvFqYhKs2GK4_xbcJgEqPH1DIDbKGohJ2jyzmOSzD1Y19ugQGeidsJSU9V9MdXZP1_YZm1yyQUAnQpKnYCVhAxow3WarMSI5oEWAYRt8y5XiSP3NOGuWS9zmMa5HJA" />
-    <title lang="en">Tuu Juliet Jatt Di</title>
-  </programme>
-  <programme start="20261019133000 +0000" stop="20261019140000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Ankur Bhatia</director>
-      <director>Mohsin Khan</director>
-      <director>Kushal Zaveri</director>
-      <actor>Jasmeet Kaur</actor>
-      <actor>Syed Raza Ahmed</actor>
-      <actor>Sangita Ghosh</actor>
-      <actor>Digvijay Purohit</actor>
-      <actor>Alisha Parveen Khan</actor>
-      <actor>Chetna Singh</actor>
-      <actor>Anmol Gupta</actor>
-      <actor>Pardeep Singh Toor</actor>
-      <producer>Ravi Dubey</producer>
-      <producer>Sargun Mehta</producer>
-    </credits>
-    <desc lang="en">S1 E281
-Neelu advises Heer to realise aspirations and conveys genuine concerns. Similarly, Dilip motivates Nawab to overcome sadness.</desc>
-    <episode-num>S1 E281</episode-num>
-    <icon src="https://iptv-epg.org/images/KvFqYhKs2GK4_xbcJgEqPH1DIDbKGohJ2jyzmOSzD1Y19ugQGeidsJSU9V9MdXZP1_YZm1yyQUAnQpKnYCVhAxow3WarMSI5oEWAYRt8y5XiSP3NOGuWS9zmMa5HJA" />
-    <title lang="en">Tuu Juliet Jatt Di</title>
-  </programme>
-  <programme start="20261019140000 +0000" stop="20261019143000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <actor>Ayesha Singh</actor>
-      <actor>Adnan Khan</actor>
-      <actor>Mamta Verma</actor>
-      <actor>Mona Vasu</actor>
-      <actor>Sharain Khanduja</actor>
-      <actor>Hasan Zaidi</actor>
-      <actor>Roopa Divetia</actor>
-      <actor>Pradeep Shukla</actor>
-      <producer>Mukta Dhond</producer>
-    </credits>
-    <desc lang="en">S1 E533
-Dhairya discreetly monitors Vikrant and Mannat over a conspiracy. Meanwhile, Vikrant conceals his feelings for Dua from Ankit.</desc>
-    <episode-num>S1 E533</episode-num>
-    <icon src="https://iptv-epg.org/images/yHVdKLyJLM88vm4c8kGAqjZXyo7PfFfJoHNC9h8rArcdVeh5QOAVM_mX-4Yn9NWHEvocqkChf5TQavQnlweIQFQOji8a2OyCfS6cmql9oQMKbi5V0so3VdA8fOJu4w" />
-    <title lang="en">Mannat Harr Khushi Paane Ki</title>
-  </programme>
-  <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Mukta Dhond</director>
-      <actor>Aishwarya Khare</actor>
-      <actor>Aditya Bipin Redij</actor>
-      <actor>Arjit Taneja</actor>
-      <actor>Anjum Fakih</actor>
-      <actor>Neena Cheema</actor>
-      <actor>Bhuvnesh Shetty</actor>
-      <producer>Mukta Dhond</producer>
-    </credits>
-    <desc lang="en">S1 E168
-Dimple demands Vishwas keep his distance from Avantika. Meanwhile, seeking to hide his tracks, Dhruv destroys the security footage.</desc>
-    <episode-num>S1 E168</episode-num>
-    <icon src="https://iptv-epg.org/images/35fQu77NJ1aTnoGaqfIsELBIwgiZYBrXii7-FfhuPHTyCvxhv6aR7O7w_ZckAhC3D4y2VzXt9wR3t178QQ8CWidivalC1vDXNX2o8EpgpypUgKMjyPVwfPkVMzstbQ" />
-    <title lang="en">DR. Aarambhi</title>
-  </programme>
-  <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <actor>Parth Samthaan</actor>
-      <actor>Rishita Kothari</actor>
-      <actor>Mahhi Vij</actor>
-      <actor>Vaquar Shaikh</actor>
-      <actor>Apurva Agnihotri</actor>
-      <actor>Deepak Qazir</actor>
-      <producer>Richa Yamini</producer>
-    </credits>
-    <desc lang="en">S1 E200
-Husna intentionally harms Amaal to push her plan forward. Meanwhile, Mahid remembers a childhood memory with his mother about an engagement ring.</desc>
-    <episode-num>S1 E200</episode-num>
-    <icon src="https://iptv-epg.org/images/Pq08xHAAKnNdMjSE5mBV1R5wlaDkeXTbUC55ueLleIByvAtHKYSCpemzBHkBe-QzF5HyHZ3aSj4_j3KkEObUVEq1X6dTUV5EulA7MT6wlYjuFoSJAtUNxWuHaeqDig" />
-    <title lang="en">Seher Hone Ko Hai</title>
-  </programme>
-  <programme start="20261019153000 +0000" stop="20261019160000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <actor>Pravisht Mishra</actor>
-      <actor>Ramneek Kataria</actor>
-      <actor>Yashpal Sharma</actor>
-      <actor>Kinshuk Mahajan</actor>
-      <producer>Aarooshee Sood</producer>
-    </credits>
-    <desc lang="en">S1 E63
-Aarti offers Sangam a hand of friendship amidst her struggles. Meanwhile, Krishna wrestles with revealing his deceit while reassuring her that he will help her find work.</desc>
-    <episode-num>S1 E63</episode-num>
-    <icon src="https://iptv-epg.org/images/Y_p8iqETBG2UiE7rfSgTe6NxXdeb6n3-vTzn-mkfxvX68jmQiykuQb8yLBa9UHkA6LllXn5S75dYRFBjwkCN9wU3Nd_0hEsP1pWb0GOsr47aFcc6VtHmNaNndDaA_g" />
-    <title lang="en">Bareilly Ke Bacchan</title>
-  </programme>
-  <programme start="20261019160000 +0000" stop="20261019163000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Vikram Labhe</director>
-      <actor>Aditi Dev Sharma</actor>
-      <actor>Daksh Puri</actor>
-      <actor>Kunal Karan Kapoor</actor>
-      <actor>Jagat Rawat</actor>
-      <actor>Nidhi Tiwari</actor>
-      <actor>Namami Vashishth</actor>
-      <actor>Sarthak Sharma</actor>
-      <producer>Vinay Pillai</producer>
-    </credits>
-    <desc lang="en">S1 E16
-After leaving a toxic relationship, 35-year-old Preeti gets a second chance at love when 25-year-old Aarav enters her life. As their bond grows, they navigate societal taboos due to their age gap.</desc>
-    <episode-num>S1 E16</episode-num>
-    <icon src="https://iptv-epg.org/images/D7AcaTrsuhUQlrBHJIBGbMdkl9L_x7bO1lDjWO0zbIUegbFZ5rW7M0Gg6weBUBqF-O4AY_2wSqdnZUFrpXC-qfhabHja23mpIJu0sI3I42ZF8CBeMImH0UF9WEqy" />
-    <title lang="en">Shayad Yahi Hai Pyaar</title>
-  </programme>
-  <programme start="20261019163000 +0000" stop="20261019170000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Prashant Singh</director>
-      <actor>Shakti Anand</actor>
-      <actor>Sneha Wagh</actor>
-      <actor>Manasi Salvi</actor>
-      <actor>Deepak Khati</actor>
-      <actor>Mohit Joshi</actor>
-      <actor>Aasim Khan</actor>
-      <actor>Garvita Sadhwani</actor>
-      <actor>Neha Rana</actor>
-      <producer>Saurabh Tewari</producer>
-    </credits>
-    <desc lang="en">S1 E172
-Priya commemorates Raksha Bandhan with Ashish, Ketan and Dheeraj. Meanwhile, Lajwanti alerts Mogra regarding Narmada and Rajji.</desc>
-    <episode-num>S1 E172</episode-num>
-    <icon src="https://iptv-epg.org/images/GkqUP-1-ma0W21tk43PStrwB7ib9FIuI4TNEQHhWhL27GXQGDbZ0z8Oi2Eo1-FyIePKIMq5vmU_WhNiF05id7jjYMAgR32vq6msNLXYL5LTytrRqAmg0UDG6nOfy9w" />
-    <title lang="en">Mahadev &amp; Sons</title>
-  </programme>
-  <programme start="20261019170000 +0000" stop="20261019200000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Reality - Talent</category>
-    <credits>
-      <director>Ankur Poddar</director>
-      <director>Deepak Dhar</director>
-      <director>Kapil Batra</director>
-      <director>Shounok Ghosh</director>
-      <director>Taranjiet Singh Namdhari</director>
-      <director>Abhiroop</director>
-      <actor>Salman Khan</actor>
-      <actor>Vijay Vikram Singh</actor>
-      <actor>Atul Kapoor</actor>
-      <producer>Deepak Dhar</producer>
-      <producer>Aman Sharma</producer>
-    </credits>
-    <desc lang="en">S20 E44
-Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
-    <episode-num>S20 E44</episode-num>
-    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
-    <title lang="en">Bigg Boss</title>
-  </programme>
-  <programme start="20261019200000 +0000" stop="20261019213000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Reality - Talent</category>
-    <credits>
-      <director>Ankur Poddar</director>
-      <director>Deepak Dhar</director>
-      <director>Kapil Batra</director>
-      <director>Shounok Ghosh</director>
-      <director>Taranjiet Singh Namdhari</director>
-      <director>Abhiroop</director>
-      <actor>Salman Khan</actor>
-      <actor>Vijay Vikram Singh</actor>
-      <actor>Atul Kapoor</actor>
-      <producer>Deepak Dhar</producer>
-      <producer>Aman Sharma</producer>
-    </credits>
-    <desc lang="en">S20 E43
-Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
-    <episode-num>S20 E43</episode-num>
-    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
-    <title lang="en">Bigg Boss</title>
-  </programme>
-  <programme start="20261019213000 +0000" stop="20261019230000 +0000" channel="Colors.in">
+  <programme start="20261019211100 +0000" stop="20261019222500 +0000" channel="Colors.in">
     <category lang="en">TV Show</category>
     <category lang="en">Reality - Talent</category>
     <credits>
@@ -2035,12 +1452,34 @@ Celebrity contestants live in an isolated house and perform assigned tasks, in o
       <producer>Aman Sharma</producer>
     </credits>
     <desc lang="en">S20 E42
-Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+Salman Khan does not hold back and calls out the vile tactics used by contestants. Later, Yung and Kanika get praised for standing by the truth.</desc>
     <episode-num>S20 E42</episode-num>
     <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
     <title lang="en">Bigg Boss</title>
   </programme>
-  <programme start="20261019230000 +0000" stop="20261020000000 +0000" channel="Colors.in">
+  <programme start="20261019222500 +0000" stop="20261019233900 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
+    <credits>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
+    </credits>
+    <desc lang="en">S20 E41
+As Arishfa feels targeted, rebellion erupts in the house. With dwindling time and ration, a dramatic twist forces an agonising sacrifice.</desc>
+    <episode-num>S20 E41</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
+  </programme>
+  <programme start="20261019233900 +0000" stop="20261020003000 +0000" channel="Colors.in">
     <category lang="en">TV Show</category>
     <category lang="en">Reality - Talent</category>
     <credits>
@@ -2057,30 +1496,10 @@ Celebrity contestants live in an isolated house and perform assigned tasks, in o
       <producer>Aman Sharma</producer>
     </credits>
     <desc lang="en">S20 E40
-Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+As the race for captaincy gets intense, it's up to the previous captains to elect the next captain. Later, Qazi and Arishfa share a moment.</desc>
     <episode-num>S20 E40</episode-num>
     <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
     <title lang="en">Bigg Boss</title>
-  </programme>
-  <programme start="20261020000000 +0000" stop="20261020003000 +0000" channel="Colors.in">
-    <category lang="en">TV Show</category>
-    <category lang="en">Comedy</category>
-    <credits>
-      <actor>Bharti Singh</actor>
-      <actor>Harpal Singh Sokhi</actor>
-      <actor>Karan Kundrra</actor>
-      <actor>Arjun Bijlani</actor>
-      <actor>Krushna Abhishek</actor>
-      <actor>Kashmera Shah</actor>
-      <actor>Sudesh Lehri</actor>
-      <actor>Jannat Zubair Rahmani</actor>
-      <producer>Vipul D. Shah</producer>
-    </credits>
-    <desc lang="en">S3 E49
-A vibrant Mother's Day tribute sees stars cooking alongside their mums. Festive culinary trials and spirited talent performances create a chaotic yet affectionate atmosphere for all.</desc>
-    <episode-num>S3 E49</episode-num>
-    <icon src="https://iptv-epg.org/images/XQTlZOC9uhIhDzkoorUgLJh83_Ir5jdDMbaY_PNv8DzG76uMa222RQEyuoZ_PXCh-WBBpzN0p6EsAhpqfyJEMT5APhK5aMbEP7csAC43Szl4L0qSZKQpIhUgN3FgmQ" />
-    <title lang="en">Laughter Chefs Unlimited Entertainment</title>
   </programme>
   <programme start="20261020003000 +0000" stop="20261020010000 +0000" channel="Colors.in">
     <category lang="en">TV Show</category>
@@ -5399,7 +4818,7 @@ Celebrity contestants live in an isolated house and perform assigned tasks, in o
     <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
     <title lang="en">Bigg Boss</title>
   </programme>
-  <programme start="20261024182700 +0000" stop="20261024200000 +0000" channel="Colors.in">
+  <programme start="20261024182700 +0000" stop="20261024193500 +0000" channel="Colors.in">
     <category lang="en">TV Show</category>
     <category lang="en">Reality - Talent</category>
     <credits>
@@ -5421,266 +4840,634 @@ Celebrity contestants live in an isolated house and perform assigned tasks, in o
     <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
     <title lang="en">Bigg Boss</title>
   </programme>
-  <programme start="20261019002300 +0000" stop="20261019015400 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
+  <programme start="20261024193500 +0000" stop="20261024205100 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
     <credits>
-      <director>Adamo P. Cultraro</director>
-      <actor>\"Stone Cold\" Steve Austin</actor>
-      <actor>Michael Jai White</actor>
-      <actor>Michael Shanks</actor>
-      <actor>Adrian Holmes</actor>
-      <actor>Candace Elaine</actor>
-      <actor>Lexa Doig</actor>
-      <actor>Steve Bacic</actor>
-      <actor>Michael Eklund</actor>
-      <actor>Darren Shahlavi</actor>
-      <producer>Jack Nasser</producer>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
     </credits>
-    <desc lang="en">After a botched mission, a SWAT team is sent to retrain in an abandoned hangar, where two rival mob factions wage war on them upon realising they lack ammunition.</desc>
-    <icon src="https://iptv-epg.org/images/UBD_iAZ1bh0WvB1FdYRVgjZjXnNIA9lzVDpbQDz4HrQg7dbJYIvXFDxh2wTQq2BGWHJQez_P0ccmR_yfP_Wa56ggft1I0NbFGAwE6NdUAR2yhjJrLelxrH9xW3jn" />
-    <title lang="en">Tactical Force</title>
+    <desc lang="en">S20 E6
+Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+    <episode-num>S20 E6</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
   </programme>
-  <programme start="20261019015400 +0000" stop="20261019030500 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
+  <programme start="20261024205100 +0000" stop="20261024221000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
     <credits>
-      <director>Alexandre Aja</director>
-      <actor>Elisabeth Shue</actor>
-      <actor>Steven R McQueen</actor>
-      <actor>Adam Scott</actor>
-      <actor>Jerry O'Connell</actor>
-      <actor>Jessica Szohr</actor>
-      <actor>Kelly Brook</actor>
-      <actor>Riley Steele</actor>
-      <actor>Franck Khalfoun</actor>
-      <producer>Alexandre Aja</producer>
-      <producer>Mark Canton</producer>
-      <producer>Marc Toberoff</producer>
-      <producer>Grégory Levasseur</producer>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
     </credits>
-    <desc lang="en">An earthquake cracks open the bottom of a lake, releasing a prehistoric species of piranha. As sinister events unfold due to the flesh-eating fish, a group of strangers teams up to stop the bloodbath.</desc>
-    <icon src="https://iptv-epg.org/images/rXMzZ2NiQfbbRFTjpTU2cnKpdq8N1qJmkVjr_FWfGwBhh-ZrUaFTKriMVF63Ruzv15btwOvkJWXi3x3vcZo3cuMXCqEuI1Q5rlDQEI5jEC_ntYDqbrpjeYYtgsU" />
-    <title lang="en">Piranha 3D</title>
+    <desc lang="en">S20 E5
+Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+    <episode-num>S20 E5</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
   </programme>
-  <programme start="20261019030500 +0000" stop="20261019050600 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
+  <programme start="20261024221000 +0000" stop="20261024232500 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
+    <credits>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
+    </credits>
+    <desc lang="en">S20 E4
+When 'rockstar' Qazi becomes the topic of discussion, gossip intensifies in the house. Later, when the BB movie begins, the Gharwaales support their favourites.</desc>
+    <episode-num>S20 E4</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
+  </programme>
+  <programme start="20261024232500 +0000" stop="20261025003000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
+    <credits>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
+    </credits>
+    <desc lang="en">S20 E3
+Qazi faces the contestants' anger during a heated birthday celebration. Meanwhile, the opening of the '2X Room' offers a unique advantage to the captaincy contenders.</desc>
+    <episode-num>S20 E3</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
+  </programme>
+  <programme start="20261025003000 +0000" stop="20261025005700 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ankur Bhatia</director>
+      <director>Mohsin Khan</director>
+      <director>Kushal Zaveri</director>
+      <actor>Jasmeet Kaur</actor>
+      <actor>Syed Raza Ahmed</actor>
+      <actor>Sangita Ghosh</actor>
+      <actor>Digvijay Purohit</actor>
+      <actor>Alisha Parveen Khan</actor>
+      <actor>Chetna Singh</actor>
+      <actor>Anmol Gupta</actor>
+      <actor>Pardeep Singh Toor</actor>
+      <producer>Ravi Dubey</producer>
+      <producer>Sargun Mehta</producer>
+    </credits>
+    <desc lang="en">S1 E300
+Heer falls unconscious again and panics during her medical test. Later, a fight breaks out when Jerry reveals that Vaaris turned off the light.</desc>
+    <episode-num>S1 E300</episode-num>
+    <icon src="https://iptv-epg.org/images/KvFqYhKs2GK4_xbcJgEqPH1DIDbKGohJ2jyzmOSzD1Y19ugQGeidsJSU9V9MdXZP1_YZm1yyQUAnQpKnYCVhAxow3WarMSI5oEWAYRt8y5XiSP3NOGuWS9zmMa5HJA" />
+    <title lang="en">Tuu Juliet Jatt Di</title>
+  </programme>
+  <programme start="20261025005700 +0000" stop="20261025012000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
+    <credits>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
+    </credits>
+    <desc lang="en">S20 E5
+Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+    <episode-num>S20 E5</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
+  </programme>
+  <programme start="20261025012000 +0000" stop="20261025023400 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
+    <credits>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
+    </credits>
+    <desc lang="en">S20 E6
+Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+    <episode-num>S20 E6</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
+  </programme>
+  <programme start="20261025023400 +0000" stop="20261025041300 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
+    <credits>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
+    </credits>
+    <desc lang="en">S20 E7
+Celebrity contestants live in an isolated house and perform assigned tasks, in order to win the cash prize, while also trying to avoid being eliminated.</desc>
+    <episode-num>S20 E7</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
+  </programme>
+  <programme start="20261025041300 +0000" stop="20261025060300 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
     <category lang="en">Action</category>
     <credits>
-      <director>Alex Proyas</director>
-      <actor>Nikolaj Coster-Waldau</actor>
-      <actor>Brenton Thwaites</actor>
-      <actor>Chadwick Boseman</actor>
-      <actor>Elodie Yung</actor>
-      <actor>Courtney Eaton</actor>
-      <actor>Rufus Sewell</actor>
-      <actor>Gerard Butler</actor>
-      <actor>Geoffrey Rush</actor>
-      <actor>Bryan Brown</actor>
-      <producer>Basil Iwanyk</producer>
-      <producer>Alex Proyas</producer>
+      <director>Nishant Nayak</director>
+      <director>Aritra Mukherjee</director>
+      <actor>Rohit Shetty</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Joy Bhattacharya</producer>
     </credits>
-    <desc lang="en">After Set, the Egyptian God of darkness, kills his brother and seizes the throne, he enslaves the kingdom. However, a flawed mortal, Bek, and the God of the sky Horus rise to challenge him.</desc>
-    <icon src="https://iptv-epg.org/images/YjZEoGVdIHCyiacG576JPQA4YQVFzsXG6Z07YI4TEgxkJtrX3NHUI3zZgupbU1hJ12ZiT1hcYX_LtZsT9Gfhz29NLdC6ceeEibIDYFV7ONmfgD5afMVGrPP7XPdZ4Q" />
-    <title lang="en">Gods of Egypt</title>
+    <desc lang="en">S15 E12
+Contestants engage in a fiercely competitive ultimate climax to secure a monumental victory and claim the coveted jacket.</desc>
+    <episode-num>S15 E12</episode-num>
+    <icon src="https://iptv-epg.org/images/npOzMYbuvLcj09MjVzT8Wb4Tc5BPxwOLKfi0nQ3vr3d3ttNbzZB9OAARA3AoWmfpD9hZ7F27za6mw5wpO8lBmivlSeRvvqiCy4HvwBiLeL_8GcWh2C1zK1-7uEXOsg" />
+    <title lang="en">Khatron Ke Khiladi</title>
   </programme>
-  <programme start="20261019050600 +0000" stop="20261019070000 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
+  <programme start="20261025060300 +0000" stop="20261025080000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
     <category lang="en">Action</category>
     <credits>
-      <director>Jordan Vogt-Roberts</director>
-      <actor>Tom Hiddleston</actor>
-      <actor>Samuel L. Jackson</actor>
-      <actor>Brie Larson</actor>
-      <actor>John C. Reilly</actor>
-      <actor>John Goodman</actor>
-      <actor>Corey Hawkins</actor>
-      <actor>John Ortiz</actor>
-      <actor>Jing Tian</actor>
-      <actor>Toby Kebbell</actor>
-      <actor>Jason Mitchell</actor>
-      <actor>Shea Whigham</actor>
-      <actor>Thomas Mann</actor>
-      <actor>Eugene Cordero</actor>
-      <actor>Marc Evan Jackson</actor>
-      <actor>Will Brittain</actor>
-      <actor>Miyavi</actor>
-      <actor>Richard Jenkins</actor>
-      <actor>Allyn Rachel</actor>
-      <actor>Robert Taylor</actor>
-      <actor>Terry Notary</actor>
-      <producer>Jon Jashni</producer>
-      <producer>Alex Garcia</producer>
-      <producer>Thomas Tull</producer>
-      <producer>Mary Parent</producer>
+      <director>Nishant Nayak</director>
+      <director>Aritra Mukherjee</director>
+      <actor>Rohit Shetty</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Joy Bhattacharya</producer>
     </credits>
-    <desc lang="en">A crew that reaches Skull Island to map it, is attacked by a humongous ape. The survivors then regroup to find out more about the ape, the island's natives and underground monsters.</desc>
-    <icon src="https://iptv-epg.org/images/ImxiHZdleb4QR29zU1zvzpgGIlem93sEeVvQjzUMmdycizVRdI1W1NYvSsFPUMCUdQef0YAa8CHu4pKLGguYJ2fQMizC6WhtmiibUSFnZ1wuXZdjKkiLINNQ9ditYg" />
-    <title lang="en">Kong: Skull Island</title>
+    <desc lang="en">S15 E13
+The players face epic challenges while Rohit presents their trend report.</desc>
+    <episode-num>S15 E13</episode-num>
+    <icon src="https://iptv-epg.org/images/npOzMYbuvLcj09MjVzT8Wb4Tc5BPxwOLKfi0nQ3vr3d3ttNbzZB9OAARA3AoWmfpD9hZ7F27za6mw5wpO8lBmivlSeRvvqiCy4HvwBiLeL_8GcWh2C1zK1-7uEXOsg" />
+    <title lang="en">Khatron Ke Khiladi</title>
   </programme>
-  <programme start="20261019070000 +0000" stop="20261019091400 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
+  <programme start="20261025080000 +0000" stop="20261025082000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
     <credits>
-      <director>James Cameron</director>
-      <actor>Arnold Schwarzenegger</actor>
-      <actor>Linda Hamilton</actor>
-      <actor>Edward Furlong</actor>
-      <actor>Robert Patrick</actor>
-      <actor>Earl Boen</actor>
-      <actor>Joe Morton</actor>
-      <actor>S. Epatha Merkerson</actor>
-      <actor>Castulo Guerra</actor>
-      <actor>Danny Cooksey</actor>
-      <actor>Jenette Goldstein</actor>
-      <actor>Xander Berkeley</actor>
-      <producer>Van Ling</producer>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
     </credits>
-    <desc lang="en">John, son of Sarah Connor, sends a reprogrammed Terminator to protect his younger self, who also holds the key to humanity's survival, from the T-1000, an advanced robot created by Skynet.</desc>
-    <icon src="https://iptv-epg.org/images/bhXbQLcXqnnkHE3zX7Igh4IFGY1u7UChETEsGhcbmV_MM_xwnK9HbmDli8y1qFGipmI22U2W3YgJRxBEQh2ehK6vD7dYtJCHyJ5EtuKEzL_qLz6yrCQEs6ZLTQ" />
-    <title lang="en">Terminator 2: Judgment Day</title>
+    <desc lang="en">S1 E278
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E278</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
   </programme>
-  <programme start="20261019091400 +0000" stop="20261019111000 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
+  <programme start="20261025082000 +0000" stop="20261025083900 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E279
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E279</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025083900 +0000" stop="20261025090000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E280
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E280</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025092100 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E281
+Thapki boldly accepts Vasundhara's challenge. However, Shraddha's shocking disclosure shatters Bihaan's joy and leaves him heartbroken, driving him to vow revenge against Thapki.</desc>
+    <episode-num>S1 E281</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025092100 +0000" stop="20261025094000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E282
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E282</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025094000 +0000" stop="20261025100100 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E283
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E283</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025100100 +0000" stop="20261025103100 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E284
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E284</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025103100 +0000" stop="20261025105900 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E285
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E285</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025105900 +0000" stop="20261025113000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E286
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E286</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025113000 +0000" stop="20261025115900 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E287
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E287</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025115900 +0000" stop="20261025122900 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ranjan Kumar Singh</director>
+      <director>Aanand Kumaar</director>
+      <actor>Jigyasa Singh</actor>
+      <actor>Manish Goplani</actor>
+      <actor>Ankit Bathla</actor>
+      <actor>Sheena Bajaj</actor>
+      <actor>Jaya Bhattacharya</actor>
+      <actor>Kritika Sharma</actor>
+      <actor>Abhinandan Jindal</actor>
+      <actor>Monica Khanna</actor>
+      <producer>Faizal Alanaa</producer>
+      <producer>Kamna Nirula Menezes</producer>
+      <producer>Ved Raj</producer>
+      <producer>Dheeraj Sarna</producer>
+    </credits>
+    <desc lang="en">S1 E288
+Thapki, a lively and intelligent girl, faces certain problems that affect her life. However, she decides to move to a city in order to find a job and meet all her challenges with a positive attitude.</desc>
+    <episode-num>S1 E288</episode-num>
+    <icon src="https://iptv-epg.org/images/S_iG23o6WtEPiMKcBAniB6L4Z1RjBT1qi1ZmlkcRVwn_dd1wTKOdDUZu95v5qWzz9Iqpl3OX0RCGERYPkHFBeeHKTqqf7VCf2PO4Z57HoBQ0GRSGys_WCyMpJt4t" />
+    <title lang="en">Thapki Pyar Ki</title>
+  </programme>
+  <programme start="20261025122900 +0000" stop="20261025132900 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <actor>Erica Fernandes</actor>
+      <actor>Gashmeer Mahajani</actor>
+      <actor>Nikhil Khurana</actor>
+      <actor>Ayoshi Talukdar</actor>
+      <actor>Hiten Tejwani</actor>
+      <actor>Smita Bansal</actor>
+      <producer>Samar Khan</producer>
+      <producer>Sameer Arya</producer>
+      <producer>Chandni Arya</producer>
+    </credits>
+    <desc lang="en">S1 E9
+A beauty queen's facial burns test Naina and Anirudh as they fight to save her sight. Later, Anirudh's confessed love stuns Naina.</desc>
+    <episode-num>S1 E9</episode-num>
+    <icon src="https://iptv-epg.org/images/4V1Jt9VssgPqguvfIvzZqA-AymbbjMPpcUglcV9wwuLShyg5c2J_m2if2C8LjFO6PZ-zJDQZX5tZfSfu3B0e6-njS23hWSu5ZzrKZ0VWSmTvI_1vu2BNG3MB3Aj1" />
+    <title lang="en">108 Base Hospital - Uri</title>
+  </programme>
+  <programme start="20261025132900 +0000" stop="20261025135900 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <director>Ankur Bhatia</director>
+      <director>Mohsin Khan</director>
+      <director>Kushal Zaveri</director>
+      <actor>Jasmeet Kaur</actor>
+      <actor>Syed Raza Ahmed</actor>
+      <actor>Sangita Ghosh</actor>
+      <actor>Digvijay Purohit</actor>
+      <actor>Alisha Parveen Khan</actor>
+      <actor>Chetna Singh</actor>
+      <actor>Anmol Gupta</actor>
+      <actor>Pardeep Singh Toor</actor>
+      <producer>Ravi Dubey</producer>
+      <producer>Sargun Mehta</producer>
+    </credits>
+    <desc lang="en">S1 E301
+Nawab reacts with shock when Heer chooses Fateh over him. Meanwhile, Ajit forces her to prepare for a matchmaking ceremony under the threat of sending her away.</desc>
+    <episode-num>S1 E301</episode-num>
+    <icon src="https://iptv-epg.org/images/KvFqYhKs2GK4_xbcJgEqPH1DIDbKGohJ2jyzmOSzD1Y19ugQGeidsJSU9V9MdXZP1_YZm1yyQUAnQpKnYCVhAxow3WarMSI5oEWAYRt8y5XiSP3NOGuWS9zmMa5HJA" />
+    <title lang="en">Tuu Juliet Jatt Di</title>
+  </programme>
+  <programme start="20261025135900 +0000" stop="20261025143000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <actor>Ayesha Singh</actor>
+      <actor>Adnan Khan</actor>
+      <actor>Mamta Verma</actor>
+      <actor>Mona Vasu</actor>
+      <actor>Sharain Khanduja</actor>
+      <actor>Hasan Zaidi</actor>
+      <actor>Roopa Divetia</actor>
+      <actor>Pradeep Shukla</actor>
+      <producer>Mukta Dhond</producer>
+    </credits>
+    <desc lang="en">S1 E553
+Ronny urges Vikrant to hide the truth about Dhairya from Dua. Eventually, Mannat promises Dua that no one can separate them.</desc>
+    <episode-num>S1 E553</episode-num>
+    <icon src="https://iptv-epg.org/images/yHVdKLyJLM88vm4c8kGAqjZXyo7PfFfJoHNC9h8rArcdVeh5QOAVM_mX-4Yn9NWHEvocqkChf5TQavQnlweIQFQOji8a2OyCfS6cmql9oQMKbi5V0so3VdA8fOJu4w" />
+    <title lang="en">Mannat Harr Khushi Paane Ki</title>
+  </programme>
+  <programme start="20261025143000 +0000" stop="20261025153000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Drama</category>
+    <credits>
+      <actor>Erica Fernandes</actor>
+      <actor>Gashmeer Mahajani</actor>
+      <actor>Nikhil Khurana</actor>
+      <actor>Ayoshi Talukdar</actor>
+      <actor>Hiten Tejwani</actor>
+      <actor>Smita Bansal</actor>
+      <producer>Samar Khan</producer>
+      <producer>Sameer Arya</producer>
+      <producer>Chandni Arya</producer>
+    </credits>
+    <desc lang="en">S1 E10
+Anirudh faces a new acid-attack threat while Sameer and Mili grow closer. Later, Anirudh requests another chance from Naina.</desc>
+    <episode-num>S1 E10</episode-num>
+    <icon src="https://iptv-epg.org/images/4V1Jt9VssgPqguvfIvzZqA-AymbbjMPpcUglcV9wwuLShyg5c2J_m2if2C8LjFO6PZ-zJDQZX5tZfSfu3B0e6-njS23hWSu5ZzrKZ0VWSmTvI_1vu2BNG3MB3Aj1" />
+    <title lang="en">108 Base Hospital - Uri</title>
+  </programme>
+  <programme start="20261025153000 +0000" stop="20261025170100 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
     <category lang="en">Action</category>
     <credits>
-      <director>Duncan Jones</director>
-      <actor>Travis Fimmel</actor>
-      <actor>Paula Patton</actor>
-      <actor>Ben Foster</actor>
-      <actor>Dominic Cooper</actor>
-      <actor>Toby Kebbell</actor>
-      <actor>Ben Schnetzer</actor>
-      <actor>Robert Kazinsky</actor>
-      <actor>Clancy Brown</actor>
-      <actor>Daniel Wu</actor>
-      <actor>Ruth Negga</actor>
-      <actor>Anna Galvin</actor>
-      <actor>Callum Keith Rennie</actor>
-      <actor>Burkely Duffield</actor>
-      <actor>Ryan Robbins</actor>
-      <actor>Dean Redman</actor>
-      <actor>Glenn Ennis</actor>
-      <producer>Charles Roven</producer>
-      <producer>Thomas Tull</producer>
-      <producer>Jon Jashni</producer>
-      <producer>Alex Gartner</producer>
-      <producer>Stuart Fenegan</producer>
+      <director>Nishant Nayak</director>
+      <director>Aritra Mukherjee</director>
+      <actor>Rohit Shetty</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Joy Bhattacharya</producer>
     </credits>
-    <desc lang="en">A few human survivors must team up with a group of dissenting Orcs to stop an Orc horde from invading their planet through a magic portal.</desc>
-    <icon src="https://iptv-epg.org/images/XGZrFygEEm66unS58HCDQGiqrzf2yjAKOvWeu497AJ3XREjKZ1N3OJ1U8uMpOqGZk3p1O_k4UbxFrUqmIUL_wsmXbuHkYQv8HmmwmIBkw4jg5LgJRjwxaE0gTJYQ" />
-    <title lang="en">Warcraft</title>
+    <desc lang="en">S15 E14
+As the players prepare for tougher stunts, an unexpected twist changes the game for them.</desc>
+    <episode-num>S15 E14</episode-num>
+    <icon src="https://iptv-epg.org/images/npOzMYbuvLcj09MjVzT8Wb4Tc5BPxwOLKfi0nQ3vr3d3ttNbzZB9OAARA3AoWmfpD9hZ7F27za6mw5wpO8lBmivlSeRvvqiCy4HvwBiLeL_8GcWh2C1zK1-7uEXOsg" />
+    <title lang="en">Khatron Ke Khiladi</title>
   </programme>
-  <programme start="20261019111000 +0000" stop="20261019132600 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
+  <programme start="20261025170100 +0000" stop="20261025182000 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
     <credits>
-      <director>Marc Webb</director>
-      <actor>Andrew Garfield</actor>
-      <actor>Emma Stone</actor>
-      <actor>Jamie Foxx</actor>
-      <actor>Dane DeHaan</actor>
-      <actor>Colm Feore</actor>
-      <actor>Felicity Jones</actor>
-      <actor>Paul Giamatti</actor>
-      <actor>Sally Field</actor>
-      <actor>Embeth Davidtz</actor>
-      <actor>Campbell Scott</actor>
-      <actor>Marton Csokas</actor>
-      <actor>Louis Cancelmi</actor>
-      <actor>Max Charles</actor>
-      <actor>B.J. Novak</actor>
-      <actor>Sarah Gadon</actor>
-      <actor>Jorge Vega</actor>
-      <producer>Avi Arad</producer>
-      <producer>Matthew Tolmach</producer>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
     </credits>
-    <desc lang="en">Peter Parker faces Electro and his old friend who is dying and looks out for Spider-Man's blood in order to cure himself.</desc>
-    <icon src="https://iptv-epg.org/images/zcORVYa69-rOKzQFN83Pz1Q5dVq8Pvh65lNIU4qt5VlAiilSjMi9-FdTHec1BL7T-lHviuppfRfjEodkWMMJ_nJYHZzUyQrOahDsVvBHypOxnSWJnFXiLyL98jXd" />
-    <title lang="en">The Amazing Spider-Man 2</title>
+    <desc lang="en">S20 E8
+Laughter unfolds as Aasif takes on a roasting challenge. Meanwhile, Yung and Mahi play matchmakers, before Salman prepares to deliver the audience's verdict.</desc>
+    <episode-num>S20 E8</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
   </programme>
-  <programme start="20261019132600 +0000" stop="20261019151500 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
+  <programme start="20261025182000 +0000" stop="20261025192900 +0000" channel="Colors.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Reality - Talent</category>
     <credits>
-      <director>Brian De Palma</director>
-      <actor>Tom Cruise</actor>
-      <actor>Jon Voight</actor>
-      <actor>Henry Czerny</actor>
-      <actor>Ving Rhames</actor>
-      <actor>Kristin Scott Thomas</actor>
-      <actor>Jean Reno</actor>
-      <actor>Emmanuelle Béart</actor>
-      <actor>Randall Paul</actor>
-      <actor>John McLaughlin</actor>
-      <actor>Karel Dobry</actor>
-      <actor>Melissa Knatchbull</actor>
-      <actor>Vanessa Redgrave</actor>
-      <actor>Dale Dye</actor>
-      <actor>Marcel Iures</actor>
-      <actor>Ion Caramitru</actor>
-      <actor>Ingeborga Dapkunaite</actor>
-      <actor>Andreas Wisniewski</actor>
-      <actor>Gaston Subert</actor>
-      <actor>John J. McLaughlin</actor>
-      <producer>Tom Cruise</producer>
-      <producer>Paula Wagner</producer>
+      <director>Ankur Poddar</director>
+      <director>Deepak Dhar</director>
+      <director>Kapil Batra</director>
+      <director>Shounok Ghosh</director>
+      <director>Taranjiet Singh Namdhari</director>
+      <director>Abhiroop</director>
+      <actor>Salman Khan</actor>
+      <actor>Vijay Vikram Singh</actor>
+      <actor>Atul Kapoor</actor>
+      <producer>Deepak Dhar</producer>
+      <producer>Aman Sharma</producer>
     </credits>
-    <desc lang="en">Ethan Hunt, an elite intelligence agent, is branded a traitor following a disastrous mission in Prague. He recruits a team of operatives to help him retrieve a computer disk that can clear his name.</desc>
-    <icon src="https://iptv-epg.org/images/OtlVc1siQKYq_A-ItIZtqUuImL8LGGhF4Uxr9wpeZnOhbTTCd-asijRlsfDidCK90sWBi4MQJ9nGhXAjD8E-cRcGKuSa77kXv51-1np0EDmYZWAgxVqkHA787A" />
-    <title lang="en">Mission: Impossible</title>
-  </programme>
-  <programme start="20261019151500 +0000" stop="20261019171800 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <credits>
-      <director>Stephen Sommers</director>
-      <actor>Hugh Jackman</actor>
-      <actor>Kate Beckinsale</actor>
-      <actor>Richard Roxburgh</actor>
-      <actor>David Wenham</actor>
-      <actor>Shuler Hensley</actor>
-      <actor>Elena Anaya</actor>
-      <actor>Will Kemp</actor>
-      <actor>Kevin J. O'Connor</actor>
-      <actor>Alun Armstrong</actor>
-      <actor>Silvia Colloca</actor>
-      <actor>Josie Maran</actor>
-      <actor>Tom Fisher</actor>
-      <actor>Samuel West</actor>
-      <actor>Robbie Coltrane</actor>
-      <producer>Stephen Sommers</producer>
-      <producer>Bob Ducsay</producer>
-    </credits>
-    <desc lang="en">Van Helsing, a legendary monster hunter, is sent to Transylvania by the Vatican to kill Count Dracula and protect the last descendants of the Valerious, Anna and Velkan.</desc>
-    <icon src="https://iptv-epg.org/images/ZfgApVrMbdPHZf-7u9D0vt_Q49sTmfSxQSTt8GizBEZTGOn-dCjwWtkr_90O95uXWWfanndzG-DkKSSXL93XVjSOwBU8vZIq83UEVkf-UdnsD3rTOto3lGINGA" />
-    <title lang="en">Van Helsing</title>
-  </programme>
-  <programme start="20261019171800 +0000" stop="20261019191500 +0000" channel="MoviesNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Action</category>
-    <credits>
-      <director>Sam Raimi</director>
-      <actor>Tobey Maguire</actor>
-      <actor>Willem Dafoe</actor>
-      <actor>Kirsten Dunst</actor>
-      <actor>James Franco</actor>
-      <actor>Cliff Robertson</actor>
-      <actor>Rosemary Harris</actor>
-      <actor>J.K. Simmons</actor>
-      <actor>Joe Manganiello</actor>
-      <actor>Gerry Becker</actor>
-      <actor>Bill Nunn</actor>
-      <actor>Jack Betts</actor>
-      <actor>Stanley Anderson</actor>
-      <actor>Ron Perkins</actor>
-      <actor>Elizabeth Banks</actor>
-      <producer>Ian Bryce</producer>
-      <producer>Laura Ziskin</producer>
-    </credits>
-    <desc lang="en">Peter Parker's life changes when he is bitten by a genetically altered spider and gains superpowers. He uses his powers to help people and finds himself facing the Green Goblin, an evil maniac.</desc>
-    <icon src="https://iptv-epg.org/images/drmJg50gBwTF74V5euLKR_elQyGIyyjHJ7cF4JGsZXjbu9-GmcgjqxeQPWif-69BkYpCmYAhxGtEUxNFhDgnd-MaYjLIcehoF_UH0T_8TwwRYYa4c0mrHaZrYA" />
-    <title lang="en">Spider-Man</title>
+    <desc lang="en">S20 E8
+Laughter unfolds as Aasif takes on a roasting challenge. Meanwhile, Yung and Mahi play matchmakers, before Salman prepares to deliver the audience's verdict.</desc>
+    <episode-num>S20 E8</episode-num>
+    <icon src="https://iptv-epg.org/images/9NworId_GihjLIgsWG7HlWTdl5_gLupMTFl2_7sUa-bfhKPmzvvVyvqbRsQpTHnRZjnfMoWoiLLGpW6sP-DeZhwYwdDLGPs4i4WysGD_by8B4RZYci26E_Wug_ED9w" />
+    <title lang="en">Bigg Boss</title>
   </programme>
   <programme start="20261019191500 +0000" stop="20261019210900 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
@@ -5766,7 +5553,7 @@ The host invites prominent personalities and engages them in candid conversation
     <title lang="en">Mandira Bedi; The Love Laugh Live Show</title>
     <live />
   </programme>
-  <programme start="20261019235100 +0000" stop="20261020012200 +0000" channel="MoviesNow.in">
+  <programme start="20261019235100 +0000" stop="20261020012300 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -5791,7 +5578,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/wWyqa9CTpppaer8RMcZFHpFxAiK--iOJ9xoMRimJlPyrYVv9UiW70ARBVwJNZJL0fieGHCu0SsaCYVrSj6cJ2hj3r586JpGQgytbZI55Qi1J0SF5oaqvMLUkaj6beA" />
     <title lang="en">Lady Bloodfight</title>
   </programme>
-  <programme start="20261020012200 +0000" stop="20261020025400 +0000" channel="MoviesNow.in">
+  <programme start="20261020012300 +0000" stop="20261020025500 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -5812,7 +5599,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/NCkLN8vaPaVrkF-Rjc4iuKVAy268XDYKHJEbue3yyFoVS0ehRZMkNBF_9sNVLiVeInvzL-srP5UxVXU98EzShw33tJZVsEVbj7MhY3mgblefjo6zz5ccRcCb27icPQ" />
     <title lang="en">The Trust</title>
   </programme>
-  <programme start="20261020025400 +0000" stop="20261020045700 +0000" channel="MoviesNow.in">
+  <programme start="20261020025500 +0000" stop="20261020045800 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -5837,7 +5624,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/cImKuFDcqDz5utnirOZbWuGHX_jVwSFcdpgvAzbPs2XBA7GYEGbN2NkOIiVfC569D2jbAxQQzl55h86fEi9lfhinBJLByfTUoxQh-MOt1UcfoNOxmPGag8O3DMA" />
     <title lang="en">Mission: Impossible III</title>
   </programme>
-  <programme start="20261020045700 +0000" stop="20261020065400 +0000" channel="MoviesNow.in">
+  <programme start="20261020045800 +0000" stop="20261020065500 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -5863,7 +5650,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/drmJg50gBwTF74V5euLKR_elQyGIyyjHJ7cF4JGsZXjbu9-GmcgjqxeQPWif-69BkYpCmYAhxGtEUxNFhDgnd-MaYjLIcehoF_UH0T_8TwwRYYa4c0mrHaZrYA" />
     <title lang="en">Spider-Man</title>
   </programme>
-  <programme start="20261020065400 +0000" stop="20261020085400 +0000" channel="MoviesNow.in">
+  <programme start="20261020065500 +0000" stop="20261020085500 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -5892,7 +5679,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/fQ_bUXB_NikLXYLV0dZpj_8owc9Fpzka1cU_GuxPkxuHr7c7HWThBNavEPgZv7CnT5faIsEz6BJ_ArECXNXqYLH5aKVjSZBfx8Kmdf2_uYs0XhjlnFSI6t9pDg" />
     <title lang="en">The Mummy</title>
   </programme>
-  <programme start="20261020085400 +0000" stop="20261020111400 +0000" channel="MoviesNow.in">
+  <programme start="20261020085500 +0000" stop="20261020111400 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -6023,7 +5810,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/Yh6g8-AOxjHFnlGWYZd8yxPd4z0z5BSvG0I8X1ltsby46eKpzRyGtSCL8_Qo_LwzDuqd3BtYMEJjSKj8w1DXRWPg4e7eSqdEy3cB_R9hT7bxvReEmybKNav-EIJc" />
     <title lang="en">Kung Fu Panda 2</title>
   </programme>
-  <programme start="20261020164200 +0000" stop="20261020183700 +0000" channel="MoviesNow.in">
+  <programme start="20261020164200 +0000" stop="20261020183800 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -6054,7 +5841,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/XGZrFygEEm66unS58HCDQGiqrzf2yjAKOvWeu497AJ3XREjKZ1N3OJ1U8uMpOqGZk3p1O_k4UbxFrUqmIUL_wsmXbuHkYQv8HmmwmIBkw4jg5LgJRjwxaE0gTJYQ" />
     <title lang="en">Warcraft</title>
   </programme>
-  <programme start="20261020183700 +0000" stop="20261020201900 +0000" channel="MoviesNow.in">
+  <programme start="20261020183800 +0000" stop="20261020201900 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -6082,7 +5869,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/YI5f0dR7uF1peDd-3MRQGBUcvdGpm6vn5GQV2Sw3A0pCzKKuaXA8A4oNIAdyOS5QaJ-qz6joAAYBmXatjNuihmUtFf2EjRz-P_7ld0QXLeMyVmHGKPk1O-5zXs_9" />
     <title lang="en">Sabotage</title>
   </programme>
-  <programme start="20261020201900 +0000" stop="20261020215100 +0000" channel="MoviesNow.in">
+  <programme start="20261020201900 +0000" stop="20261020215500 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -6103,20 +5890,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/1nlcj_0jMaZc243_EFPgqFEzcX8SqC8x-6Trgif7nb6HWairLXY8nQLqVNTJshL55oJVj_hrtFkC2ym1PlBfngg68zCWg2S-rgQYZI8cm16KzNlrG5RhwjPrToiTAg" />
     <title lang="en">No Escape</title>
   </programme>
-  <programme start="20261020215100 +0000" stop="20261020220000 +0000" channel="MoviesNow.in">
-    <category lang="en">Sports</category>
-    <category lang="en">Talk Show</category>
-    <credits>
-      <actor>Mandira Bedi</actor>
-      <actor>Shibani Dandekar</actor>
-    </credits>
-    <desc lang="en">S3 E1
-The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
-    <episode-num>S3 E1</episode-num>
-    <icon src="https://iptv-epg.org/images/v5aleLOUsv2n03EFMtg60jOZqda9ZYrn1Pyf1tJ1vmZkiCzofeudFZkZiBrLXreN9fchGa24jVdsGXv0Rc0Vb_hKkTVf-ackmviA3q8cs73P5_HeJaQJCxi-lET2LQ" />
-    <title lang="en">Bhuvan Bam; The Love Laugh Live Show</title>
-  </programme>
-  <programme start="20261020220000 +0000" stop="20261020231500 +0000" channel="MoviesNow.in">
+  <programme start="20261020215500 +0000" stop="20261020231300 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -6139,7 +5913,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/LXdWJo7Y4guVXUH_glA8ZCBrh-47YUp0tdZUySC5N8Pzon4GcifCD5Rj1jHPUBimGXafIXOkx3Rqr6rxT60n5upYpBLeKB5pwU1EeZeIsLoZTyENg3cWBKH9kQbx" />
     <title lang="en">Gun</title>
   </programme>
-  <programme start="20261020231500 +0000" stop="20261021003000 +0000" channel="MoviesNow.in">
+  <programme start="20261020231300 +0000" stop="20261021003200 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -6167,7 +5941,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/Na7NSzP_hwDu1ZrGZ-Pi2hqJ_oAl_Q5hBT9UxnhCNP4vlaf5yucDspsq1sE9shQcSs4iIkBXJUJv_1yyG1eqdo0hW7-Ouq_MnweVBDiXyvNnUYK5fqsyM3hbv-PhvQ" />
     <title lang="en">Incoming</title>
   </programme>
-  <programme start="20261021003000 +0000" stop="20261021020500 +0000" channel="MoviesNow.in">
+  <programme start="20261021003200 +0000" stop="20261021020800 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -6206,7 +5980,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/wPELE-OnAArlX4l38f2KbRMr2nma3ETxzNz9kxp8reukqp9CMaz2tL6L13KjaFcusrbi3-jb7QnAAEHeRQZogCeW9YoDfnXP0BiPueRmTa-Zb6HHcsuZL5_w66TL0A" />
     <title lang="en">Final Score</title>
   </programme>
-  <programme start="20261021020500 +0000" stop="20261021043500 +0000" channel="MoviesNow.in">
+  <programme start="20261021020800 +0000" stop="20261021043700 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -6233,7 +6007,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/HrfRpZVTVxj4O_Fr19a9-owlVnmE9uE3Xnhlx9vDWqdZPXKxeXXZoqfecoLUU9_kn5pJ1zDrS9LjxBbeTRP3l_Irj2Nk2aHkwqEIFyi33-S-qPTiP5coG8p0rdJHFw" />
     <title lang="en">Dune</title>
   </programme>
-  <programme start="20261021043500 +0000" stop="20261021063000 +0000" channel="MoviesNow.in">
+  <programme start="20261021043700 +0000" stop="20261021063000 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -6256,7 +6030,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/vTGDa98C4StOzhcjaMxoU69CrkGJ6ghGLjKoreYgJi8lswS5N6zutmKOwd_EsIDETqgm5CttnjE7ePTxKqcYeq3whiClYQHoCRuIjRYh8i9Q9L1Beon4ZINNAC0" />
     <title lang="en">G.I. Joe: The Rise of Cobra</title>
   </programme>
-  <programme start="20261021063000 +0000" stop="20261021084000 +0000" channel="MoviesNow.in">
+  <programme start="20261021063000 +0000" stop="20261021083800 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -6282,7 +6056,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/z9dXeI--0r50GFWwJ0-MARTqz3KTAOdfKcxPPpxdv2-EXjFqXSesl2iM_q62BYUqYtJ2vWO158B7raHArvRBip4qkWoqpaNjbbNIEYcjvBhGIuNVOQZqVuBM8fhGrQ" />
     <title lang="en">Fast &amp; Furious Presents: Hobbs &amp; Shaw</title>
   </programme>
-  <programme start="20261021084000 +0000" stop="20261021100500 +0000" channel="MoviesNow.in">
+  <programme start="20261021083800 +0000" stop="20261021100500 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Animation</category>
     <credits>
@@ -6307,7 +6081,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/Yh6g8-AOxjHFnlGWYZd8yxPd4z0z5BSvG0I8X1ltsby46eKpzRyGtSCL8_Qo_LwzDuqd3BtYMEJjSKj8w1DXRWPg4e7eSqdEy3cB_R9hT7bxvReEmybKNav-EIJc" />
     <title lang="en">Kung Fu Panda 2</title>
   </programme>
-  <programme start="20261021100500 +0000" stop="20261021120000 +0000" channel="MoviesNow.in">
+  <programme start="20261021100500 +0000" stop="20261021115900 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -6341,7 +6115,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/ImxiHZdleb4QR29zU1zvzpgGIlem93sEeVvQjzUMmdycizVRdI1W1NYvSsFPUMCUdQef0YAa8CHu4pKLGguYJ2fQMizC6WhtmiibUSFnZ1wuXZdjKkiLINNQ9ditYg" />
     <title lang="en">Kong: Skull Island</title>
   </programme>
-  <programme start="20261021120000 +0000" stop="20261021134500 +0000" channel="MoviesNow.in">
+  <programme start="20261021115900 +0000" stop="20261021134400 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Fantasy</category>
     <credits>
@@ -6377,7 +6151,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/Z5JHPip_44UhdE8gsoZFcueGG0giYOmXnCObu6cKSr_JQKkOGuk4gDJ1VLvpxOPMZJzDWQTIQKkSkHxuefcLGk5sdP6PVlYD5TBL_D6RFYwPc67wjMubXaBI2Eli" />
     <title lang="en">Ted 2</title>
   </programme>
-  <programme start="20261021134500 +0000" stop="20261021151500 +0000" channel="MoviesNow.in">
+  <programme start="20261021134400 +0000" stop="20261021151500 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -6402,7 +6176,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/4hRM_Cmk8vzRU4sLG3TFNxW35iTjvZ2RQem4UEr02UnME9YnPafbBcxw_YkxHpAKHvfHwkJX7h8aq6vEjYRnwzUeD2MnYvfOIz81U5CTpk5Z8ruTcmSwXTg" />
     <title lang="en">Rambo: First Blood</title>
   </programme>
-  <programme start="20261021151500 +0000" stop="20261021173000 +0000" channel="MoviesNow.in">
+  <programme start="20261021151500 +0000" stop="20261021172800 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -6424,7 +6198,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/bhXbQLcXqnnkHE3zX7Igh4IFGY1u7UChETEsGhcbmV_MM_xwnK9HbmDli8y1qFGipmI22U2W3YgJRxBEQh2ehK6vD7dYtJCHyJ5EtuKEzL_qLz6yrCQEs6ZLTQ" />
     <title lang="en">Terminator 2: Judgment Day</title>
   </programme>
-  <programme start="20261021173000 +0000" stop="20261021193000 +0000" channel="MoviesNow.in">
+  <programme start="20261021172800 +0000" stop="20261021192700 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Action</category>
     <credits>
@@ -6453,7 +6227,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/fQ_bUXB_NikLXYLV0dZpj_8owc9Fpzka1cU_GuxPkxuHr7c7HWThBNavEPgZv7CnT5faIsEz6BJ_ArECXNXqYLH5aKVjSZBfx8Kmdf2_uYs0XhjlnFSI6t9pDg" />
     <title lang="en">The Mummy</title>
   </programme>
-  <programme start="20261021193000 +0000" stop="20261021205500 +0000" channel="MoviesNow.in">
+  <programme start="20261021192700 +0000" stop="20261021205400 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -6475,7 +6249,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/O69mkxN5jPWewxQvpPicsIKjx8DUDrKRjxTdq9SzlQFpGypEg0lZ7pcYNj1YeWAGL9vrrsrDSDJo6PggDlcdE5_Z2LbWu5FRsbS2qRtFqFtmxdkpSAXtwPFrblFohg" />
     <title lang="en">Backtrace</title>
   </programme>
-  <programme start="20261021205500 +0000" stop="20261021222600 +0000" channel="MoviesNow.in">
+  <programme start="20261021205400 +0000" stop="20261021222600 +0000" channel="MoviesNow.in">
     <category lang="en">Film</category>
     <category lang="en">Thriller</category>
     <credits>
@@ -7278,298 +7052,61 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
     <title lang="en">Movie</title>
   </programme>
-  <programme start="20261019003000 +0000" stop="20261019021900 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Thriller</category>
-    <credits>
-      <director>Andy Tennant</director>
-      <actor>Jennifer Aniston</actor>
-      <actor>Gerard Butler</actor>
-      <actor>Christine Baranski</actor>
-      <actor>Jason Sudeikis</actor>
-      <actor>Jeff Garlin</actor>
-      <actor>Ritchie Coster</actor>
-      <actor>Cathy Moriarty</actor>
-      <actor>Peter Greene</actor>
-      <actor>Joel Marsh Garland</actor>
-      <actor>Dorian Missick</actor>
-      <actor>Siobhan Fallon</actor>
-      <actor>Carol Kane</actor>
-      <actor>Adam Rose</actor>
-      <actor>Matt Malloy</actor>
-      <actor>Jason Kolotouros</actor>
-      <actor>j Joe Polito</actor>
-      <producer>Neal H. Moritz</producer>
-    </credits>
-    <desc lang="en">Milo is hired to track down his ex-wife, Nicole, for skipping bail. Subsequently, a routine retrieval turns into a deadly game of cat and mouse, forcing them both to go on the run together.</desc>
-    <icon src="https://iptv-epg.org/images/459ywsuih5N5i6EAj6XMCi63hhMlV-tebcepsO8eqDw6mJAny1Y4-oSIHhNm4bB6nhowcrBYMogiPQNMAa0l1_yrJPHdnovIxU5UH0nmwfXgrH_k3Hh_r8YtILyb" />
-    <title lang="en">The Bounty Hunter</title>
+  <programme start="20261024183000 +0000" stop="20261024213000 +0000" channel="MoviesNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
   </programme>
-  <programme start="20261019021900 +0000" stop="20261019040600 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Gary Winick</director>
-      <actor>Amanda Seyfried</actor>
-      <actor>Vanessa Redgrave</actor>
-      <actor>Christopher Egan</actor>
-      <actor>Gael García Bernal</actor>
-      <actor>Franco Nero</actor>
-      <actor>Oliver Platt</actor>
-      <actor>Luisa Ranieri</actor>
-      <actor>Marcia DeBonis</actor>
-      <producer>Caroline Kaplan</producer>
-      <producer>Ellen Barkin</producer>
-      <producer>Mark Canton</producer>
-    </credits>
-    <desc lang="en">Sophie, an aspiring writer assisted by the secretaries of Juliet, sets out to unite Claire with her long-lost love. While on her journey, she finds herself drawn to Claire's grandson.</desc>
-    <icon src="https://iptv-epg.org/images/ITOS07y8_j8GR_xUcM1mrCD48nXu3t85wI5MuLxPoh_xE50fvZ8fRAkzgQLNOQRSTmTn6H-zgai6Khocydr2IG0W2zmsoLlyLfpQbegtKpG-eWx2gESXxg9gBv5S" />
-    <title lang="en">Letters to Juliet</title>
+  <programme start="20261024213000 +0000" stop="20261025003000 +0000" channel="MoviesNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
   </programme>
-  <programme start="20261019040600 +0000" stop="20261019060500 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Rom-Com</category>
-    <credits>
-      <director>Garry Marshall</director>
-      <actor>Halle Berry</actor>
-      <actor>Jessica Biel</actor>
-      <actor>Jon Bon Jovi</actor>
-      <actor>Abigail Breslin</actor>
-      <actor>Ludacris</actor>
-      <actor>Robert De Niro</actor>
-      <actor>Josh Duhamel</actor>
-      <actor>Zac Efron</actor>
-      <actor>Héctor Elizondo</actor>
-      <actor>Katherine Heigl</actor>
-      <actor>Ashton Kutcher</actor>
-      <actor>Seth Meyers</actor>
-      <actor>Lea Michele</actor>
-      <actor>Sarah Jessica Parker</actor>
-      <actor>Michelle Pfeiffer</actor>
-      <actor>Til Schweiger</actor>
-      <actor>Hilary Swank</actor>
-      <actor>Sofía Vergara</actor>
-      <actor>Cary Elwes</actor>
-      <actor>Alyssa Milano</actor>
-      <actor>Common</actor>
-      <actor>Sarah Paulson</actor>
-      <actor>Carla Gugino</actor>
-      <actor>Penny Marshall</actor>
-      <actor>Fiona Choi</actor>
-      <producer>Mike Karz</producer>
-      <producer>Wayne Allan Rice</producer>
-    </credits>
-    <desc lang="en">As the New Year approaches, the eve results in a distinct variety of couples and single people's journeys and stories intertwining.</desc>
-    <icon src="https://iptv-epg.org/images/eKt28BY_BEt4p_Tc_Mq51pG3-7kgH7MVJ5hSUNEbIKFRmbAsRVm5llElrWJ1a99Dt5PDu2YbOFFgtcXZxksQj9G-ejZr69BwBUqf1owrFPQ0WdXa1PjTEZhMWOQ" />
-    <title lang="en">New Year's Eve</title>
+  <programme start="20261025003000 +0000" stop="20261025033000 +0000" channel="MoviesNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
   </programme>
-  <programme start="20261019060500 +0000" stop="20261019080500 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Comedy</category>
-    <credits>
-      <director>Jonathan Levine</director>
-      <actor>Charlize Theron</actor>
-      <actor>Seth Rogen</actor>
-      <actor>June Diane Raphael</actor>
-      <actor>O'Shea Jackson Jr.</actor>
-      <actor>Ravi Patel</actor>
-      <actor>Bob Odenkirk</actor>
-      <actor>Andy Serkis</actor>
-      <actor>Randall Park</actor>
-      <actor>Tristan D. Lalla</actor>
-      <actor>Alexander Skarsgård</actor>
-      <actor>Kurt Braunohler</actor>
-      <actor>Claudia O'Doherty</actor>
-      <actor>Paul Scheer</actor>
-      <actor>Aladeen Tawfeek</actor>
-      <actor>Nathan Morris</actor>
-      <actor>Wanya Morris</actor>
-      <actor>Shawn Stockman</actor>
-      <actor>Isla Dowling</actor>
-      <actor>Aviva Mongillo</actor>
-      <actor>Braxton Herda</actor>
-      <actor>Anton Kovalenko</actor>
-      <actor>Marcel Jeannin</actor>
-      <actor>Lisa Kudrow</actor>
-      <actor>Daniel Rindress-Kay</actor>
-      <actor>Ivan Smith</actor>
-      <actor>Sean Tucker</actor>
-      <actor>Lil Yachty</actor>
-      <actor>Holden Wong</actor>
-      <producer>Charlize Theron</producer>
-      <producer>A.J. Dix</producer>
-      <producer>Beth Kono</producer>
-      <producer>Evan Goldberg</producer>
-      <producer>Seth Rogen</producer>
-      <producer>James Weaver</producer>
-    </credits>
-    <desc lang="en">Fred Flarsky crosses paths with his childhood crush, who is now an influential person. Later, when she hires him as her speechwriter, they fall in love.</desc>
-    <icon src="https://iptv-epg.org/images/0OPI7_JpyXjMg8Tq8T2mksaDQp_DL8Vlw5iQA2yDjzzd3qdOZWDfeiKeIU8ZRioFoH8u4O170AYqryOqqayXSr26STZ-Q-XVxh158glzb8jcRqydxyW5wSWhZ6gkrQ" />
-    <title lang="en">Long Shot</title>
+  <programme start="20261025033000 +0000" stop="20261025063000 +0000" channel="MoviesNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
   </programme>
-  <programme start="20261019080500 +0000" stop="20261019102500 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Michael Patrick King</director>
-      <actor>Sarah Jessica Parker</actor>
-      <actor>Kim Cattrall</actor>
-      <actor>Kristin Davis</actor>
-      <actor>Cynthia Nixon</actor>
-      <actor>Chris Noth</actor>
-      <actor>John Corbett</actor>
-      <actor>David Eigenberg</actor>
-      <actor>Evan Handler</actor>
-      <actor>Jason Lewis</actor>
-      <actor>Mario Cantone</actor>
-      <actor>Willie Garson</actor>
-      <actor>Lynn Cohen</actor>
-      <actor>Penélope Cruz</actor>
-      <actor>Liliana Pizzuto</actor>
-      <producer>Michael Patrick King</producer>
-      <producer>John P. Melfi</producer>
-      <producer>Sarah Jessica Parker</producer>
-      <producer>Darren Star</producer>
-    </credits>
-    <desc lang="en">Carrie, Miranda and Charlotte are tired of dealing with the pressures of life and desire a break. Thus, they join their friend, Samantha, in Abu Dhabi, where her former partner is filming a movie.</desc>
-    <icon src="https://iptv-epg.org/images/5lLFkWYXSTJlYHh_JPSP3x6fF-p1kg4k7p4pjwbr7e0qn2z1RDfzIwTekbm0BX6lGj82mpNG01TwbUKcBwvNtpBPGXh7_Sk42jPApJJgPZpkLfXRWD-Ov5t0RcY" />
-    <title lang="en">Sex and the City 2</title>
+  <programme start="20261025063000 +0000" stop="20261025093000 +0000" channel="MoviesNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
   </programme>
-  <programme start="20261019102500 +0000" stop="20261019120900 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Rom-Com</category>
-    <credits>
-      <director>Judd Apatow</director>
-      <actor>Seth Rogen</actor>
-      <actor>Katherine Heigl</actor>
-      <actor>Paul Rudd</actor>
-      <actor>Leslie Mann</actor>
-      <actor>Jay Baruchel</actor>
-      <actor>Jonah Hill</actor>
-      <actor>Jason Segel</actor>
-      <actor>Martin Starr</actor>
-      <actor>Charlyne Yi</actor>
-      <actor>Iris Apatow</actor>
-      <actor>Maude Apatow</actor>
-      <actor>Joanna Kerns</actor>
-      <actor>Harold Ramis</actor>
-      <actor>Alan Tudyk</actor>
-      <actor>Kristen Wiig</actor>
-      <actor>Bill Hader</actor>
-      <actor>Ken Jeong</actor>
-      <actor>Loudon Wainwright</actor>
-      <actor>Tim Bagley</actor>
-      <actor>Mo Collins</actor>
-      <actor>B.J. Novak</actor>
-      <producer>Judd Apatow</producer>
-      <producer>Shauna Robertson</producer>
-      <producer>Clayton Townsend</producer>
-    </credits>
-    <desc lang="en">Alison, an ambitious television reporter, has a one-night stand with Ben, an immature loafer. When Alison gets pregnant as a result, the two attempt to stay together and have the child.</desc>
-    <icon src="https://iptv-epg.org/images/5nVtkan-yhhTs4WtPoH1i_kFgGHRxAN_FQ3OZRDpdDKl7TF2LatEESwQOD4bkEnixyORmINnj6WJNudDF_vNPz7HAyIWijgaRGZeV6ea727MSTR4noh8po4s5V4" />
-    <title lang="en">Knocked Up</title>
+  <programme start="20261025093000 +0000" stop="20261025123000 +0000" channel="MoviesNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
   </programme>
-  <programme start="20261019120900 +0000" stop="20261019135900 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Fantasy</category>
-    <credits>
-      <director>Adam Shankman</director>
-      <actor>Taraji P. Henson</actor>
-      <actor>Tracy Morgan</actor>
-      <actor>Aldis Hodge</actor>
-      <actor>Wendi McLendon-Covey</actor>
-      <actor>Tamala Jones</actor>
-      <actor>Phoebe Robinson</actor>
-      <actor>Kristen Ledlow</actor>
-      <actor>Josh Brener</actor>
-      <actor>Kellan Lutz</actor>
-      <actor>Mathias Alvarez</actor>
-      <actor>Chris Witaske</actor>
-      <actor>Max Greenfield</actor>
-      <actor>Brian Bosworth</actor>
-      <actor>Paul B. Johnson</actor>
-      <actor>Erykah Badu</actor>
-      <actor>Richard Roundtree</actor>
-      <actor>Auston Jon Moore</actor>
-      <actor>Shaquille O'Neal</actor>
-      <actor>Mark Cuban</actor>
-      <producer>Will Packer</producer>
-      <producer>James Lopez</producer>
-    </credits>
-    <desc lang="en">Magically able to hear what men are thinking, a sports agent uses her new-found ability to turn the tables on her obnoxious male colleagues while working to sign the next basketball superstar.</desc>
-    <icon src="https://iptv-epg.org/images/iaHC8yPWhGaIk50EOQu6wSaXcr3ed3XBvY4OTfgPde-cMk7CB4Z1KjnB69_XBkR5lKmZvxdyQjdlGZUulhbOvlmgsBaDrKnU9-mYBzolDn2i9chsyeOqFuePd3n5aA" />
-    <title lang="en">What Men Want</title>
+  <programme start="20261025123000 +0000" stop="20261025153000 +0000" channel="MoviesNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
   </programme>
-  <programme start="20261019135900 +0000" stop="20261019153000 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Rom-Com</category>
-    <credits>
-      <director>Peter Howitt</director>
-      <actor>Pierce Brosnan</actor>
-      <actor>Julianne Moore</actor>
-      <actor>Michael Sheen</actor>
-      <actor>Parker Posey</actor>
-      <actor>Frances Fisher</actor>
-      <actor>Nora Dunn</actor>
-      <actor>Sara Gilbert</actor>
-      <actor>Mike Doyle</actor>
-      <producer>Marc Turtletaub</producer>
-      <producer>Beau St. Clair</producer>
-      <producer>Julie Durk</producer>
-      <producer>David Bergstein</producer>
-    </credits>
-    <desc lang="en">New-York based lawyers Audrey and Daniel, who often compete against each other, get married. However, they find it difficult to learn to draw lines between their personal and professional lives.</desc>
-    <icon src="https://iptv-epg.org/images/NrZA7fZ30W4U3LNmqDP47Ks15sdN8IVHzaAB8HNMO4yZ6rzwjwGX4Bu9y466IKpXcoz2EvS_8LoSG8ywodqoQ12P5jaKP8bnrUFBoN_4TBoQwfDOPVwzSkABQg" />
-    <title lang="en">Laws of Attraction</title>
-  </programme>
-  <programme start="20261019153000 +0000" stop="20261019171800 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Drama</category>
-    <credits>
-      <director>Peyton Reed</director>
-      <actor>Vince Vaughn</actor>
-      <actor>Jennifer Aniston</actor>
-      <actor>Joey Lauren Adams</actor>
-      <actor>Cole Hauser</actor>
-      <actor>Jon Favreau</actor>
-      <actor>Jason Bateman</actor>
-      <actor>Judy Davis</actor>
-      <actor>Justin Long</actor>
-      <actor>Ivan Sergei</actor>
-      <actor>John Michael Higgins</actor>
-      <actor>Ann-Margret</actor>
-      <actor>Brad Nelson</actor>
-      <actor>Keir O'Donnell</actor>
-      <actor>Peter Billingsley</actor>
-      <actor>Geoff Stults</actor>
-      <producer>Vince Vaughn</producer>
-      <producer>Scott Stuber</producer>
-    </credits>
-    <desc lang="en">Brooke, an art dealer, feels unappreciated and neglected by her boyfriend, Gary. The couple breaks up, but neither wants to move out of the luxurious condo, thus leading to endless squabbles.</desc>
-    <icon src="https://iptv-epg.org/images/TVMv9Ppk4lmodS8wxWwPvzqodDXGORC44VaDGMmcQicnN_wk53SSA1SFhU14p22-5uN4Y9015PZT8fCbMzHQuOCQ3Lp8Kk7hg5cH8Cyvauj5N-Rz00WW8LcGlmg" />
-    <title lang="en">The Break-Up</title>
-  </programme>
-  <programme start="20261019171800 +0000" stop="20261019185400 +0000" channel="RomedyNow.in">
-    <category lang="en">Film</category>
-    <category lang="en">Romance</category>
-    <credits>
-      <director>Tom Dey</director>
-      <actor>Matthew McConaughey</actor>
-      <actor>Sarah Jessica Parker</actor>
-      <actor>Zooey Deschanel</actor>
-      <actor>Justin Bartha</actor>
-      <actor>Bradley Cooper</actor>
-      <actor>Terry Bradshaw</actor>
-      <actor>Kathy Bates</actor>
-      <actor>Adam Alexi-Malle</actor>
-      <actor>Katheryn Winnick</actor>
-      <actor>Tyrel Jackson Williams</actor>
-      <producer>Scott Rudin</producer>
-      <producer>Scott Aversano</producer>
-    </credits>
-    <desc lang="en">A man in his thirties still lives with his parents, who hire an interventionist to help him move out, leading to unexpected and amusing situations.</desc>
-    <icon src="https://iptv-epg.org/images/zbXlg25Z7o4cPsqi7QVy0heQFAE7FdOqhemWeqD4ARjo7ReZyj4c_7aBj1Mm0Ya23gBglyk-3NuEt4CmcIp969_SfcNqSD5yd7ux3GWinHdl-vO0ww8HQ10sUcc" />
-    <title lang="en">Failure to Launch</title>
+  <programme start="20261025153000 +0000" stop="20261025183000 +0000" channel="MoviesNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
   </programme>
   <programme start="20261019185400 +0000" stop="20261019203000 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
@@ -7645,7 +7182,7 @@ The host invites prominent personalities and engages them in candid conversation
     <title lang="en">The Love Laugh Live Show</title>
     <live />
   </programme>
-  <programme start="20261019232400 +0000" stop="20261020010600 +0000" channel="RomedyNow.in">
+  <programme start="20261019232400 +0000" stop="20261020010700 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Comedy</category>
     <credits>
@@ -7667,7 +7204,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/oOmYD2y0VboYJTpb6AG9RN9GGAZd51u2-as3LT2e_ony1aRwr1iz5lIJLYDz8zTD2tb4gadVLhR6ElsYaKiRBGF_tZMg22z7gKSAMjhKJXec7nM8erbvhgHX5RKmxQ" />
     <title lang="en">Zoey's Extraordinary Christmas</title>
   </programme>
-  <programme start="20261020010600 +0000" stop="20261020023800 +0000" channel="RomedyNow.in">
+  <programme start="20261020010700 +0000" stop="20261020023800 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Comedy</category>
     <credits>
@@ -7689,7 +7226,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/fz4rvNKc44h8IKmY3z5bVwO87BkV0_z0yh-0D4MdtGTVcmazqF4MMPGMTHKYJ5YiYZXe7x98LBPdyeJM8xbbnzIFccS_HCKG_UjlC-loptFf0qP6w-vCu4SWSQ" />
     <title lang="en">Carpool</title>
   </programme>
-  <programme start="20261020023800 +0000" stop="20261020041800 +0000" channel="RomedyNow.in">
+  <programme start="20261020023800 +0000" stop="20261020041900 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Fantasy</category>
     <credits>
@@ -7711,7 +7248,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/_DTeSnZyNNFWPKRN4DdfqgSYGF-A4cVaSwiiv2Lk3UOmh5762A35-Ou272EskcTIW4x6O3T8RVJaVc8R9IjZjX0cK6x7Cwnn4eAIsC0_Wfu4E0Kvmqy3clOayvM" />
     <title lang="en">The Lake House</title>
   </programme>
-  <programme start="20261020041800 +0000" stop="20261020060900 +0000" channel="RomedyNow.in">
+  <programme start="20261020041900 +0000" stop="20261020060900 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Comedy</category>
     <credits>
@@ -7738,7 +7275,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/b-jUhnbsdYhhcCLkJijF_DJn-CpRpAxNLQ_CjHncCc_ohyokh4ZlChI9xMlaSauE_S5Z40IfbV8I5ozy9fBUTSa08jvgopN5uVscUjc2e2fwT82n1U8fS5l8fgWdKQ" />
     <title lang="en">Almost Christmas</title>
   </programme>
-  <programme start="20261020060900 +0000" stop="20261020080200 +0000" channel="RomedyNow.in">
+  <programme start="20261020060900 +0000" stop="20261020080300 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Rom-Com</category>
     <credits>
@@ -7767,7 +7304,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/apWUPgp42zuwPrG3yhknFx6nwSK3Euif1m6qIv3PtUlptXzJed4gblTL4YiaAXj8rkSWoa3eLRsTVp-EJ7bKK3mhkG7fyNAestEUNfGPGDzF4TrSoFMLAg-zIvHH" />
     <title lang="en">It's Complicated</title>
   </programme>
-  <programme start="20261020080200 +0000" stop="20261020095600 +0000" channel="RomedyNow.in">
+  <programme start="20261020080300 +0000" stop="20261020095700 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Romance</category>
     <credits>
@@ -7790,7 +7327,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/cmczTbUn_AIDWiNlwwpoPG9mmc74CxJnpodbw7v3qmYX2LoHMzlbCc7mLBgzPuZBihPWyZRBzmJC-f6SMjBpjocCdGOtvaxqNQfxD0N9QvK-j9jw99MRl2oG" />
     <title lang="en">The Notebook</title>
   </programme>
-  <programme start="20261020095600 +0000" stop="20261020114400 +0000" channel="RomedyNow.in">
+  <programme start="20261020095700 +0000" stop="20261020114500 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Musical</category>
     <credits>
@@ -7816,7 +7353,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/MNlmtWooe4M9jAq93U8WKcy64ohHls5TvCoWFvRFWE1nghPYBIdAfVZL5cn73_KcA0LMSWqMVoDxyX6g14Fub__kuWurcj-JzHX-ZFR8inPG2dk_PATQ0HO5K3I" />
     <title lang="en">Mamma Mia!</title>
   </programme>
-  <programme start="20261020114400 +0000" stop="20261020133400 +0000" channel="RomedyNow.in">
+  <programme start="20261020114500 +0000" stop="20261020133400 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Rom-Com</category>
     <credits>
@@ -8335,7 +7872,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/44sAWtMG73NzMhbm1GheTyux5gcgaRrpO2rkH0VEnHi9mS7ya_ALv6tnl2gmBdEiIvmvR-pFoTzQAjZIcpQ2Wok6uWIbicusfdxYLVGXcvyzakVWLsOB4CecQsoKvg" />
     <title lang="en">Mune</title>
   </programme>
-  <programme start="20261021202000 +0000" stop="20261021214000 +0000" channel="RomedyNow.in">
+  <programme start="20261021202000 +0000" stop="20261021215000 +0000" channel="RomedyNow.in">
     <category lang="en">Film</category>
     <category lang="en">Comedy</category>
     <credits>
@@ -8357,7 +7894,7 @@ The host invites prominent personalities and engages them in candid conversation
     <icon src="https://iptv-epg.org/images/oOmYD2y0VboYJTpb6AG9RN9GGAZd51u2-as3LT2e_ony1aRwr1iz5lIJLYDz8zTD2tb4gadVLhR6ElsYaKiRBGF_tZMg22z7gKSAMjhKJXec7nM8erbvhgHX5RKmxQ" />
     <title lang="en">Zoey's Extraordinary Christmas</title>
   </programme>
-  <programme start="20261021214000 +0000" stop="20261021222000 +0000" channel="RomedyNow.in">
+  <programme start="20261021215000 +0000" stop="20261021222500 +0000" channel="RomedyNow.in">
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <credits>
@@ -8369,7 +7906,7 @@ The host invites prominent personalities and engages them in candid conversation
     <title lang="en">Mandira Bedi; The Love Laugh Live Show</title>
     <live />
   </programme>
-  <programme start="20261021222000 +0000" stop="20261021230000 +0000" channel="RomedyNow.in">
+  <programme start="20261021222500 +0000" stop="20261021230000 +0000" channel="RomedyNow.in">
     <category lang="en">Sports</category>
     <category lang="en">Talk Show</category>
     <credits>
@@ -9153,6 +8690,125 @@ The host invites prominent personalities and engages them in candid conversation
     <title lang="en">Movie</title>
   </programme>
   <programme start="20261024170800 +0000" stop="20261024184400 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261024184400 +0000" stop="20261024202300 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261024202300 +0000" stop="20261024215500 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261024215500 +0000" stop="20261024222000 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <credits>
+      <director>Guy Handelman</director>
+      <director>Martin Saint Charles</director>
+    </credits>
+    <desc lang="en">The key aspects of filmmaking are explored, with behind-the-scenes insights and intriguing interviews with prominent cast and crew members.</desc>
+    <icon src="https://iptv-epg.org/images/E0mBfZ2LfaUt5hjtI_JySZQzE5yvoZhGK4LI5SeiK7GvFqO4rScZ3994dGJW7Hym50O800l9_Vs50S1Z3hPiO2SU89AHNgtybS5mZ79OOebk3tWSmdbRmvsYwQ" />
+    <title lang="en">Hollywood on Set</title>
+  </programme>
+  <programme start="20261024222000 +0000" stop="20261024223700 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <credits>
+      <actor>Ensemble Cast</actor>
+    </credits>
+    <desc lang="en">Talented directors provide an entertaining insight into the most intriguing stories and anecdotes concerning some of their best works.</desc>
+    <icon src="https://iptv-epg.org/images/MyJ9hmZPIHukgYJjj7SzQt10-prh5ctOzPqrPA_8e2w-NgVXGPKshNCamxcQc1jr6zHukQG8V5FUFcJ2ZBh2Ed2TY5LvtAEGp4lTGdU6DQusd8Gg1vgkgHE0TC7GFg" />
+    <title lang="en">DSC</title>
+  </programme>
+  <programme start="20261024223700 +0000" stop="20261025001800 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025001800 +0000" stop="20261025014300 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025014300 +0000" stop="20261025033700 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025033700 +0000" stop="20261025052400 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025052400 +0000" stop="20261025070800 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025070800 +0000" stop="20261025084000 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025084000 +0000" stop="20261025101100 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025101100 +0000" stop="20261025115000 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025115000 +0000" stop="20261025134400 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025134400 +0000" stop="20261025153000 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025153000 +0000" stop="20261025172900 +0000" channel="RomedyNow.in">
+    <category lang="en">TV Show</category>
+    <category lang="en">Entertainment</category>
+    <desc lang="en">Bringing the best in television.</desc>
+    <icon src="https://iptv-epg.org/images/KKFt18z3vNc0QpXkmCsUoYA-Voe5JQzDVFabvdggwSzDIWbVKk1vwiLfb1twMuK1ML17XrOHcz0gm2LRpIBrwiicqsj26gtFO3pIZ-OXFkP4DIeSA0z0Wk1qF6Q" />
+    <title lang="en">Movie</title>
+  </programme>
+  <programme start="20261025172900 +0000" stop="20261025190700 +0000" channel="RomedyNow.in">
     <category lang="en">TV Show</category>
     <category lang="en">Entertainment</category>
     <desc lang="en">Bringing the best in television.</desc>
@@ -99388,77 +99044,6 @@ From moon landings and movie props to space junk and sci-fi treasures, Mike show
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20261020025000 +0000" stop="20261020051100 +0000">
-    <title>Hunter Killer</title>
-    <live />
-    <episode-num system="original-air-date">20261020025000 +0000</episode-num>
-    <desc>American submarine Capt. Joe Glass learns that a secret Russian coup is in the offing. With crew and country on the line, Glass must assemble an elite group of Navy SEALs to sneak through enemy waters and rescue the kidnapped Russian president.</desc>
-    <icon src="https://images.pluto.tv/series/695fc6bbb9f75c652f01f855/tile_1767888348065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">695fc6bbb9f75c652f01f855</series-id>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261020051100 +0000" stop="20261020060200 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261020051100 +0000</episode-num>
-    <desc>During a routine traffic stop, Gail and Andy find a teenage boy bound and gagged in the trunk of a car; Oliver, Chris and Swarek track a gunman.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>The Kids Are Not Alright</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261020060200 +0000" stop="20261020065300 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261020060200 +0000</episode-num>
-    <desc>When an arrest reveals that drugs contaminated with deadly bacteria have hit the street, the squad rushes to control the situation; Marlo reveals a shocking secret; Dov suspects Chloe of hiding secrets.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Poison Pill</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261020065300 +0000" stop="20261020074400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261020065300 +0000</episode-num>
-    <desc>When the investigation of a missing girl is linked to a past case, Detective Luke Callaghan comes back to help with search; Traci realizes she needs to get past Jerry's death; Sam and Andy face their past.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Skeletons</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261020074400 +0000" stop="20261020083500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261020074400 +0000</episode-num>
-    <desc>When a missing persons case is reopened, Swarek teams with his training officer to solve it; Chloe and Dov deal with a witch and her client.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Friday the 13th</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261020083500 +0000" stop="20261020092500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261020083500 +0000</episode-num>
-    <desc>A robbery on a casino-bound bus filled with seniors threatens Frank and Noelle's wedding; Traci loses Noelle; Andy and Nick share an intimate moment.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>For Better, For Worse</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20261020092500 +0000" stop="20261020101600 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -99468,8 +99053,8 @@ From moon landings and movie props to space junk and sci-fi treasures, Mike show
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>What I Lost</sub-title>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261020101600 +0000" stop="20261020110800 +0000">
     <title>Rookie Blue</title>
@@ -99480,8 +99065,8 @@ From moon landings and movie props to space junk and sci-fi treasures, Mike show
     <date>19700101</date>
     <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
     <sub-title>You Are Here</sub-title>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261020110800 +0000" stop="20261020125700 +0000">
     <title>Amityville 3-D</title>
@@ -99491,8 +99076,8 @@ From moon landings and movie props to space junk and sci-fi treasures, Mike show
     <icon src="https://images.pluto.tv/series/66f20f42b99f850013a809d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66f20f42b99f850013a809d3</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261020125700 +0000" stop="20261020144600 +0000">
     <title>The Woman in Black</title>
@@ -99502,8 +99087,8 @@ From moon landings and movie props to space junk and sci-fi treasures, Mike show
     <icon src="https://images.pluto.tv/series/6abd9497e92f473633c8aad8/tile_1790809240173.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6abd9497e92f473633c8aad8</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261020144600 +0000" stop="20261020164100 +0000">
     <title>The Woman in Black 2: Angel of Death</title>
@@ -99513,8 +99098,8 @@ From moon landings and movie props to space junk and sci-fi treasures, Mike show
     <icon src="https://images.pluto.tv/series/6abd9497e92f473633c8ab67/tile_1790809240329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6abd9497e92f473633c8ab67</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261020164100 +0000" stop="20261020183000 +0000">
     <title>Amityville 3-D</title>
@@ -99524,8 +99109,8 @@ From moon landings and movie props to space junk and sci-fi treasures, Mike show
     <icon src="https://images.pluto.tv/series/66f20f42b99f850013a809d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66f20f42b99f850013a809d3</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261020183000 +0000" stop="20261020201900 +0000">
     <title>The Woman in Black</title>
@@ -99535,8 +99120,52 @@ From moon landings and movie props to space junk and sci-fi treasures, Mike show
     <icon src="https://images.pluto.tv/series/6abd9497e92f473633c8aad8/tile_1790809240173.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6abd9497e92f473633c8aad8</series-id>
-    <category>Series</category>
     <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261020201900 +0000" stop="20261020221400 +0000">
+    <title>The Woman in Black 2: Angel of Death</title>
+    <live />
+    <episode-num system="original-air-date">20261020201900 +0000</episode-num>
+    <desc>Forty years after Arthur Kipps investigated the first haunting, two teachers and some refugee children take shelter in Eel Marsh House, awakening the dark spirit that lurks there.</desc>
+    <icon src="https://images.pluto.tv/series/6abd9497e92f473633c8ab67/tile_1790809240329.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6abd9497e92f473633c8ab67</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261020221400 +0000" stop="20261021001000 +0000">
+    <title>Amityville II: The Possession</title>
+    <live />
+    <episode-num system="original-air-date">20261020221400 +0000</episode-num>
+    <desc>A priest tries to exorcize a couple's the oldest son in their Long Island home.</desc>
+    <icon src="https://images.pluto.tv/series/6abd9497e92f473633c8ac2a/tile_1790809241415.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6abd9497e92f473633c8ac2a</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261021001000 +0000" stop="20261021020000 +0000">
+    <title>Amityville 3-D</title>
+    <live />
+    <episode-num system="original-air-date">20261021001000 +0000</episode-num>
+    <desc>A reporter's (Tony Roberts) wife (Tess Harper) and a psychic (Robert Joy) try to warn him, but he insists on buying a haunted house.</desc>
+    <icon src="https://images.pluto.tv/series/66f20f42b99f850013a809d3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66f20f42b99f850013a809d3</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261021020000 +0000" stop="20261021034900 +0000">
+    <title>The Woman in Black</title>
+    <live />
+    <episode-num system="original-air-date">20261021020000 +0000</episode-num>
+    <desc>A widowed lawyer (Daniel Radcliffe) encounters ghostly goings-on at the foreboding estate of a recently deceased client.</desc>
+    <icon src="https://images.pluto.tv/series/6abd9497e92f473633c8aad8/tile_1790809240173.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6abd9497e92f473633c8aad8</series-id>
+    <category>Entertainment</category>
+    <category>Series</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
