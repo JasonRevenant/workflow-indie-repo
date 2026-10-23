@@ -1256,20 +1256,6 @@
 <channel id="MTV HD.in"><display-name>MTV HD.in</display-name></channel>
 <channel id="National Geographic HD.in"><display-name>National Geographic HD.in</display-name></channel>
 <channel id="SONY PIX HD.in"><display-name>SONY PIX HD.in</display-name></channel>
-<programme start="20261021190000 +0000" stop="20261021203000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Simran enters the 'Paisa Villa' as a competitive game puts vulnerable players at risk.</desc><episode-num system="xmltv_ns">15.4.</episode-num></programme>
-<programme start="20261021203000 +0000" stop="20261021210000 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.3.</episode-num></programme>
-<programme start="20261021210000 +0000" stop="20261021233000 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc><episode-num system="xmltv_ns">4.4.</episode-num></programme>
-<programme start="20261021233000 +0000" stop="20261022003000 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc><episode-num system="xmltv_ns">0.4.</episode-num></programme>
-<programme start="20261022003000 +0000" stop="20261022053000 +0000" channel="MTV HD.in"><title>Pump Up Mornings</title><desc>A comprehensive compilation of energetic songs performed by various artists.</desc></programme>
-<programme start="20261022053000 +0000" stop="20261022071500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
-<programme start="20261022071500 +0000" stop="20261022081500 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>An alliance gets formed between Kashish Thakur, Honey Kamboj and Justin D'Cruz.</desc><episode-num system="xmltv_ns">13.5.</episode-num></programme>
-<programme start="20261022081500 +0000" stop="20261022095000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>he Mischief Maker exploits the division among the Splitsvillains in the dome session.</desc><episode-num system="xmltv_ns">14.25.</episode-num></programme>
-<programme start="20261022095000 +0000" stop="20261022120000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
-<programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>During the dome session, Kashish Thakur and Aagaz Akhtar engage in a messy spat.</desc><episode-num system="xmltv_ns">13.6.</episode-num></programme>
-<programme start="20261022130000 +0000" stop="20261022150000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
-<programme start="20261022150000 +0000" stop="20261022162000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Sweet's elimination causes tensions for Anika and Akriti's friendship.</desc><episode-num system="xmltv_ns">14.26.</episode-num></programme>
-<programme start="20261022162000 +0000" stop="20261022171500 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Aradhana Verma's decision to side with Joshua Chhabra makes Aagaz Akhtar furious.</desc><episode-num system="xmltv_ns">13.7.</episode-num></programme>
-<programme start="20261022171500 +0000" stop="20261022190000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
 <programme start="20261022190000 +0000" stop="20261022203000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc><episode-num system="xmltv_ns">15.5.</episode-num></programme>
 <programme start="20261022203000 +0000" stop="20261022210000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Simran enters the 'Paisa Villa' as a competitive game puts vulnerable players at risk.</desc><episode-num system="xmltv_ns">15.4.</episode-num></programme>
 <programme start="20261022210000 +0000" stop="20261022224500 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc><episode-num system="xmltv_ns">4.5.</episode-num></programme>
@@ -1286,12 +1272,26 @@
 <programme start="20261023151000 +0000" stop="20261023160000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Uorfi Javed calls out Rishabh Jaiswal for his inappropriate behaviour with her.</desc><episode-num system="xmltv_ns">13.8.</episode-num></programme>
 <programme start="20261023160000 +0000" stop="20261023174500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.2.</episode-num></programme>
 <programme start="20261023174500 +0000" stop="20261023195000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc><episode-num system="xmltv_ns">15.6.</episode-num></programme>
-<programme start="20261023195000 +0000" stop="20261023214500 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc></programme>
-<programme start="20261023214500 +0000" stop="20261023223000 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc></programme>
-<programme start="20261023223000 +0000" stop="20261023233000 +0000" channel="MTV HD.in"><title>Roadies</title><desc>Participants from different parts of the country compete with each other to win the prize.</desc></programme>
-<programme start="20261023233000 +0000" stop="20261024003000 +0000" channel="MTV HD.in"><title>Roadies</title><desc>Participants from different parts of the country compete with each other to win the prize.</desc></programme>
+<programme start="20261023195000 +0000" stop="20261023202000 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.5.</episode-num></programme>
+<programme start="20261023202000 +0000" stop="20261023220000 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc><episode-num system="xmltv_ns">4.6.</episode-num></programme>
+<programme start="20261023220000 +0000" stop="20261023224500 +0000" channel="MTV HD.in"><title>Anything For Love</title><desc>The host invites participants on stage to perform tasks that test their relationships.</desc><episode-num system="xmltv_ns">0.5.</episode-num></programme>
+<programme start="20261023224500 +0000" stop="20261024003000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.0.</episode-num></programme>
 <programme start="20261024003000 +0000" stop="20261024053000 +0000" channel="MTV HD.in"><title>Pump Up Mornings</title><desc>A comprehensive compilation of energetic songs performed by various artists.</desc></programme>
-<programme start="20261024053000 +0000" stop="20261024080000 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc></programme>
+<programme start="20261024053000 +0000" stop="20261024071500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261024071500 +0000" stop="20261024081500 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc></programme>
+<programme start="20261024081500 +0000" stop="20261024094000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc></programme>
+<programme start="20261024094000 +0000" stop="20261024113000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261024113000 +0000" stop="20261024123000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc></programme>
+<programme start="20261024123000 +0000" stop="20261024133000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc></programme>
+<programme start="20261024133000 +0000" stop="20261024151000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261024151000 +0000" stop="20261024160000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc></programme>
+<programme start="20261024160000 +0000" stop="20261024174500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261024174500 +0000" stop="20261024200000 +0000" channel="MTV HD.in"><title>Splitsvilla</title><desc>Young men and women go through obstacles and intense heartbreaks to find their perfect partner.</desc><episode-num system="xmltv_ns">15.8.</episode-num></programme>
+<programme start="20261024200000 +0000" stop="20261024203000 +0000" channel="MTV HD.in"><title>Splitsvilla X6 Behind the Villa</title><desc>Peek behind the curtain at Splitsvilla contestants' candid moments and backstage drama.</desc><episode-num system="xmltv_ns">15.0.</episode-num></programme>
+<programme start="20261024203000 +0000" stop="20261024224500 +0000" channel="MTV HD.in"><title>Hustle</title><desc>Aspiring rappers from across the country compete in challenges to showcase their skills.</desc><episode-num system="xmltv_ns">4.0.</episode-num></programme>
+<programme start="20261024224500 +0000" stop="20261025003000 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
+<programme start="20261025003000 +0000" stop="20261025053000 +0000" channel="MTV HD.in"><title>Pump Up Mornings</title><desc>A comprehensive compilation of energetic songs performed by various artists.</desc></programme>
+<programme start="20261025053000 +0000" stop="20261025071500 +0000" channel="MTV HD.in"><title>Roadies Rebirth</title><desc>Six Gang Leaders and two gangs compete in an intense OGs versus NewGs battle.</desc><episode-num system="xmltv_ns">0.1.</episode-num></programme>
 <channel id="Colors.in">
     <display-name>IN - Colors</display-name>
     <icon src="https://iptv-epg.org/images/mWeb0YEgX-t00Xy_vRD4qb0MTogt0WkcmUoxMi6gV7C0iYmRaTls9aosy6REsCA8_uzIHxsVhs1rFAoSne3I0fCJtv3HJUaZIAe9CcCd" />
@@ -91903,89 +91903,6 @@ Did ocean scientists discover an unknown life form? Is blurry video of a mysteri
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20261023022300 +0000" stop="20261023041900 +0000">
-    <title>Shotgun Wedding</title>
-    <live />
-    <episode-num system="original-air-date">20261023022300 +0000</episode-num>
-    <desc>A meddling mother does what she can to ensure a wedding takes place after her son accidentally shoots his bride's maid of honor in the face.</desc>
-    <icon src="https://images.pluto.tv/series/6ac86e14da71d9a75f7ef018/tile_1791520277252.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6ac86e14da71d9a75f7ef018</series-id>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261023041900 +0000" stop="20261023051000 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261023041900 +0000</episode-num>
-    <desc>When a car bomb explodes in a downtown parking garage, a newly reinstated Duncan goes rogue in an effort to prove himself.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Fragments</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261023051000 +0000" stop="20261023060100 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261023051000 +0000</episode-num>
-    <desc>The officers of Division 15 work to track down Ted McDonald; but even after catching him, they realize Ted has more targets set to explode out there.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Everlasting</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261023060100 +0000" stop="20261023065200 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261023060100 +0000</episode-num>
-    <desc>Andy and Sam return to work; Andy is attacked at Traci's apartment and the Sex Crimes Unit tries to take over the case.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Open Windows</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261023065200 +0000" stop="20261023074300 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261023065200 +0000</episode-num>
-    <desc>Andy contemplates her future with Sam after learning of heartbreaking news; she meets a teenager in need of protection.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Perfect Family</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261023074300 +0000" stop="20261023083400 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261023074300 +0000</episode-num>
-    <desc>A riot erupts at an over-capacity women's correctional facility while Andy, Juliet, Nick and Gail transfer inmates; a dangerous prisoner tries to prove her innocence to a trapped Andy and Juliet.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Uprising</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261023083400 +0000" stop="20261023092500 +0000">
-    <title>Rookie Blue</title>
-    <live />
-    <episode-num system="original-air-date">20261023083400 +0000</episode-num>
-    <desc>Nick receives information on his tragic past and goes off the grid to track someone down; he is forced to tell Juliet about his secrets.</desc>
-    <icon src="https://images.pluto.tv/series/69bc80355791ba8c1320d6fa/tile_1773961269947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69bc80355791ba8c1320d6fa</series-id>
-    <sub-title>Letting Go</sub-title>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20261023092500 +0000" stop="20261023101600 +0000">
     <title>Rookie Blue</title>
     <live />
@@ -92050,6 +91967,50 @@ Did ocean scientists discover an unknown life form? Is blurry video of a mysteri
     <icon src="https://images.pluto.tv/series/67111fa4af99a50013ba9b0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67111fa4af99a50013ba9b0c</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261023201200 +0000" stop="20261023221400 +0000">
+    <title>Rob Zombie's Halloween</title>
+    <live />
+    <episode-num system="original-air-date">20261023201200 +0000</episode-num>
+    <desc>After being committed for 15 years, Michael Myers escapes from the mental institution and immediately returns to Haddonfield to find his baby sister, Laurie.</desc>
+    <icon src="https://images.pluto.tv/series/6a737a4dde5e7239402897f8/tile_1785952846620.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a737a4dde5e7239402897f8</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261023221400 +0000" stop="20261023235700 +0000">
+    <title>House of 1000 Corpses</title>
+    <live />
+    <episode-num system="original-air-date">20261023221400 +0000</episode-num>
+    <desc>Four travelers take refuge in the home of a clan of demented killers. Written and directed by musician Rob Zombie.</desc>
+    <icon src="https://images.pluto.tv/series/691eb5dc232b4e31aa1f59c4/tile_1763620319747.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">691eb5dc232b4e31aa1f59c4</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261023235700 +0000" stop="20261024015000 +0000">
+    <title>The Devil's Rejects</title>
+    <live />
+    <episode-num system="original-air-date">20261023235700 +0000</episode-num>
+    <desc>A vengeful sheriff and two bounty hunters track a murderous family (Sid Haig, Bill Moseley, Sheri Moon Zombie) on the run.</desc>
+    <icon src="https://images.pluto.tv/series/691eb5dd232b4e31aa1f5a44/tile_1763620323278.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">691eb5dd232b4e31aa1f5a44</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261024015000 +0000" stop="20261024040300 +0000">
+    <title>3 From Hell</title>
+    <live />
+    <episode-num system="original-air-date">20261024015000 +0000</episode-num>
+    <desc>Crazed killers Baby Firefly, Captain Spaulding and Otis Driftwood unleash bloody mayhem after escaping from prison.</desc>
+    <icon src="https://images.pluto.tv/series/6a737a50de5e72394028c4da/tile_1785952849301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6a737a50de5e72394028c4da</series-id>
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
