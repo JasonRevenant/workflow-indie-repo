@@ -193,7 +193,7 @@ laffmore.us
 laff.us
 400000067
 metvtoons.us
-mtv-musictelevision.us
+mtv.us
 mtv.uk
 mtv2.us
 muchmusic.ca
