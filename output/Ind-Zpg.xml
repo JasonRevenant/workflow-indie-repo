@@ -99203,39 +99203,6 @@ In the ancient Burnt City of Shahre Sukhteh, Iran, archaeologists uncovered a re
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20261030042000 +0000" stop="20261030062000 +0000">
-    <title>Freaky Tales</title>
-    <live />
-    <episode-num system="original-air-date">20261030042000 +0000</episode-num>
-    <desc>An NBA star, a corrupt cop, a female rap duo, teenage punks, neo-Nazis and a debt collector embark on a collision course in 1987 Oakland, Calif.</desc>
-    <icon src="https://images.pluto.tv/series/6ad2a5c47102b85b828ec3e9/tile_1792189893393.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6ad2a5c47102b85b828ec3e9</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261030062000 +0000" stop="20261030082200 +0000">
-    <title>Boo! A Madea Halloween</title>
-    <live />
-    <episode-num system="original-air-date">20261030062000 +0000</episode-num>
-    <desc>Cranky, fast-talking Madea finds herself under attack from ghosts, ghouls and zombies after breaking up a fraternity's Halloween party.</desc>
-    <icon src="https://images.pluto.tv/series/66f20f41b99f850013a803eb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">66f20f41b99f850013a803eb</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261030082200 +0000" stop="20261030102100 +0000">
-    <title>Tyler Perry's Boo 2! A Madea Halloween</title>
-    <live />
-    <episode-num system="original-air-date">20261030082200 +0000</episode-num>
-    <desc>Madea, Aunt Bam and Hattie journey into the woods to prevent Tiffany from attending a Halloween frat party. Chaos soon strikes when the would-be heroes find themselves fighting for their lives against an array of monsters, goblins and boogeymen.</desc>
-    <icon src="https://images.pluto.tv/series/67111fa4af99a50013ba9b0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">67111fa4af99a50013ba9b0c</series-id>
-    <category>Entertainment</category>
-    <category>Series</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20261030102100 +0000" stop="20261030122200 +0000">
     <title>Freaky Tales</title>
     <live />
@@ -99244,8 +99211,8 @@ In the ancient Burnt City of Shahre Sukhteh, Iran, archaeologists uncovered a re
     <icon src="https://images.pluto.tv/series/6ad2a5c47102b85b828ec3e9/tile_1792189893393.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6ad2a5c47102b85b828ec3e9</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261030122200 +0000" stop="20261030142300 +0000">
     <title>Boo! A Madea Halloween</title>
@@ -99255,8 +99222,8 @@ In the ancient Burnt City of Shahre Sukhteh, Iran, archaeologists uncovered a re
     <icon src="https://images.pluto.tv/series/66f20f41b99f850013a803eb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">66f20f41b99f850013a803eb</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261030142300 +0000" stop="20261030162300 +0000">
     <title>Tyler Perry's Boo 2! A Madea Halloween</title>
@@ -99266,8 +99233,8 @@ In the ancient Burnt City of Shahre Sukhteh, Iran, archaeologists uncovered a re
     <icon src="https://images.pluto.tv/series/67111fa4af99a50013ba9b0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">67111fa4af99a50013ba9b0c</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261030162300 +0000" stop="20261030182300 +0000">
     <title>Freaky Tales</title>
@@ -99277,8 +99244,8 @@ In the ancient Burnt City of Shahre Sukhteh, Iran, archaeologists uncovered a re
     <icon src="https://images.pluto.tv/series/6ad2a5c47102b85b828ec3e9/tile_1792189893393.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6ad2a5c47102b85b828ec3e9</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261030182300 +0000" stop="20261030202100 +0000">
     <title>Insidious</title>
@@ -99288,8 +99255,8 @@ In the ancient Burnt City of Shahre Sukhteh, Iran, archaeologists uncovered a re
     <icon src="https://images.pluto.tv/series/6a155a5e8eee0f23e76025ce/tile_1779784287148.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a155a5e8eee0f23e76025ce</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <programme channel="6401d85a49839300087b116c" start="20261030202100 +0000" stop="20261030222300 +0000">
     <title>Insidious: Chapter 2</title>
@@ -99299,8 +99266,41 @@ In the ancient Burnt City of Shahre Sukhteh, Iran, archaeologists uncovered a re
     <icon src="https://images.pluto.tv/series/6a155a5e8eee0f23e760265f/tile_1789974539450.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6a155a5e8eee0f23e760265f</series-id>
-    <category>Entertainment</category>
     <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261030222300 +0000" stop="20261031001500 +0000">
+    <title>Insidious: Chapter 3</title>
+    <live />
+    <episode-num system="original-air-date">20261030222300 +0000</episode-num>
+    <desc>Psychic Elise Rainier (Lin Shaye) reluctantly agrees to use her ability to converse with the dead to help a teenage girl (Stefanie Scott) who is being tormented by a dangerous supernatural entity.</desc>
+    <icon src="https://images.pluto.tv/series/6940cbb7b329898798ba7f84/tile_1765854136631.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6940cbb7b329898798ba7f84</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261031001500 +0000" stop="20261031021700 +0000">
+    <title>Sinister</title>
+    <live />
+    <episode-num system="original-air-date">20261031001500 +0000</episode-num>
+    <desc>Ethan Hawke is a crime novelist who moves his family into a home with a horrific past. When he uncovers a box of mysterious home movies, he unlocks a nightmare that threatens his entire family. R. $4.99.</desc>
+    <icon src="https://images.pluto.tv/series/6ab74aa43830afefd591c072/tile_1790406687963.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6ab74aa43830afefd591c072</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261031021700 +0000" stop="20261031043400 +0000">
+    <title>Twilight</title>
+    <live />
+    <episode-num system="original-air-date">20261031021700 +0000</episode-num>
+    <desc>A high-school student is caught up in a romance with a vampire, whose family has renounced the drinking of human blood.</desc>
+    <icon src="https://images.pluto.tv/series/6821f8040f8298da5637a3e2/tile_1792220959385.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">6821f8040f8298da5637a3e2</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
   </programme>
   <channel id="UK:.MyTime.Movie.Network.be">
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg|https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/8cb0d25f-b096-4e26-a957-6b271f7f0560.jpeg" />
