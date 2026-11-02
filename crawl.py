@@ -1,7 +1,5 @@
-
 import os
 import gzip
-import re
 import xml.etree.ElementTree as ET
 import requests
 from difflib import get_close_matches
@@ -18,70 +16,7 @@ output_file = os.path.join("output", "Ind-Zpg.xml")
 output_file_gz = output_file + ".gz"
 
 # -------------------------
-# Secret detection
-# -------------------------
-
-# VolcEngine Access Key IDs commonly use the AKLT prefix.
-# This is a defensive detector, not a complete secret scanner.
-VOLCENGINE_PATTERN = re.compile(
-    r"AKLT[A-Z0-9]{10,}",
-    re.IGNORECASE
-)
-
-
-def contains_secret(element):
-    """Check an XML element and all its descendants for suspicious keys."""
-
-    for elem in element.iter():
-
-        # Check attributes
-        for value in elem.attrib.values():
-            if VOLCENGINE_PATTERN.search(value):
-                return True
-
-        # Check element text
-        if elem.text and VOLCENGINE_PATTERN.search(elem.text):
-            return True
-
-        # Check tail text
-        if elem.tail and VOLCENGINE_PATTERN.search(elem.tail):
-            return True
-
-    return False
-
-
-def sanitize_xml(root, source_url):
-    """Remove XML elements containing suspicious credentials."""
-
-    removed = 0
-
-    for child in list(root):
-        if contains_secret(child):
-            removed += 1
-            print(
-                f"[SECURITY] Removed contaminated "
-                f"<{child.tag}> element from {source_url}"
-            )
-            root.remove(child)
-
-    return removed
-
-
-def verify_output(root):
-    """Final security check before writing generated XML."""
-
-    for element in root:
-        if contains_secret(element):
-            raise RuntimeError(
-                "SECURITY ERROR: Suspicious credential detected "
-                "in final XML. Output was not saved."
-            )
-
-    print("[SECURITY] Final XML check passed.")
-
-
-# -------------------------
-# Paste your tvg-ids directly
+# Paste your tvg-ids directly (keep your long list here)
 # -------------------------
 tvg_ids_raw = """
 MoviesNow.in
@@ -291,196 +226,95 @@ vh1.us
 wnetwork.ca
 """
 
-valid_tvg_ids_original = [
-    line.strip()
-    for line in tvg_ids_raw.splitlines()
-    if line.strip()
-]
-
-valid_tvg_ids_lower = [
-    tvg_id.lower()
-    for tvg_id in valid_tvg_ids_original
-]
-
-valid_tvg_ids_set = set(valid_tvg_ids_lower)
-
+valid_tvg_ids_original = [line.strip() for line in tvg_ids_raw.splitlines() if line.strip()]
+valid_tvg_ids_lower = [id.lower() for id in valid_tvg_ids_original]
 
 # -------------------------
 # Fetch XML and decompress
 # -------------------------
 def fetch_and_extract_xml(url):
-
     try:
         response = requests.get(url, timeout=60)
-        response.raise_for_status()
-
     except Exception as e:
         print(f"Failed to fetch {url}: {e}")
         return None
 
+    if response.status_code != 200:
+        print(f"Failed to fetch {url} — status {response.status_code}")
+        return None
+
     data = response.content
-
-    if url.endswith(".gz") or data[:2] == b"\x1f\x8b":
-
+    if url.endswith('.gz') or (data[:2] == b'\x1f\x8b'):
         try:
             decompressed_data = gzip.decompress(data)
             return ET.fromstring(decompressed_data)
-
         except Exception as e:
             print(f"Failed to decompress/parse {url}: {e}")
             return None
+    else:
+        try:
+            return ET.fromstring(data)
+        except Exception as e:
+            print(f"Failed to parse XML from {url}: {e}")
+            return None
 
-    try:
-        return ET.fromstring(data)
-
-    except Exception as e:
-        print(f"Failed to parse XML from {url}: {e}")
-        return None
-
-
-# -------------------------
-# Parse EPG time
-# -------------------------
 def parse_epg_time(ts):
-
     try:
         if " " in ts:
             base, offset = ts.split(" ", 1)
             dt = datetime.strptime(base, "%Y%m%d%H%M%S")
             return f"{dt} {offset}"
-
         else:
-            return datetime.strptime(
-                ts[:14],
-                "%Y%m%d%H%M%S"
-            )
-
+            return datetime.strptime(ts[:14], "%Y%m%d%H%M%S")
     except Exception:
         return f"Invalid ({ts})"
 
-
-# -------------------------
-# Filter and build EPG
-# -------------------------
 def filter_and_build_epg(urls):
-
-    root = ET.Element("tv")
-
+    root = ET.Element('tv')
     found_lower = set()
-
-    total_removed = 0
+    all_xml_ids_lower = set()
+    all_xml_ids_original = []
 
     for url in urls:
-
-        print(f"\nFetching XML ({url})...")
-
+        print(f"Fetching xml ({url})...")
         epg_data = fetch_and_extract_xml(url)
-
         if epg_data is None:
             continue
 
-        # Check each top-level channel/programme independently.
-        # This allows clean EPG entries from the same feed to remain.
-
-        for channel in epg_data.findall("channel"):
-
-            tvg_id = channel.get("id")
-
+        for channel in epg_data.findall('channel'):
+            tvg_id = channel.get('id')
             if not tvg_id:
                 continue
+            all_xml_ids_lower.add(tvg_id.lower())
+            all_xml_ids_original.append(tvg_id)
+            if tvg_id.lower() in valid_tvg_ids_lower:
+                root.append(channel)
+                found_lower.add(tvg_id.lower())
 
-            if tvg_id.lower() not in valid_tvg_ids_set:
-                continue
-
-            if contains_secret(channel):
-                total_removed += 1
-                print(
-                    f"[SECURITY] Skipped contaminated channel: "
-                    f"{tvg_id} ({url})"
-                )
-                continue
-
-            root.append(channel)
-            found_lower.add(tvg_id.lower())
-
-        for programme in epg_data.findall("programme"):
-
-            tvg_id = programme.get("channel")
-
+        for programme in epg_data.findall('programme'):
+            tvg_id = programme.get('channel')
             if not tvg_id:
                 continue
+            all_xml_ids_lower.add(tvg_id.lower())
+            all_xml_ids_original.append(tvg_id)
+            if tvg_id.lower() in valid_tvg_ids_lower:
+                root.append(programme)
+                found_lower.add(tvg_id.lower())
 
-            if tvg_id.lower() not in valid_tvg_ids_set:
-                continue
-
-            if contains_secret(programme):
-                total_removed += 1
-                print(
-                    f"[SECURITY] Skipped contaminated programme: "
-                    f"{tvg_id} ({url})"
-                )
-                continue
-
-            root.append(programme)
-            found_lower.add(tvg_id.lower())
-
-    # -------------------------
-    # Final security verification
-    # -------------------------
-
-    verify_output(root)
-
-    # -------------------------
     # Save final XML
-    # -------------------------
-
     tree = ET.ElementTree(root)
-
-    tree.write(
-        output_file,
-        encoding="utf-8",
-        xml_declaration=True
-    )
-
-    print(f"\nSaved XML to {output_file}")
-
-    # -------------------------
-    # Save GZ
-    # -------------------------
+    tree.write(output_file, encoding='utf-8', xml_declaration=True)
+    print(f"Saved XML to {output_file}")
 
     if save_as_gz:
-
-        with gzip.open(output_file_gz, "wb") as f:
-
-            tree.write(
-                f,
-                encoding="utf-8",
-                xml_declaration=True
-            )
-
+        with gzip.open(output_file_gz, 'wb') as f:
+            tree.write(f, encoding='utf-8', xml_declaration=True)
         print(f"Saved GZ to {output_file_gz}")
 
-    # -------------------------
-    # Report summary
-    # -------------------------
-
-    missing_ids = [
-        orig
-        for orig, lower in zip(
-            valid_tvg_ids_original,
-            valid_tvg_ids_lower
-        )
-        if lower not in found_lower
-    ]
-
-    matched = len(valid_tvg_ids_original) - len(missing_ids)
-
-    print("\n========== EPG SUMMARY ==========")
-    print(f"Total matched: {matched}")
+    # Optional: print report summary
+    missing_ids = [orig for orig, lower in zip(valid_tvg_ids_original, valid_tvg_ids_lower) if lower not in found_lower]
+    print(f"Total matched: {len(valid_tvg_ids_original) - len(missing_ids)}")
     print(f"Total missing: {len(missing_ids)}")
-    print(f"Contaminated entries skipped: {total_removed}")
-    print("=================================")
-
 
 # -------------------------
 # URL list
@@ -491,7 +325,7 @@ urls = [
     "https://www.open-epg.com/files/india1.xml.gz",
     "https://iptv-epg.org/files/epg-in.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
-    "https://iptv-epg.org/files/epg-gb.xml.gz",
+    "https://iptv-epg.org/files/epg-gb.xml.gz",    
     "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/gb.xml.gz",
@@ -502,10 +336,9 @@ urls = [
     "https://github.com/mitthu786/tvepg/raw/refs/heads/main/jiotv/epg.xml.gz",
 ]
 
-
-# -------------------------
-# Main
-# -------------------------
 if __name__ == "__main__":
-
     filter_and_build_epg(urls)
+
+
+
+
