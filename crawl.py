@@ -19,22 +19,20 @@ output_file_gz = output_file + ".gz"
 # Paste your tvg-ids directly (keep your long list here)
 # -------------------------
 tvg_ids_raw = """
-MoviesNow.in
-462
-MNPlus.in
-SONY PIX HD.in
-SonyPix.in
-StarMovies.in
-StarMoviesSelect.in
-ComedyCentral.uk
-RomedyNow.in
-DISCOVERY.HD.WORLD.in
+151
+ts562
+877
+477
+762
+1104
+1110
+ts341
 146
-National Geographic HD.in
-3510
-MTV HD.in
+1335
+ts81
+ts103
+248
 144
-Colors.in
 Colors.uk
 50centaction.us
 amazonmovies.us
@@ -321,9 +319,10 @@ def filter_and_build_epg(urls):
 # -------------------------
 urls = [
     #"https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
-    "https://www.open-epg.com/files/india1.xml.gz",
-    "https://iptv-epg.org/files/epg-in.xml.gz",
+    #"https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
+    #"https://www.open-epg.com/files/india1.xml.gz",
+    #"https://iptv-epg.org/files/epg-in.xml.gz",
+    "https://mitthu786.github.io/tvepg/epg.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
     "https://iptv-epg.org/files/epg-gb.xml.gz",    
     "https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz",
@@ -333,7 +332,6 @@ urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
-    "https://github.com/mitthu786/tvepg/raw/refs/heads/main/jiotv/epg.xml.gz",
 ]
 
 if __name__ == "__main__":
