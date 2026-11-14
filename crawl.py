@@ -19,20 +19,24 @@ output_file_gz = output_file + ".gz"
 # Paste your tvg-ids directly (keep your long list here)
 # -------------------------
 tvg_ids_raw = """
-151
+ts173
 ts562
-877
-477
-762
+ts234
+ts210
+ts558
+ts32
 1104
-1110
+1104
+ts593
 ts341
 146
-1335
-ts81
-ts103
-248
-144
+ts137
+162
+162
+MTV.in
+MTV.in
+Colors.in
+ts52
 Colors.uk
 50centaction.us
 amazonmovies.us
@@ -321,7 +325,7 @@ urls = [
     #"https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
     #"https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz",
     #"https://www.open-epg.com/files/india1.xml.gz",
-    #"https://iptv-epg.org/files/epg-in.xml.gz",
+    "https://iptv-epg.org/files/epg-in.xml.gz",
     "https://mitthu786.github.io/tvepg/epg.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
     "https://iptv-epg.org/files/epg-gb.xml.gz",    
