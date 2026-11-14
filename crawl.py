@@ -23,7 +23,7 @@ MOVIES.NOW.in
 MNX.in
 MN+.HD.in
 SONY.PIX.in
-1104
+ts273
 ts593
 DiscoveryChannel.in
 HistoryTV18.in
