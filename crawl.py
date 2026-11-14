@@ -26,17 +26,13 @@ ts210
 ts558
 ts32
 1104
-1104
 ts593
 ts341
 ts172
 ts137
 162
-162
-MTV.in
 MTV.in
 Colors.in
-ts52
 Colors.uk
 50centaction.us
 amazonmovies.us
