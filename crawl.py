@@ -219,28 +219,6 @@ tvland.us
 uptv.us
 vh1.us
 wnetwork.ca
-tp.colors
-tp.colors-hd
-tp.colors-hd-2
-tp.discovery-channel
-tp.discovery-hd-world
-tp.mn-plus-hd
-tp.mnx
-tp.mnx-hd
-tp.movies-now
-tp.movies-now-hd
-tp.mtv
-tp.mtv-hd
-tp.mtv-hd-2
-tp.nat-geo-hd
-tp.sony-pix
-tp.sony-pix-hd
-tp.sony-sports-ten-1
-tp.sony-sports-ten-1-hd
-tp.sony-sports-ten-2
-tp.sony-sports-ten-2-hd
-tp.star-movies
-tp.star-movies-select-hd
 """
 
 valid_tvg_ids_original = [line.strip() for line in tvg_ids_raw.splitlines() if line.strip()]
@@ -250,26 +228,17 @@ valid_tvg_ids_lower = [id.lower() for id in valid_tvg_ids_original]
 # Fetch XML and decompress
 # -------------------------
 def fetch_and_extract_xml(url):
-    if not url.startswith(("http://", "https://")):
-        try:
-            with open(url, "rb") as f:
-                data = f.read()
-        except Exception as e:
-            print(f"Failed to read local file {url}: {e}")
-            return None
-    else:
-        try:
-            response = requests.get(url, timeout=60)
-        except Exception as e:
-            print(f"Failed to fetch {url}: {e}")
-            return None
+    try:
+        response = requests.get(url, timeout=60)
+    except Exception as e:
+        print(f"Failed to fetch {url}: {e}")
+        return None
 
-        if response.status_code != 200:
-            print(f"Failed to fetch {url} — status {response.status_code}")
-            return None
+    if response.status_code != 200:
+        print(f"Failed to fetch {url} — status {response.status_code}")
+        return None
 
-        data = response.content
-
+    data = response.content
     if url.endswith('.gz') or (data[:2] == b'\x1f\x8b'):
         try:
             decompressed_data = gzip.decompress(data)
@@ -361,7 +330,6 @@ urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
     "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/us.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
-    "output/TataPlay.xml",
 ]
 
 if __name__ == "__main__":
