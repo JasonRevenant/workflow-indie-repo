@@ -214,7 +214,7 @@ slightlyoffifc.us
 tbs.us
 tnt.us
 travelchannel.us
-trtuv.us
+trutv.us
 tvland.us
 uptv.us
 vh1.us
