@@ -21,31 +21,31 @@ REQUEST_PAUSE = 2.2
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # -------------------------
-# Your channel list  (id, display name)
+# Your channel list  (schedule_id, display_name, tvg_id)
 # -------------------------
 CHANNELS = [
-    ("543",  "Colors"),
-    ("1902", "Colors HD"),
-    ("52",   "Colors HD"),
-    ("219",  "Discovery Channel"),
-    ("341",  "Discovery HD World"),
-    ("210",  "MN+ HD"),
-    ("234",  "MNX"),
-    ("599",  "MNX HD"),
-    ("173",  "Movies Now"),
-    ("562",  "Movies Now HD"),
-    ("103",  "MTV"),
-    ("406",  "MTV HD"),
-    ("1937", "MTV HD"),
-    ("1893", "NATIONAL GEOGRAPHIC HD"),
-    ("558",  "SONY PIX"),
-    ("32",   "SONY PIX HD"),
-    ("150",  "SONY SPORTS TEN 1"),
-    ("81",   "SONY SPORTS TEN 1 HD"),
-    ("170",  "SONY SPORTS TEN 2"),
-    ("462",  "SONY SPORTS TEN 2 HD"),
-    ("273",  "STAR Movies"),
-    ("593",  "STAR Movies Select HD"),
+    ("543",  "Colors",                 "tp.colors"),
+    ("52",   "Colors HD",              "tp.colors-hd"),
+    ("1902", "Colors HD",              "tp.colors-hd-2"),
+    ("219",  "Discovery Channel",      "tp.discovery-channel"),
+    ("341",  "Discovery HD World",     "tp.discovery-hd-world"),
+    ("210",  "MN+ HD",                 "tp.mn-plus-hd"),
+    ("234",  "MNX",                    "tp.mnx"),
+    ("599",  "MNX HD",                 "tp.mnx-hd"),
+    ("173",  "Movies Now",             "tp.movies-now"),
+    ("562",  "Movies Now HD",          "tp.movies-now-hd"),
+    ("103",  "MTV",                    "tp.mtv"),
+    ("406",  "MTV HD",                 "tp.mtv-hd"),
+    ("1937", "MTV HD",                 "tp.mtv-hd-2"),
+    ("1893", "National Geographic HD", "tp.nat-geo-hd"),
+    ("558",  "Sony Pix",               "tp.sony-pix"),
+    ("32",   "Sony Pix HD",            "tp.sony-pix-hd"),
+    ("150",  "Sony Sports Ten 1",      "tp.sony-sports-ten-1"),
+    ("81",   "Sony Sports Ten 1 HD",   "tp.sony-sports-ten-1-hd"),
+    ("170",  "Sony Sports Ten 2",      "tp.sony-sports-ten-2"),
+    ("462",  "Sony Sports Ten 2 HD",   "tp.sony-sports-ten-2-hd"),
+    ("273",  "Star Movies",            "tp.star-movies"),
+    ("593",  "Star Movies Select HD",  "tp.star-movies-select-hd"),
 ]
 
 # -------------------------
@@ -172,14 +172,14 @@ def generate_xml(channels):
     for ch in channels:
         if not ch["programs"]:
             continue
-        cel = ET.SubElement(root, "channel", id=ch["id"])
+        cel = ET.SubElement(root, "channel", id=ch["tvg_id"])
         ET.SubElement(cel, "display-name", lang="en").text = ch["name"]
 
         for p in ch["programs"]:
             el = ET.SubElement(root, "programme",
                                start=xmltv_time(p["start"]),
                                stop=xmltv_time(p["end"]),
-                               channel=ch["id"])
+                               channel=ch["tvg_id"])
             ET.SubElement(el, "title", lang="en").text = p["title"]
             if p["desc"]:
                 ET.SubElement(el, "desc", lang="en").text = p["desc"]
@@ -222,8 +222,8 @@ def main():
 
     try:
         total = len(CHANNELS)
-        for i, (cid, name) in enumerate(CHANNELS, 1):
-            print(f"[{i}/{total}] {name} ({cid})", end=" ")
+        for i, (cid, name, tvg_id) in enumerate(CHANNELS, 1):
+            print(f"[{i}/{total}] {name} ({cid} → {tvg_id})", end=" ")
 
             try:
                 all_programs = []
@@ -247,7 +247,7 @@ def main():
                     print(f"- {len(filtered)} programmes "
                           f"({days_ok}/{FETCH_DAYS} days)")
                     xml_channels.append({
-                        "id": cid, "name": name, "programs": filtered,
+                        "tvg_id": tvg_id, "name": name, "programs": filtered,
                     })
                     status_counts["OK"] += 1
                 else:
