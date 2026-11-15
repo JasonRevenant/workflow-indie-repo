@@ -1,12 +1,9 @@
 import os
 import time
-import json
 import requests
 import xml.etree.ElementTree as ET
 
 from datetime import datetime, date, timezone, timedelta
-from openpyxl import Workbook
-from openpyxl.styles import Font, PatternFill, Alignment
 
 # -------------------------
 # Settings
@@ -15,7 +12,6 @@ SCHEDULE_URL = "https://tm.tapi.videoready.tv/content-detail/pub/api/v2/channels
 
 OUTPUT_DIR  = "output"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "TataPlay.xml")
-EXCEL_FILE  = os.path.join(OUTPUT_DIR, "TataPlay_Channels.xlsx")
 
 EPG_DATE      = date.today()
 FETCH_DAYS    = 3          # today, +1, +2 broadcast days
@@ -201,46 +197,6 @@ def generate_xml(channels):
 
 
 # -------------------------
-# Excel
-# -------------------------
-def write_excel(results, window_start, window_end):
-    wb = Workbook()
-    ws = wb.active
-    ws.title = "Tata Play EPG"
-
-    ws.append(["Channel Name", "tvg-id", "Programmes", "Status"])
-    for cell in ws[1]:
-        cell.font = Font(bold=True, color="FFFFFF")
-        cell.fill = PatternFill(start_color="4472C4", end_color="4472C4",
-                                fill_type="solid")
-        cell.alignment = Alignment(horizontal="center")
-
-    for r in results:
-        ws.append([r["name"], r["id"], r["programs"], r["status"]])
-
-    for col, w in zip("ABCD", (36, 12, 12, 16)):
-        ws.column_dimensions[col].width = w
-    ws.freeze_panes = "A2"
-    ws.auto_filter.ref = ws.dimensions
-
-    ws2 = wb.create_sheet("Window")
-    ws2.append(["Field", "Value"])
-    for cell in ws2[1]:
-        cell.font = Font(bold=True, color="FFFFFF")
-        cell.fill = PatternFill(start_color="4472C4", end_color="4472C4",
-                                fill_type="solid")
-    ws2.append(["Window start", window_start.strftime("%Y-%m-%d %H:%M %Z")])
-    ws2.append(["Window end",   window_end.strftime("%Y-%m-%d %H:%M %Z")])
-    ws2.append(["Window length", f"{WINDOW_HOURS}h"])
-    ws2.append(["Broadcast days fetched", FETCH_DAYS])
-    ws2.column_dimensions["A"].width = 24
-    ws2.column_dimensions["B"].width = 32
-
-    wb.save(EXCEL_FILE)
-    print(f"Excel: {os.path.abspath(EXCEL_FILE)}")
-
-
-# -------------------------
 # Main
 # -------------------------
 def main():
@@ -262,7 +218,7 @@ def main():
 
     session = requests.Session()
     xml_channels = []
-    results = []
+    status_counts = {"OK": 0, "No EPG": 0, "Error": 0}
 
     try:
         total = len(CHANNELS)
@@ -293,44 +249,27 @@ def main():
                     xml_channels.append({
                         "id": cid, "name": name, "programs": filtered,
                     })
-                    results.append({
-                        "id": cid, "name": name,
-                        "programs": len(filtered), "status": "OK",
-                    })
+                    status_counts["OK"] += 1
                 else:
                     print(f"- 0 programmes in window")
-                    results.append({
-                        "id": cid, "name": name,
-                        "programs": 0, "status": "No EPG in window",
-                    })
+                    status_counts["No EPG"] += 1
 
             except Exception as e:
                 print(f"- FAILED: {e}")
-                results.append({
-                    "id": cid, "name": name,
-                    "programs": 0, "status": f"Error: {e}",
-                })
+                status_counts["Error"] += 1
 
         print("-" * 55)
         print("Generating XMLTV...")
         n_ch, n_pr = generate_xml(xml_channels)
 
-        print("Generating Excel...")
-        write_excel(results, now, window_end)
-
-        ok      = sum(1 for r in results if r["status"] == "OK")
-        no_epg  = sum(1 for r in results if r["status"].startswith("No EPG"))
-        errored = sum(1 for r in results if r["status"].startswith("Error"))
-
         print("=" * 55)
         print("DONE")
         print(f"Channels requested : {total}")
-        print(f"  with EPG         : {ok}")
-        print(f"  no EPG in window : {no_epg}")
-        print(f"  errors           : {errored}")
+        print(f"  with EPG         : {status_counts['OK']}")
+        print(f"  no EPG in window : {status_counts['No EPG']}")
+        print(f"  errors           : {status_counts['Error']}")
         print(f"Total programmes   : {n_pr}")
         print(f"XML   : {os.path.abspath(OUTPUT_FILE)}")
-        print(f"Excel : {os.path.abspath(EXCEL_FILE)}")
         print("=" * 55)
 
     except Exception as e:
