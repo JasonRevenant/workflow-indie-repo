@@ -48,7 +48,6 @@ jobs:
 
       - name: Run EPG generation
         run: |
-          python tataplay_epg.py || echo "TataPlay step failed — continuing without it"
           python crawl.py
         env:
           # optional environment variables can be set here
