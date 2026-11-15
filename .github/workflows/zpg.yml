@@ -1,9 +1,24 @@
 name: Generate and Commit ZPG
 
-# allow manual run and schedule
+# Allow manual run and schedule
 on:
   schedule:
-    - cron: "0 12,19,21,0,2,6,8 * * *"  # Runs at 7:00 AM, 4:00 PM, 9:00 PM, and 3:00 AM EST (in UTC)
+    # GitHub Actions cron is always in UTC.
+    #
+    # UTC hours:        00   02   06   08   12   19   21
+    #
+    # EST (UTC-5, Nov–Mar):
+    #   07:00 PM  09:00 PM  01:00 AM  03:00 AM  07:00 AM  02:00 PM  04:00 PM
+    #   (prev day) (prev day)
+    #
+    # EDT (UTC-4, Mar–Nov):
+    #   08:00 PM  10:00 PM  02:00 AM  04:00 AM  08:00 AM  03:00 PM  05:00 PM
+    #   (prev day) (prev day)
+    #
+    # IST (UTC+5:30), for reference:
+    #   05:30 AM  07:30 AM  11:30 AM  01:30 PM  05:30 PM  12:30 AM  02:30 AM
+    #                                            (next day) (next day)
+    - cron: "0 12,19,21,0,2,6,8 * * *"
   workflow_dispatch:
 
 # Give the workflow permission to write to the repo
@@ -33,7 +48,7 @@ jobs:
 
       - name: Run EPG generation
         run: |
-          python tataplay_epg.py
+          python tataplay_epg.py || echo "TataPlay step failed — continuing without it"
           python crawl.py
         env:
           # optional environment variables can be set here
