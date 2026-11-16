@@ -25,6 +25,8 @@ MN+.HD.in
 SONY.PIX.in
 ts273
 ts593
+577114
+577244
 DiscoveryChannel.in
 HistoryTV18.in
 NationalGeographic.in
@@ -320,6 +322,8 @@ urls = [
     "https://www.open-epg.com/files/india.xml.gz",
     #"https://iptv-epg.org/files/epg-in.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
+    "https://epg.pw/api/epg.xml?lang=en&channel_id=577114",
+    "https://epg.pw/api/epg.xml?lang=en&channel_id=577244",
     "https://mitthu786.github.io/tvepg/epg.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
     "https://iptv-epg.org/files/epg-gb.xml.gz",    
