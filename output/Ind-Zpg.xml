@@ -74086,9 +74086,9 @@ Exploring some of the most valuable treasures found in the most unlikely of ways
 <programme start="20261119083000 +0000" stop="20261119110000 +0000" channel="TCM.ca"><title>Paris, Texas</title><desc>A lost man (Harry Dean Stanton) surfaces, reunites with his brother (Dean Stockwell) and son, and finds his wife (Nastassja Kinski) working in a peep show.</desc></programme>
 <programme start="20261119110000 +0000" stop="20261119130000 +0000" channel="TCM.ca"><title>Three Daring Daughters</title><desc>Sisters resent their divorced magazine-editor mother's (Jeanette MacDonald) new husband, a concert pianist (Jose Iturbi) she met while on vacation.</desc></programme>
 <programme start="20261119130000 +0000" stop="20261119153000 +0000" channel="TCM.ca"><title>Anchors Aweigh</title><desc>Two sailors (Frank Sinatra, Gene Kelly) on leave in Hollywood help an actress (Kathryn Grayson) get her big break.</desc></programme>
-<programme channel="dummy-1133115" start="20261119000000 +0000" stop="20261120080000 +0000"><title>Animation Favorites</title><desc lang="en">Provider channel listing. Event duration and live status are not verified by this listing.</desc></programme>
-<programme channel="dummy-1133353" start="20261119000000 +0000" stop="20261120080000 +0000"><title>Get Comedy</title><desc lang="en">Provider channel listing. Event duration and live status are not verified by this listing.</desc></programme>
-<programme channel="dummy-1133394" start="20261119000000 +0000" stop="20261120080000 +0000"><title>Horror Stories</title><desc lang="en">Provider channel listing. Event duration and live status are not verified by this listing.</desc></programme>
+<programme channel="dummy-1133115" start="20261119000000 +0000" stop="20261120130000 +0000"><title>Animation Favorites</title><desc lang="en">Provider channel listing. Event duration and live status are not verified by this listing.</desc></programme>
+<programme channel="dummy-1133353" start="20261119000000 +0000" stop="20261120130000 +0000"><title>Get Comedy</title><desc lang="en">Provider channel listing. Event duration and live status are not verified by this listing.</desc></programme>
+<programme channel="dummy-1133394" start="20261119000000 +0000" stop="20261120130000 +0000"><title>Horror Stories</title><desc lang="en">Provider channel listing. Event duration and live status are not verified by this listing.</desc></programme>
 <channel id="Hollywood.Suite.2000s.ca2">
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00234K4L.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG00234K4L.png?w=360&amp;h=270" />
@@ -81023,28 +81023,6 @@ Exploring some of the most valuable treasures found in the most unlikely of ways
     <display-name>Moviesphere</display-name>
     <icon src="https://images.pluto.tv/channels/6401d85a49839300087b116c/colorLogoPNG.png" />
   </channel>
-  <programme channel="6401d85a49839300087b116c" start="20261118185700 +0000" stop="20261118213600 +0000">
-    <title>Divergent</title>
-    <live />
-    <episode-num system="original-air-date">20261118185700 +0000</episode-num>
-    <desc>In a future society, people are divided into factions based on their personalities. After a young woman (Shailene Woodley) learns she is a Divergent and will never fit into any one group, she uncovers a conspiracy to destroy all those like her.</desc>
-    <icon src="https://images.pluto.tv/series/6a95f99a3830afefd5af0366/tile_1788213751425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6a95f99a3830afefd5af0366</series-id>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
-  <programme channel="6401d85a49839300087b116c" start="20261118213600 +0000" stop="20261118234500 +0000">
-    <title>The Divergent Series: Insurgent</title>
-    <live />
-    <episode-num system="original-air-date">20261118213600 +0000</episode-num>
-    <desc>Fugitives Tris and Four search for allies and answers among the ruins of Chicago while arduously trying to evade Jeanine, leader of the Erudite.</desc>
-    <icon src="https://images.pluto.tv/series/6a95f99b3830afefd5af03ff/tile_1788213778406.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6a95f99b3830afefd5af03ff</series-id>
-    <category>Series</category>
-    <category>Entertainment</category>
-  </programme>
   <programme channel="6401d85a49839300087b116c" start="20261118234500 +0000" stop="20261119015600 +0000">
     <title>The Divergent Series: Allegiant</title>
     <live />
@@ -81158,6 +81136,28 @@ Exploring some of the most valuable treasures found in the most unlikely of ways
     <icon src="https://images.pluto.tv/series/6821f8040f8298da5637a3e2/tile_1792220959385.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
     <date>19700101</date>
     <series-id system="pluto">6821f8040f8298da5637a3e2</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261119140500 +0000" stop="20261119162800 +0000">
+    <title>The Twilight Saga: New Moon</title>
+    <live />
+    <episode-num system="original-air-date">20261119140500 +0000</episode-num>
+    <desc>After the abrupt departure of Edward, her vampire love, Bella finds comfort in her deepening friendship with Jacob Black. However, Bella's loyalties are put to the test as she becomes drawn into the world of werewolves, ancient enemies of vampires.</desc>
+    <icon src="https://images.pluto.tv/series/66bc08de6134930013b9691d/tile_1747065870555.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66bc08de6134930013b9691d</series-id>
+    <category>Series</category>
+    <category>Entertainment</category>
+  </programme>
+  <programme channel="6401d85a49839300087b116c" start="20261119162800 +0000" stop="20261119184500 +0000">
+    <title>The Twilight Saga: Eclipse</title>
+    <live />
+    <episode-num system="original-air-date">20261119162800 +0000</episode-num>
+    <desc>Bella must choose between Edward and Jacob amid a string of mysterious killings and a malicious vampire's quest for revenge.</desc>
+    <icon src="https://images.pluto.tv/series/66bc08df6134930013b96e0a/tile_1792221309534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
+    <date>19700101</date>
+    <series-id system="pluto">66bc08df6134930013b96e0a</series-id>
     <category>Series</category>
     <category>Entertainment</category>
   </programme>
@@ -81412,198 +81412,6 @@ Exploring some of the most valuable treasures found in the most unlikely of ways
     <display-name>Lifetime Movies Love &amp; Drama</display-name>
     <icon src="https://provider-static.plex.tv/epg/cms/production/d647f22a-994d-4a47-8168-6e5d4c6f6f53/LMLD_channel_logo_4c_1500x1000_-_Laura_Connolly.png" />
   </channel>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261117235024 +0000" stop="20261118002410 +0000">
-    <title>Coupling</title>
-    <desc>Steve finds himself haunted by ghosts while Sally is troubled by a string quartet.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118002410 +0000" stop="20261118005709 +0000">
-    <title>Coupling</title>
-    <desc>How can you win over a woman when your living room has lost the battle with nudity?</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118005709 +0000" stop="20261118012351 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Mum and Dad are having a clear-out, and Dad's been ordered to chuck away all his old junk.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118012351 +0000" stop="20261118014924 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Mum is very proud as Adam's first ever jingle is going to be on the radio.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118014924 +0000" stop="20261118021819 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Grandma arrives for dinner but she gets her hair stuck in the window of Jonny's car.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118021819 +0000" stop="20261118024535 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Adam comes home to find the house looking immaculate. What is Mum up to?</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118024535 +0000" stop="20261118031204 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Jonny finds Adam's childhood diary and discovers a terrible secret. So now it's war!</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118031204 +0000" stop="20261118033840 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>The boys are excited, because Grandma is coming for dinner.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118033840 +0000" stop="20261118040605 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>To get out of cleaning the loft, Jonny claims to have dislocated his shoulder.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118040605 +0000" stop="20261118043338 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Dad is very excited. He's just bought a new fax machine.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118043338 +0000" stop="20261118050351 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>It's Christmas day. Mum has made a fantastic Christmas dinner.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118050351 +0000" stop="20261118053155 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Dad's been secretly hiding a dead fox in the outside freezer, but mum needs to use it.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118053155 +0000" stop="20261118055829 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>The family are distraught when Grandma gets engaged to Mr Morris.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118055829 +0000" stop="20261118062547 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Dad's bought a piano, and the world's most sarcastic piano tuner comes round to tune it.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118062547 +0000" stop="20261118065340 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Dad accidentally invites someone he used to hate round for dinner.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118065340 +0000" stop="20261118072134 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Trouble occurs on Dad's hinge oiling evening, as oil is split on Mum's beloved carpet.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118072134 +0000" stop="20261118074818 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Adam has been recognised for his musical talent but is overshadowed by Jonny's news.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118074818 +0000" stop="20261118081341 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Adam has been staying at Mum and Dad's all week and starts behaving like a little boy.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118081341 +0000" stop="20261118084033 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>The boys arrive home to find a 'For Sale' sign in front of the house.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118084033 +0000" stop="20261118090808 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Mum and Dad get a hot tub, but Adam and Jonny aren't keen on the idea.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118090808 +0000" stop="20261118093506 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Adam isn't happy when he is forced to play his violin for Mum and her best friend Val.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118093506 +0000" stop="20261118100235 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>The boys are threatened with no crumble if they don't help to assemble a wooden shelf.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118100235 +0000" stop="20261118103007 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Dad's bought a grotty caravan. Jim's got a new dog. And the boys have new 'females'.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118103007 +0000" stop="20261118105809 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Martin becomes obsessed with a plastic bag that's stuck up a tree.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118105809 +0000" stop="20261118112806 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>The family's cream-tea-obsessed former au pair pays the Goodmans a surprise visit.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118112806 +0000" stop="20261118115517 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Dad has the birthday blues - because he has worked out the date when he's going to die.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118115517 +0000" stop="20261118122539 +0000">
-    <title>Friday Night Dinner</title>
-    <desc>Adam and Jonny bring their 'females' home to meet the parents. Cue excitement from Mum.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118122539 +0000" stop="20261118125626 +0000">
-    <title>Red Dwarf</title>
-    <desc>Kryten falls in love with a female droid rescued from a crashed vessel.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118125626 +0000" stop="20261118132818 +0000">
-    <title>Red Dwarf</title>
-    <desc>Lister's curry finds its way into the transmogrifier and assumes near-human form.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118132818 +0000" stop="20261118140040 +0000">
-    <title>Red Dwarf</title>
-    <desc>Justice World is able to inflict crime back on the perpetrator. Rimmer is in big trouble.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118140040 +0000" stop="20261118143214 +0000">
-    <title>Red Dwarf</title>
-    <desc>Holly, for reasons best known to herself, decides to power down the ship.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118143214 +0000" stop="20261118150501 +0000">
-    <title>Red Dwarf</title>
-    <desc>In a universe almost identical to our own, another more heroic Arnold Rimmer exists.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118150501 +0000" stop="20261118153504 +0000">
-    <title>Red Dwarf</title>
-    <desc>A matter transporter whisks the crew to Waxworld - a giant theme park.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118153504 +0000" stop="20261118160703 +0000">
-    <title>Red Dwarf</title>
-    <desc>Rimmer is transmitted from Red Dwarf to the advanced Holoship, Enlightenment.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118160703 +0000" stop="20261118163923 +0000">
-    <title>Red Dwarf</title>
-    <desc>The Inquisitor roams through time weeding out life's wastrels and deleting the worthless.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118163923 +0000" stop="20261118171039 +0000">
-    <title>Red Dwarf</title>
-    <desc>Rimmer is taken prisoner inside his own mind and ends up being stripped and humiliated.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118171039 +0000" stop="20261118174306 +0000">
-    <title>Red Dwarf</title>
-    <desc>After an encounter at a viral research centre, Rimmer puts the crew in quarantine.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118174306 +0000" stop="20261118181408 +0000">
-    <title>Red Dwarf</title>
-    <desc>The boys from the Dwarf meet their evil doppelgangers, hell bent on destruction.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118181408 +0000" stop="20261118184536 +0000">
-    <title>Red Dwarf</title>
-    <desc>The crew discover an abandoned space ship, complete with a gigantic sea monster.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118184536 +0000" stop="20261118191841 +0000">
-    <title>Red Dwarf</title>
-    <desc>In pursuit of the stolen Red Dwarf, Lister and Co are attacked by scantily-clad Psirens.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118191841 +0000" stop="20261118195103 +0000">
-    <title>Red Dwarf</title>
-    <desc>A malfunctioning guidance beam drags the Dwarfers to a deserted space station.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118195103 +0000" stop="20261118202358 +0000">
-    <title>Red Dwarf</title>
-    <desc>Kryten contracts a deadly computer virus, and the crew are forced to enter his mindscape.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118202358 +0000" stop="20261118205630 +0000">
-    <title>Red Dwarf</title>
-    <desc>Lister gets a horrifying proposal from the chief of the offensively ugly GELF tribe.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118205630 +0000" stop="20261118212904 +0000">
-    <title>Red Dwarf</title>
-    <desc>Trapped aboard a disintegrating ship, Rimmer abandons his crewmates.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118212904 +0000" stop="20261118220141 +0000">
-    <title>Red Dwarf</title>
-    <desc>The crew are alarmed to receive an SOS call from themselves fifteen years into the future.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118220141 +0000" stop="20261118223410 +0000">
-    <title>The Mighty Boosh</title>
-    <desc>Bob Fossil sets up an illegal kangaroo boxing match between the Killeroo and Howard.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118223410 +0000" stop="20261118230643 +0000">
-    <title>The Mighty Boosh</title>
-    <desc>All is not well at the Zooniverse. Animals are disappearing one by one.</desc>
-  </programme>
-  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118230643 +0000" stop="20261118233911 +0000">
-    <title>The Mighty Boosh</title>
-    <desc>Can Howard be saved from Monkey Hell and the Ape of Death?</desc>
-  </programme>
   <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261118233911 +0000" stop="20261119001205 +0000">
     <title>The Mighty Boosh</title>
     <desc>It's impossible to be unhappy in a poncho.</desc>
@@ -81980,65 +81788,169 @@ Exploring some of the most valuable treasures found in the most unlikely of ways
     <title>Red Dwarf</title>
     <desc>The Dwarfers find themselves in an alternative reality where technology is prohibited.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261117221005 +0000" stop="20261118004444 +0000">
-    <title>#BlackLove</title>
-    <desc>All of the women start making strides towards finding their own happy ending.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121000653 +0000" stop="20261121004022 +0000">
+    <title>Red Dwarf</title>
+    <desc>Lister and Cat get trapped when investigating a shipwreck at the bottom of an ocean moon.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118004444 +0000" stop="20261118022643 +0000">
-    <title>Love's Playlist</title>
-    <desc>It follows Amanda as she volunteers to lead a company launch party.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121004022 +0000" stop="20261121011419 +0000">
+    <title>Red Dwarf</title>
+    <desc>After an altercation with a deranged droid, Lister has his kidneys organ-napped.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118022643 +0000" stop="20261118041005 +0000">
-    <title>Loving Every Minute</title>
-    <desc>Stephanie inherits a watch that it allows her to travel back in time.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121011419 +0000" stop="20261121014634 +0000">
+    <title>Red Dwarf</title>
+    <desc>After a scandalous piece of good fortune, Rimmer is promoted to being an Officer.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118041005 +0000" stop="20261118064443 +0000">
-    <title>#BlackLove</title>
-    <desc>All of the women start making strides towards finding their own happy ending.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121014634 +0000" stop="20261121021751 +0000">
+    <title>Red Dwarf</title>
+    <desc>Kryten has a mid-life crisis and changes his body cover from grey to Ferrari red.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118064443 +0000" stop="20261118082642 +0000">
-    <title>Love's Playlist</title>
-    <desc>It follows Amanda as she volunteers to lead a company launch party.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121021751 +0000" stop="20261121025044 +0000">
+    <title>Red Dwarf</title>
+    <desc>Cat takes time off from being in love with himself to fall for a lady Cat.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118082642 +0000" stop="20261118101004 +0000">
-    <title>Loving Every Minute</title>
-    <desc>Stephanie inherits a watch that it allows her to travel back in time.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121025044 +0000" stop="20261121032431 +0000">
+    <title>Red Dwarf</title>
+    <desc>The crew stumble on a science centre where vile historical figures have been 'cured' of evil.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118101004 +0000" stop="20261118110000 +0000">
-    <title>#BlackLove</title>
-    <desc>All of the women start making strides towards finding their own happy ending.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121032431 +0000" stop="20261121035547 +0000">
+    <title>Red Dwarf</title>
+    <desc>Lister, Cat and Rimmer are uploaded into mechanoid bodies and forced into slavery.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118110000 +0000" stop="20261118124129 +0000">
-    <title>Food for the Heart</title>
-    <desc>Lia struggles to expand her non-profit meal delivery service.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121035547 +0000" stop="20261121042722 +0000">
+    <title>Red Dwarf</title>
+    <desc>The Dwarfers run into a ship where criticism is illegal.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118124129 +0000" stop="20261118142449 +0000">
-    <title>Love's Secret Ingredient</title>
-    <desc>The owner of a struggling market is forced to team up with a celebrity chef.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121042722 +0000" stop="20261121045909 +0000">
+    <title>Red Dwarf</title>
+    <desc>When the machines on Red Dwarf go on strike, a presidential election is held.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118142449 +0000" stop="20261118160802 +0000">
-    <title>A Slice of Romance</title>
-    <desc>Mikayla meets an aspiring pastry chef Austin, and the pair strike a deal.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121045909 +0000" stop="20261121053030 +0000">
+    <title>Red Dwarf</title>
+    <desc>The Dwarfers discover that the owners of Red Dwarf have been bought out.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118160802 +0000" stop="20261118170000 +0000">
-    <title>#BlackLove</title>
-    <desc>This week, the five women work on getting what they want in a relationship.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121053030 +0000" stop="20261121060227 +0000">
+    <title>Red Dwarf</title>
+    <desc>Rimmer looks for another dimension where he is not such a giant loser.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118170000 +0000" stop="20261118184129 +0000">
-    <title>Food for the Heart</title>
-    <desc>Lia struggles to expand her non-profit meal delivery service.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121060227 +0000" stop="20261121064026 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Eddy is preparing for a fashion show and trying to prove she can function without booze.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118184129 +0000" stop="20261118202449 +0000">
-    <title>Love's Secret Ingredient</title>
-    <desc>The owner of a struggling market is forced to team up with a celebrity chef.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121064026 +0000" stop="20261121071627 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Eddy embarks on an aggressive weight loss regime which includes 'sleep running'.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118202449 +0000" stop="20261118220802 +0000">
-    <title>A Slice of Romance</title>
-    <desc>Mikayla meets an aspiring pastry chef Austin, and the pair strike a deal.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121071627 +0000" stop="20261121075356 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>When Eddy and Patsy go to France, the language barrier is the least of their problems.</desc>
   </programme>
-  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118220802 +0000" stop="20261118230000 +0000">
-    <title>#BlackLove</title>
-    <desc>This week, the five women work on getting what they want in a relationship.</desc>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121075356 +0000" stop="20261121083002 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Banned from attending Saffron's college open day, Edina sulks in her new isolation tank.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121083002 +0000" stop="20261121090839 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Can Patsy persuade Saffy to help make her fashion show a success?</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121090839 +0000" stop="20261121094607 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina has reached a milestone - her 40th birthday. But it is not a cause for celebration.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121094607 +0000" stop="20261121102307 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina's father has died and Saffron tries, amidst the usual chaos, to organise a funeral.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121102307 +0000" stop="20261121110117 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Patsy plans to go to Marrakech for a photo shoot, so Edina and Saffy tag along.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121110117 +0000" stop="20261121113627 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina is forced to make economies when her ex-husband, Justin, stops paying her alimony.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121113627 +0000" stop="20261121121446 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina, Patsy and Saffy get locked in the living room and begin to reminisce about birth.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121121446 +0000" stop="20261121124946 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Patsy and Edina set out to find the perfect door handle - in New York.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121124946 +0000" stop="20261121132735 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina and Patsy await the arrival of Patsy's long-lost sister, Jackie.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121132735 +0000" stop="20261121140249 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Rival Claudia Bing poaches first an award, then a celebrity friend, from Edina.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121140249 +0000" stop="20261121143946 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Saffy moves out, so Patsy moves in - but can her friendship with Edina take the strain?</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121143946 +0000" stop="20261121151313 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina heads to a retreat to find herself, while Patsy goes to work in New York.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121151313 +0000" stop="20261121155047 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Patsy has had injections to freeze her wrinkles, and Edina has a TV appearance scheduled.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121155047 +0000" stop="20261121162637 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Eddy tries to charm Jago, the landscape gardener brother of a well known aristocrat.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121162637 +0000" stop="20261121170010 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Patsy and Edina travel to Paris for a photo-shoot in which old and young mingle.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121170010 +0000" stop="20261121173251 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina embarks on a detox diet, whilst Patsy tries life without a fringe.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121173251 +0000" stop="20261121180626 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Saffy's play looks set to embarrass Eddy, so she and bubble try to get it cancelled.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121180626 +0000" stop="20261121184039 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Eddy's company is losing clients, while Patsy seems to be going through the menopause.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121184039 +0000" stop="20261121191434 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Saffy arrives home from Iraq and she has some shocking news in store for Eddy.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121191434 +0000" stop="20261121194742 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Eddy meets with her book club to discuss the merits of a celebrity magazine.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121194742 +0000" stop="20261121202108 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Patsy persuades Minnie Driver to visit Eddy's for a personal styling session.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121202108 +0000" stop="20261121205643 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Eddy has splashed out on a weekend of country pursuits with Patsy.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121205643 +0000" stop="20261121212929 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>It's a big night for Patsy. She's about to host the Style Awards at the Royal Albert Hall.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121212929 +0000" stop="20261121221126 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Eddy wants to stay at home for Christmas this year, while Patsy is in a downward spiral.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121221126 +0000" stop="20261121224457 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121224457 +0000" stop="20261121231828 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina and Patsy are back for some award-winning Christmas comedy chaos in the world of PR.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-65622fb65dbccec83a87b643" start="20261121231828 +0000" stop="20261122002319 +0000">
+    <title>Absolutely Fabulous</title>
+    <desc>Edina goes to New York to find her long-lost son, while Patsy goes to cover fashion week.</desc>
   </programme>
   <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261118230000 +0000" stop="20261119004129 +0000">
     <title>Food for the Heart</title>
@@ -82143,5 +82055,41 @@ Exploring some of the most valuable treasures found in the most unlikely of ways
   <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261120224100 +0000" stop="20261121045912 +0000">
     <title>#BlackLove</title>
     <desc>All five of these women are independent and strong willed.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121045912 +0000" stop="20261121110000 +0000">
+    <title>#BlackLove</title>
+    <desc>All five of these women are independent and strong willed.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121110000 +0000" stop="20261121111725 +0000">
+    <title>Toni Braxton's Breathe Again</title>
+    <desc>Jennifer, Vanessa, and Evelyn meet as contestants on a reality dating show.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121111725 +0000" stop="20261121125610 +0000">
+    <title>#BlackLove</title>
+    <desc>All five of these women are independent and strong willed.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121125610 +0000" stop="20261121163027 +0000">
+    <title>Toni Braxton's He Wasn't Man Enough</title>
+    <desc>Mel's world unravels when she discovers her boyfriend has been deceiving her.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121163027 +0000" stop="20261121170000 +0000">
+    <title>MATCHED IN MANHATTAN</title>
+    <desc>Abiola re-enters dating; Linda seeks dream man; Matt opposes Tamsen's dog idea.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121170000 +0000" stop="20261121185610 +0000">
+    <title>Toni Braxton's Breathe Again</title>
+    <desc>Jennifer, Vanessa, and Evelyn meet as contestants on a reality dating show.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121185610 +0000" stop="20261121223028 +0000">
+    <title>Toni Braxton's He Wasn't Man Enough</title>
+    <desc>Mel's world unravels when she discovers her boyfriend has been deceiving her.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121223028 +0000" stop="20261121230001 +0000">
+    <title>MATCHED IN MANHATTAN</title>
+    <desc>Abiola re-enters dating; Linda seeks dream man; Matt opposes Tamsen's dog idea.</desc>
+  </programme>
+  <programme channel="6a1610bebdf296985fd95603-680adc83ea62ac6a05a626e6" start="20261121230001 +0000" stop="20261122005611 +0000">
+    <title>Toni Braxton's Breathe Again</title>
+    <desc>Jennifer, Vanessa, and Evelyn meet as contestants on a reality dating show.</desc>
   </programme>
   </tv>
