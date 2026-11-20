@@ -18,7 +18,7 @@ on:
     # IST (UTC+5:30), for reference:
     #   05:30 AM  07:30 AM  11:30 AM  01:30 PM  05:30 PM  12:30 AM  02:30 AM
     #                                            (next day) (next day)
-    - cron: "0 12,19,21,0,2,6,8 * * *"
+    - cron: "14 12,19,21,0,2,6,8 * * *"
   workflow_dispatch:
 
 # Give the workflow permission to write to the repo
