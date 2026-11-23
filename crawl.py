@@ -30,6 +30,7 @@ ts593
 DiscoveryChannel.in
 HistoryTV18.in
 NationalGeographic.in
+NATIONAL.GEOGRAPHIC.in
 SonySportsTEN1.in
 MTV.in
 Colors.in
